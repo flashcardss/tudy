@@ -1,3 +1,5 @@
+document.addEventListener("DOMContentLoaded", () => {
+
 let flashcards = [];
 let current = 0;
 let answerVisible = false;
