@@ -60,3 +60,4 @@ prevBtn.addEventListener("click", () => {
 
     showCard();
 });
+});
