@@ -1,7 +1,28 @@
 // Dades extretes estrictament de la font de dades proporcionada per l'usuari (EAPC Wiki - 5. Sistema retributiu)
 const CURS_BASE = "oposicions_cos_superior";
     let rawData = [];
+async function inicialitzarSelector() {
 
+    const index = await carregarIndex();
+
+    const select = document.getElementById("temaSelect");
+
+    select.innerHTML = "";
+
+    index.forEach(item => {
+
+        const option = document.createElement("option");
+
+        option.value = item.fitxer;
+
+        option.textContent =
+            `${item.bloc} - ${item.tema}`;
+
+        select.appendChild(option);
+
+    });
+
+}
 async function loadFlashcards() {
     const response = await fetch('flashcards.json');
     rawData = await response.json();
