@@ -1,5 +1,18 @@
-alert("JS ESTÀ CARREGANT");
 // Dades extretes estrictament de la font de dades proporcionada per l'usuari (EAPC Wiki - 5. Sistema retributiu)
+fetch("index.json")
+  .then(r => r.json())
+  .then(data => {
+
+      const select = document.getElementById("temaSelect");
+
+      data.forEach(item => {
+          const option = document.createElement("option");
+          option.value = item.fitxer;
+          option.textContent = `${item.bloc} - ${item.tema}`;
+          select.appendChild(option);
+      });
+
+  });
 const CURS_BASE = "oposicions_cos_superior";
     let rawData = [];
 async function inicialitzarSelector() {
