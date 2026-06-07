@@ -1,3 +1,4 @@
+alert("JS ESTÀ CARREGANT");
 // Dades extretes estrictament de la font de dades proporcionada per l'usuari (EAPC Wiki - 5. Sistema retributiu)
 const CURS_BASE = "oposicions_cos_superior";
     let rawData = [];
