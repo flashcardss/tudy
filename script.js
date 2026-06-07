@@ -11,6 +11,8 @@ let currentCard = 0;
 // =======================
 window.addEventListener("DOMContentLoaded", async () => {
 
+    console.log("INDEX RAW RESPONSE OK");
+    console.log("INDEX DATA:", index);
     console.log("DOM carregat");
 
     const select = document.getElementById("temaSelect");
@@ -39,9 +41,35 @@ window.addEventListener("DOMContentLoaded", async () => {
 // =======================
 // CARREGAR INDEX.JSON
 // =======================
-async function carregarIndex() {
-    const response = await fetch("index.json");
-    return await response.json();
+async function inicialitzarSelector() {
+    try {
+        const response = await fetch("index.json");
+
+        console.log("STATUS INDEX:", response.status);
+
+        const text = await response.text();
+        console.log("RAW INDEX:", text);
+
+        const index = JSON.parse(text);
+
+        const select = document.getElementById("temaSelect");
+
+        select.innerHTML = "";
+
+        index.forEach(item => {
+            console.log("ITEM:", item);
+
+            const option = document.createElement("option");
+            option.value = item.fitxer;
+            option.textContent = `${item.bloc} - ${item.tema}`;
+            select.appendChild(option);
+        });
+
+        console.log("SELECT OMPLERT");
+
+    } catch (err) {
+        console.error("ERROR INDEX:", err);
+    }
 }
 
 // =======================
