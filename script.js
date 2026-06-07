@@ -38,7 +38,11 @@ showBtn.addEventListener("click", () => {
     flashcardEl.classList.toggle("flip");
 
 });
+flashcardEl.addEventListener("click", () => {
 
+    flashcardEl.classList.toggle("flip");
+
+});
 nextBtn.addEventListener("click", () => {
 
     current++;
