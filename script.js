@@ -35,6 +35,16 @@ async function carregarTema(rutaFitxer) {
     mostrarTargeta();
 
 }
+document
+    .getElementById("carregarTema")
+    .addEventListener("click", async () => {
+
+        const ruta =
+            document.getElementById("temaSelect").value;
+
+        await carregarTema(ruta);
+
+    });
 async function loadFlashcards() {
     const response = await fetch('flashcards.json');
     rawData = await response.json();
@@ -343,6 +353,9 @@ document.getElementById('back-text').innerHTML = respostaHtml;
             updateChart();
         }
     };
-
+window.addEventListener(
+    "DOMContentLoaded",
+    inicialitzarSelector
+);
     window.onload = init;
     window.onresize = setupChart;
