@@ -23,6 +23,18 @@ async function inicialitzarSelector() {
     });
 
 }
+async function carregarTema(rutaFitxer) {
+
+    const response =
+        await fetch(`${CURS_BASE}/${rutaFitxer}`);
+
+    cards = await response.json();
+
+    currentCard = 0;
+
+    mostrarTargeta();
+
+}
 async function loadFlashcards() {
     const response = await fetch('flashcards.json');
     rawData = await response.json();
