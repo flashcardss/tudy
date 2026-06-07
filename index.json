@@ -1,0 +1,22 @@
+[
+  {
+    "bloc": "Bloc1",
+    "tema": "Tema 1",
+    "fitxer": "Bloc1/Tema1.json"
+  },
+  {
+    "bloc": "Bloc1",
+    "tema": "Tema 2",
+    "fitxer": "Bloc1/Tema2.json"
+  },
+  {
+    "bloc": "Bloc2",
+    "tema": "Tema 3",
+    "fitxer": "Bloc2/Tema3.json"
+  },
+  {
+    "bloc": "Bloc2",
+    "tema": "Tema 4",
+    "fitxer": "Bloc2/Tema4.json"
+  }
+]
