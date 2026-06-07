@@ -11,6 +11,9 @@ fetch("index.json")
           option.textContent = `${item.bloc} - ${item.tema}`;
           select.appendChild(option);
       });
+document.addEventListener("DOMContentLoaded", async () => {
+
+    await inicialitzarSelector();
 
   });
 const CURS_BASE = "oposicions_cos_superior";
@@ -366,10 +369,13 @@ document.getElementById('back-text').innerHTML = respostaHtml;
             startNewEssay();
             updateChart();
         }
-    };
-window.addEventListener(
-    "DOMContentLoaded",
-    inicialitzarSelector
+window.addEventListener("DOMContentLoaded", async () => {
+
+    await inicialitzarSelector();
+
+    await init(); // si encara vols mantenir el sistema antic
+
+});
 );
-    window.onload = init;
+
     window.onresize = setupChart;
