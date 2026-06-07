@@ -17,6 +17,13 @@ async function loadFlashcards() {
     let chartCtx = null;
     let currentEssayType = ""; 
 
+async function carregarIndex() {
+
+    const response = await fetch("index.json");
+
+    return await response.json();
+
+}
     async function init() {
         await loadFlashcards();
         sourceCards = rawData.map(d => ({
