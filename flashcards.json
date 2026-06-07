@@ -1,237 +1,237 @@
 [
         {
-            "id": 1,
-            "question": "Fonament constitucional del dret a la percepció de les retribucions",
-            "answer": "El dret a ser retribuït és un dels drets individuals dels empleats públics en correspondència amb la seva relació de servei (contraprestació al treball). Troba el seu reconeixement formal en la correspondència entre treball i retribució de l’article 35 de la Constitució Espanyola (CE)."
+            id: 1,
+            word: "Fonament constitucional del dret a la percepció de les retribucions",
+            reason: "El dret a ser retribuït és un dels drets individuals dels empleats públics en correspondència amb la seva relació de servei (contraprestació al treball). Troba el seu reconeixement formal en la correspondència entre treball i retribució de l’article 35 de la Constitució Espanyola (CE)."
         },
         {
-            "id": 2,
-            "question": "Criteri de disseny del sistema retributiu bàsic estatal",
-            "answer": "La normativa bàsica estatal fonamenta el sistema en el criteri del lloc de treball que exerceix efectivament el funcionari o funcionària. Això dona més pes a les retribucions lligades al lloc de treball que no pas a les retribucions que són conseqüència del cos o escala de pertinença."
+            id: 2,
+            word: "Criteri de disseny del sistema retributiu bàsic estatal",
+            reason: "La normativa bàsica estatal fonamenta el sistema en el criteri del lloc de treball que exerceix efectivament el funcionari o funcionària. Això dona més pes a les retribucions lligades al lloc de treball que no pas a les retribucions que són conseqüència del cos o escala de pertinença."
         },
         {
-            "id": 3,
-            "question": "Classificació de retribucions del personal funcionari segons el TREBEP",
-            "answer": "Es classifiquen en:\n• Retribucions bàsiques: retribueixen segons l'adscripció del cos o escala a un subgrup o grup professional i per la seva antiguitat. Inclouen el sou i els triennis de les pagues extraordinàries.\n• Retribucions complementàries: retribueixen les característiques dels llocs de treball, la carrera professional, l'acompliment, o el rendiment i resultats assolits."
+            id: 3,
+            word: "Classificació de retribucions del personal funcionari segons el TREBEP",
+            reason: "Es classifiquen en:\n• Retribucions bàsiques: retribueixen segons l'adscripció del cos o escala a un subgrup o grup professional i per la seva antiguitat. Inclouen el sou i els triennis de les pagues extraordinàries.\n• Retribucions complementàries: retribueixen les característiques dels llocs de treball, la carrera professional, l'acompliment, o el rendiment i resultats assolits."
         },
         {
-            "id": 4,
-            "question": "Principi d'uniformitat en les retribucions bàsiques",
-            "answer": "Les retribucions bàsiques responen al principi d'uniformitat respecte de tots els funcionaris públics. Per aquest motiu, tant la seva estructura com la seva quantia són d'estricta observança per part de totes les Administracions Públiques sense excepció."
+            id: 4,
+            word: "Principi d'uniformitat en les retribucions bàsiques",
+            reason: "Les retribucions bàsiques responen al principi d'uniformitat respecte de tots els funcionaris públics. Per aquest motiu, tant la seva estructura com la seva quantia són d'estricta observança per part de totes les Administracions Públiques sense excepció."
         },
         {
-            "id": 5,
-            "question": "Principi d'igualtat retributiva (Art. 100 TRLFP)",
-            "answer": "Estableix que els llocs de treball que requereixin la mateixa titulació i el mateix grau de responsabilitat i dificultat, i unes condicions de treball semblants, han de tenir el mateix nivell i complement específic (avalat per la Sentència TSJ Catalunya, de 13 d'abril de 2011)."
+            id: 5,
+            word: "Principi d'igualtat retributiva (Art. 100 TRLFP)",
+            reason: "Estableix que els llocs de treball que requereixin la mateixa titulació i el mateix grau de responsabilitat i dificultat, i unes condicions de treball semblants, han de tenir el mateix nivell i complement específic (avalat per la Sentència TSJ Catalunya, de 13 d'abril de 2011)."
         },
         {
-            "id": 6,
-            "question": "Prohibició d'ingressos atípics",
-            "answer": "Derivat del principi de legalitat, els funcionaris (amb l'excepció dels sotmesos a règim d'aranzel) tenen prohibit:\n1) Percebre participació dels tributs, comissions i altres ingressos de l'Administració com a prestació per qualsevol servei.\n2) Percebre participació de les multes imposades o premis relacionats, encara que ho atribueixi una norma. No poden participar en la distribució de fons de cap classe."
+            id: 6,
+            word: "Prohibició d'ingressos atípics",
+            reason: "Derivat del principi de legalitat, els funcionaris (amb l'excepció dels sotmesos a règim d'aranzel) tenen prohibit:\n1) Percebre participació dels tributs, comissions i altres ingressos de l'Administració com a prestació per qualsevol servei.\n2) Percebre participació de les multes imposades o premis relacionats, encara que ho atribueixi una norma. No poden participar en la distribució de fons de cap classe."
         },
         {
-            "id": 7,
-            "question": "Elements flexibilitzadors de l'EBEP (Art. 24) en Complements",
-            "answer": "L'article 24 habilita les Administracions a establir per llei l'estructura de les retribucions complementàries seguint aquests criteris:\n• Carrera administrativa: progressió assolida (es retribueix amb el complement de destinació).\n• Característiques del lloc: dificultat tècnica, responsabilitat, dedicació, incompatibilitat o condicions de treball (es retribueix amb el complement específic).\n• Rendiment: grau d'interès, iniciativa o esforç i resultats (complement de productivitat).\n• Serveis extraordinaris: fets fora de la jornada normal (gratificacions)."
+            id: 7,
+            word: "Elements flexibilitzadors de l'EBEP (Art. 24) en Complements",
+            reason: "L'article 24 habilita les Administracions a establir per llei l'estructura de les retribucions complementàries seguint aquests criteris:\n• Carrera administrativa: progressió assolida (es retribueix amb el complement de destinació).\n• Característiques del lloc: dificultat tècnica, responsabilitat, dedicació, incompatibilitat o condicions de treball (es retribueix amb el complement específic).\n• Rendiment: grau d'interès, iniciativa o esforç i resultats (complement de productivitat).\n• Serveis extraordinaris: fets fora de la jornada normal (gratificacions)."
         },
         {
-            "id": 8,
-            "question": "Altres percepcions econòmiques amb empara normativa específica",
-            "answer": "Són percepcions fora del bloc retributiu estàndard que requereixen previsions pròpies:\n• Indemnitzacions per raó del servei.\n• Aportacions a plans de pensions.\n• Complements personals transitoris.\n• Acció social.\n• Bestretes.\n• Premis o recompenses (molt limitats per la normativa pressupostària de l'Estat i l'àmbit militar)."
+            id: 8,
+            word: "Altres percepcions econòmiques amb empara normativa específica",
+            reason: "Són percepcions fora del bloc retributiu estàndard que requereixen previsions pròpies:\n• Indemnitzacions per raó del servei.\n• Aportacions a plans de pensions.\n• Complements personals transitoris.\n• Acció social.\n• Bestretes.\n• Premis o recompenses (molt limitats per la normativa pressupostària de l'Estat i l'àmbit militar)."
         },
         {
-            "id": 9,
-            "question": "Definició de Salari segons l'Estatut dels Treballadors (Art. 26)",
-            "answer": "És la totalitat de les percepcions econòmiques dels treballadors, en diners o en espècie, per la prestació professional dels serveis laborals per compte d'altri, ja retribueixin el treball efectiu o els períodes de descans computables com de treball."
+            id: 9,
+            word: "Definició de Salari segons l'Estatut dels Treballadors (Art. 26)",
+            reason: "És la totalitat de les percepcions econòmiques dels treballadors, en diners o en espècie, per la prestació professional dels serveis laborals per compte d'altri, ja retribueixin el treball efectiu o els períodes de descans computables com de treball."
         },
         {
-            "id": 10,
-            "question": "Retribucions extrasalarials del personal laboral",
-            "answer": "Són percepcions destinades a compensar les despeses derivades del desenvolupament de l'activitat laboral o a indemnitzar possibles perjudicis del treballador. La diferència amb el salari és rellevant perquè té efectes directes en els períodes de descans, mitjans de protecció o possibles indemnitzacions."
+            id: 10,
+            word: "Retribucions extrasalarials del personal laboral",
+            reason: "Són percepcions destinades a compensar les despeses derivades del desenvolupament de l'activitat laboral o a indemnitzar possibles perjudicis del treballador. La diferència amb el salari és rellevant perquè té efectes directes en els períodes de descans, mitjans de protecció o possibles indemnitzacions."
         },
         {
-            "id": 11,
-            "question": "Principi d'irrellevància de la denominació assignada",
-            "answer": "És una doctrina jurisprudencial de l'àmbit laboral: preval la veritable causa que determina l'abonament del concepte per sobre del nom assignat pel conveni o contracte. Si retribueix el treball realitzat, s'ha de qualificar legalment com a salari al marge de la denominació utilitzada per les parts."
+            id: 11,
+            word: "Principi d'irrellevància de la denominació assignada",
+            reason: "És una doctrina jurisprudencial de l'àmbit laboral: preval la veritable causa que determina l'abonament del concepte per sobre del nom assignat pel conveni o contracte. Si retribueix el treball realitzat, s'ha de qualificar legalment com a salari al marge de la denominació utilitzada per les parts."
         },
         {
-            "id": 12,
-            "question": "Principi de reciprocitat i proporcionalitat (Relació sinal·lagmàtica)",
-            "answer": "En l'àmbit laboral, implica la necessària proporcionalitat entre la jornada de treball i les retribucions. S'entén que els imports de les taules del conveni col·lectiu corresponen a la jornada ordinària completa; per tant, a una jornada inferior li correspon proporcionalment un salari inferior."
+            id: 12,
+            word: "Principi de reciprocitat i proporcionalitat (Relació sinal·lagmàtica)",
+            reason: "En l'àmbit laboral, implica la necessària proporcionalitat entre la jornada de treball i les retribucions. S'entén que els imports de les taules del conveni col·lectiu corresponen a la jornada ordinària completa; per tant, a una jornada inferior li correspon proporcionalment un salari inferior."
         },
         {
-            "id": 13,
-            "question": "Determinació de retribucions del personal laboral en el Sector Públic",
-            "answer": "Segons l'article 27 del TREBEP, es determinen d'acord amb la legislació laboral, el conveni col·lectiu aplicable (a la Generalitat, el VIè Conveni col·lectiu únic) i el contracte de treball, respectant sempre les limitacions establertes en la normativa pressupostària anual sobre l'increment de la massa salarial."
+            id: 13,
+            word: "Determinació de retribucions del personal laboral en el Sector Públic",
+            reason: "Segons l'article 27 del TREBEP, es determinen d'acord amb la legislació laboral, el conveni col·lectiu aplicable (a la Generalitat, el VIè Conveni col·lectiu únic) i el contracte de treball, respectant sempre les limitacions establertes en la normativa pressupostària anual sobre l'increment de la massa salarial."
         },
         {
-            "id": 14,
-            "question": "Normes bàsiques d'abonament del VIè Conveni Col·lectiu Únic",
-            "answer": "• Els salaris meritats s'han d'abonar en períodes mensuals.\n• Els rebuts de salari (nòmines) han d'estendre's en models oficials o substitutius, degudament desglossats i especificant les retencions practicades."
+            id: 14,
+            word: "Normes bàsiques d'abonament del VIè Conveni Col·lectiu Únic",
+            reason: "• Els salaris meritats s'han d'abonar en períodes mensuals.\n• Els rebuts de salari (nòmines) han d'estendre's en models oficials o substitutius, degudament desglossats i especificant les retencions practicades."
         },
         {
-            "id": 15,
-            "question": "Eficàcia diferida de l'EBEP i vigència de la Llei 30/1984",
-            "answer": "L'EBEP va optar per una entrada en vigor diferida dels drets retributius (Cap. III, Títol III) fins al desenvolupament de les noves lleis de funció pública de cada Administració. L'única excepció immediata va ser el dret del personal interí als triennis (Art. 25.2). Per tant, els articles 23 i 24 de la Llei 30/1984 es mantenen vigents de forma transitòria fins a l'aprovació d'aquestes lleis."
+            id: 15,
+            word: "Eficàcia diferida de l'EBEP i vigència de la Llei 30/1984",
+            reason: "L'EBEP va optar per una entrada en vigor diferida dels drets retributius (Cap. III, Títol III) fins al desenvolupament de les noves lleis de funció pública de cada Administració. L'única excepció immediata va ser el dret del personal interí als triennis (Art. 25.2). Per tant, els articles 23 i 24 de la Llei 30/1984 es mantenen vigents de forma transitòria fins a l'aprovació d'aquestes lleis."
         },
         {
-            "id": 16,
-            "question": "Marc normatiu de rang legal del personal funcionari de la Generalitat",
-            "answer": "Està integrat per:\n1) L'Estatut bàsic de l'empleat públic (TREBEP).\n2) El Text Únic de la Llei de la funció pública de l'Administració de la Generalitat (TRLFP).\n3) Les Lleis de pressupostos Generals de l'Estat de cada exercici.\n4) Les Lleis de pressupostos de la Generalitat de Catalunya de cada exercici."
+            id: 16,
+            word: "Marc normatiu de rang legal del personal funcionari de la Generalitat",
+            reason: "Està integrat per:\n1) L'Estatut bàsic de l'empleat públic (TREBEP).\n2) El Text Únic de la Llei de la funció pública de l'Administració de la Generalitat (TRLFP).\n3) Les Lleis de pressupostos Generals de l'Estat de cada exercici.\n4) Les Lleis de pressupostos de la Generalitat de Catalunya de cada exercici."
         },
         {
-            "id": 17,
-            "question": "Àmbit d'aplicació i exclusió del règim retributiu funcionarial",
-            "answer": "S'aplica a tot el personal subjecte a règim funcionarial que desenvolupa llocs de treball inclosos en les RLT de personal funcionari de la Generalitat i el seu sector públic. Queda exclòs el personal de les entitats de dret públic subjectes a dret privat (vinculació laboral), excepte si la RLT d'aquestes entitats reserva expressament determinats llocs a personal funcionari per les seves funcions."
+            id: 17,
+            word: "Àmbit d'aplicació i exclusió del règim retributiu funcionarial",
+            reason: "S'aplica a tot el personal subjecte a règim funcionarial que desenvolupa llocs de treball inclosos en les RLT de personal funcionari de la Generalitat i el seu sector públic. Queda exclòs el personal de les entitats de dret públic subjectes a dret privat (vinculació laboral), excepte si la RLT d'aquestes entitats reserva expressament determinats llocs a personal funcionari per les seves funcions."
         },
         {
-            "id": 18,
-            "question": "Silenci administratiu negatiu en matèria de personal (Llei 2/2021)",
-            "answer": "La Llei 2/2021 (Art. 49 m) determina que el silenci té efectes desestimatoris (sentit negatiu) una vegada transcorregut el termini sense resolució expressa en procediments a instància de part sobre: atorgament de dietes, assistències, indemnitzacions per raó del servei, bestretes, o qualsevol procediment amb efectes econòmics o que pugui afectar la prestació correcta dels serveis."
+            id: 18,
+            word: "Silenci administratiu negatiu en matèria de personal (Llei 2/2021)",
+            reason: "La Llei 2/2021 (Art. 49 m) determina que el silenci té efectes desestimatoris (sentit negatiu) una vegada transcorregut el termini sense resolució expressa en procediments a instància de part sobre: atorgament de dietes, assistències, indemnitzacions per raó del servei, bestretes, o qualsevol procediment amb efectes econòmics o que pugui afectar la prestació correcta dels serveis."
         },
         {
-            "id": 19,
-            "question": "Naturalesa de les Retribucions Bàsiques dels funcionaris",
-            "answer": "Constitueixen un autèntic dret subjectiu del funcionari que es té amb independència del lloc de treball que es desenvolupa i de les seves circumstàncies. Els imports es fixen a la Llei de Pressupostos Generals de l'Estat i han de ser exactament iguals a totes les administracions públiques per a cada grup de classificació."
+            id: 19,
+            word: "Naturalesa de les Retribucions Bàsiques dels funcionaris",
+            reason: "Constitueixen un autèntic dret subjectiu del funcionari que es té amb independència del lloc de treball que es desenvolupa i de les seves circumstàncies. Els imports es fixen a la Llei de Pressupostos Generals de l'Estat i han de ser exactament iguals a totes les administracions públiques per a cada grup de classificació."
         },
         {
-            "id": 20,
-            "question": "Regles de fixació del Sou funcionarial",
-            "answer": "Es fixa en atenció a cadascun dels subgrups de classificació. Tot el personal funcionari i interí del mateix subgrup percep el mateix sou de base, independentment del seu nivell o lloc de treball. Per llei, el sou dels funcionaris del grup A no pot excedir més de tres vegades el sou dels funcionaris del grup E."
+            id: 20,
+            word: "Regles de fixació del Sou funcionarial",
+            reason: "Es fixa en atenció a cadascun dels subgrups de classificació. Tot el personal funcionari i interí del mateix subgrup percep el mateix sou de base, independentment del seu nivell o lloc de treball. Per llei, el sou dels funcionaris del grup A no pot excedir més de tres vegades el sou dels funcionaris del grup E."
         },
         {
-            "id": 21,
-            "question": "Regles de còmput i perfeccionament dels Triennis funcionaris",
-            "answer": "Consisteixen en una quantitat igual per a cada subgrup per cada 3 anys de servei. Són independents de la carrera professional. Si els 3 anys s'han prestat en grups diferents, es computa tot el trienni amb l'import del subgrup de la plaça en què el funcionari estigui en actiu en el moment exacte de perfeccionar-lo."
+            id: 21,
+            word: "Regles de còmput i perfeccionament dels Triennis funcionaris",
+            reason: "Consisteixen en una quantitat igual per a cada subgrup per cada 3 anys de servei. Són independents de la carrera professional. Si els 3 anys s'han prestat en grups diferents, es computa tot el trienni amb l'import del subgrup de la plaça en què el funcionari estigui en actiu en el moment exacte de perfeccionar-lo."
         },
         {
-            "id": 22,
-            "question": "Efectes econòmics del venciment dels triennis",
-            "answer": "Són vigents a partir del dia 1 del mes següent al de la data de venciment. L'única excepció és si la data de venciment del trienni coincideix exactament amb el dia 1 del mes, supòsit en el qual els efectes econòmics s'apliquen des d'aquell mateix dia."
+            id: 22,
+            word: "Efectes econòmics del venciment dels triennis",
+            reason: "Són vigents a partir del dia 1 del mes següent al de la data de venciment. L'única excepció és si la data de venciment del trienni coincideix exactament amb el dia 1 del mes, supòsit en el qual els efectes econòmics s'apliquen des d'aquell mateix dia."
         },
         {
-            "id": 23,
-            "question": "Autonomia financera i el seu límit en Retribucions Complementàries",
-            "answer": "Les comunitats autònomes tenen autonomia per determinar les retribucions complementàries dels llocs de treball, però l'Estat limita globalment els increments en base a l'article 149.1.13 CE (coordinació de la planificació general de l'activitat econòmica). Les administracions públiques no poden acordar increments retributius globals superiors als límits establerts anualment a la Llei de Pressupostos de l'Estat."
+            id: 23,
+            word: "Autonomia financera i el seu límit en Retribucions Complementàries",
+            reason: "Les comunitats autònomes tenen autonomia per determinar les retribucions complementàries dels llocs de treball, però l'Estat limita globalment els increments en base a l'article 149.1.13 CE (coordinació de la planificació general de l'activitat econòmica). Les administracions públiques no poden acordar increments retributius globals superiors als límits establerts anualment a la Llei de Pressupostos de l'Estat."
         },
         {
-            "id": 24,
-            "question": "Modificació singular de complements vs Pujada generalitzada",
-            "answer": "Les lleis de pressupostos permeten adequacions retributives de caràcter singular i excepcional imprescindibles pel contingut de llocs de treball concrets (afectant complement de destí o específic). No obstant això, la jurisprudència (com la STS 5297/2005) prohibeix les línies de pujada generalitzada de complements específics dissimulades si no estan justificades per raons objectives de singularitat."
+            id: 24,
+            word: "Modificació singular de complements vs Pujada generalitzada",
+            reason: "Les lleis de pressupostos permeten adequacions retributives de caràcter singular i excepcional imprescindibles pel contingut de llocs de treball concrets (afectant complement de destí o específic). No obstant això, la jurisprudència (com la STS 5297/2005) prohibeix les línies de pujada generalitzada de complements específics dissimulades si no estan justificades per raons objectives de singularitat."
         },
         {
-            "id": 25,
-            "question": "Evolució de la naturalesa de les pagues extraordinàries",
-            "answer": "Mentre la Llei 30/1984 les incloïa formalment com a retribucions bàsiques, l'article 22.3 del TREBEP les diferencia i aïlla com un concepte propi, establint que tenen naturalesa de retribució bàsica exclusivament els components de sou i triennis que s'hi inclouen. Des del 2010 (mesures de reducció del dèficit), l'import de sou i triennis d'una paga extra és inferior al d'una mensualitat ordinària."
+            id: 25,
+            word: "Evolució de la naturalesa de les pagues extraordinàries",
+            reason: "Mentre la Llei 30/1984 les incloïa formalment com a retribucions bàsiques, l'article 22.3 del TREBEP les diferencia i aïlla com un concepte propi, establint que tenen naturalesa de retribució bàsica exclusivament els components de sou i triennis que s'hi inclouen. Des del 2010 (mesures de reducció del dèficit), l'import de sou i triennis d'una paga extra és inferior al d'una mensualitat ordinària."
         },
         {
-            "id": 26,
-            "question": "Mètodes i dates de meritació de les Pagues Extres (Funcionaris)",
-            "answer": "Es calculen per semestres naturals immediatament anteriors i es meriten en referència a la situació i drets del funcionari els dies 1 de juny i 1 de desembre:\n• Paga de Juny: del 1 de desembre de l'any anterior al 31 de maig de l'any en curs (182 dies, o 183 si és bixest).\n• Paga de Desembre: del 1 de juny al 30 de novembre de l'any en curs (183 dies naturals)."
+            id: 26,
+            word: "Mètodes i dates de meritació de les Pagues Extres (Funcionaris)",
+            reason: "Es calculen per semestres naturals immediatament anteriors i es meriten en referència a la situació i drets del funcionari els dies 1 de juny i 1 de desembre:\n• Paga de Juny: del 1 de desembre de l'any anterior al 31 de maig de l'any en curs (182 dies, o 183 si és bixest).\n• Paga de Desembre: del 1 de juny al 30 de novembre de l'any en curs (183 dies naturals)."
         },
         {
-            "id": 27,
-            "question": "Paga extra en casos de llicència sense retribució i cessament",
-            "answer": "• Llicència sense retribució: s'acredita al juny o desembre, però es descompten proporcionalment els dies exactes de gaudiment de la llicència.\n• Cessament ordinari: s'acredita el mateix dia del cessament amb referència als drets de la data, pagant-se la part proporcional dels dies treballats en el període.\n• Cessament per jubilació, mort o retir (Classes Passives): el càlcul no es fa per dies naturals sinó per mensualitats completes (es compta el mes sencer de la baixa)."
+            id: 27,
+            word: "Paga extra en casos de llicència sense retribució i cessament",
+            reason: "• Llicència sense retribució: s'acredita al juny o desembre, però es descompten proporcionalment els dies exactes de gaudiment de la llicència.\n• Cessament ordinari: s'acredita el mateix dia del cessament amb referència als drets de la data, pagant-se la part proporcional dels dies treballats en el període.\n• Cessament per jubilació, mort o retir (Classes Passives): el càlcul no es fa per dies naturals sinó per mensualitats completes (es compta el mes sencer de la baixa)."
         },
         {
-            "id": 28,
-            "question": "Exemple pràctic de Paga Extra de Desembre (Funcionari Interí)",
-            "answer": "Si un funcionari interí s'incorpora el dia 1 de setembre, a la nòmina de desembre se li calcula el període reixit de l'1 de juny al 30 de novembre. Ha treballat setembre (30), octubre (31) i novembre (30) = 91 dies. Li correspon exactament la proporció de 91 dies sobre els 183 dies naturals del total del període de meritació."
+            id: 28,
+            word: "Exemple pràctic de Paga Extra de Desembre (Funcionari Interí)",
+            reason: "Si un funcionari interí s'incorpora el dia 1 de setembre, a la nòmina de desembre se li calcula el període reixit de l'1 de juny al 30 de novembre. Ha treballat setembre (30), octubre (31) i novembre (30) = 91 dies. Li correspon exactament la proporció de 91 dies sobre els 183 dies naturals del total del període de meritació."
         },
         {
-            "id": 29,
-            "question": "Avaluació del Complement de Productivitat: Competències de Comandament",
-            "answer": "Segons l'Acord de la Mesa General de Negociació, s'avalua el personal de l'Acord de condicions de treball de 2006-2009. Per a llocs de comandament s'avaluen 4 competències:\n1) Planificació i organització.\n2) Orientació als resultats i a la qualitat.\n3) Direcció i desenvolupament de persones.\n4) Flexibilitat i gestió del canvi."
+            id: 29,
+            word: "Avaluació del Complement de Productivitat: Competències de Comandament",
+            reason: "Segons l'Acord de la Mesa General de Negociació, s'avalua el personal de l'Acord de condicions de treball de 2006-2009. Per a llocs de comandament s'avaluen 4 competències:\n1) Planificació i organització.\n2) Orientació als resultats i a la qualitat.\n3) Direcció i desenvolupament de persones.\n4) Flexibilitat i gestió del canvi."
         },
         {
-            "id": 30,
-            "question": "Avaluació del Complement de Productivitat: Resta de llocs",
-            "answer": "Per al personal que no ocupa llocs de comandament, s'avaluen les següents 4 competències:\n1) Orientació als resultats i a la millora.\n2) Iniciativa.\n3) Adaptabilitat.\n4) Capacitat de treball en equip."
+            id: 30,
+            word: "Avaluació del Complement de Productivitat: Resta de llocs",
+            reason: "Per al personal que no ocupa llocs de comandament, s'avaluen les següents 4 competències:\n1) Orientació als resultats i a la millora.\n2) Iniciativa.\n3) Adaptabilitat.\n4) Capacitat de treball en equip."
         },
         {
-            "id": 31,
-            "question": "Ponderació i puntuació de l'avaluació de Productivitat",
-            "answer": "Cada competència es qualifica amb tres nivells d'assoliment: baix, mig i alt. Es realitza una valoració ponderada de les puntuacions:\n• Autoavaluació de l'empleat: representa el 40% de la puntuació total.\n• Avaluació del superior jeràrquic (després de l'entrevista): representa el 60% de la puntuació total."
+            id: 31,
+            word: "Ponderació i puntuació de l'avaluació de Productivitat",
+            reason: "Cada competència es qualifica amb tres nivells d'assoliment: baix, mig i alt. Es realitza una valoració ponderada de les puntuacions:\n• Autoavaluació de l'empleat: representa el 40% de la puntuació total.\n• Avaluació del superior jeràrquic (després de l'entrevista): representa el 60% de la puntuació total."
         },
         {
-            "id": 32,
-            "question": "Criteris d'exclusió automàtica del Complement de Productivitat",
-            "answer": "No es té dret a percebre el complement de productivitat si es dona algun d'aquests supòsits:\na) La puntuació total assignada és inferior a 10 punts.\nb) S'assigna un nivell baix en dues competències.\nc) S'assigna un nivell baix en una competència i un nivell mig en altres tres competències.\nd) Haver prestat serveis per un període inferior a 6 mesos (llevat de jubilació o defunció).\ne) Haver estat objecte d'una sanció disciplinària ferma per falta greu o molt greu."
+            id: 32,
+            word: "Criteris d'exclusió automàtica del Complement de Productivitat",
+            reason: "No es té dret a percebre el complement de productivitat si es dona algun d'aquests supòsits:\na) La puntuació total assignada és inferior a 10 punts.\nb) S'assigna un nivell baix en dues competències.\nc) S'assigna un nivell baix en una competència i un nivell mig en altres tres competències.\nd) Haver prestat serveis per un període inferior a 6 mesos (llevat de jubilació o defunció).\ne) Haver estat objecte d'una sanció disciplinària ferma per falta greu o molt greu."
         },
         {
-            "id": 33,
-            "question": "Complement de Productivitat en el Personal Laboral",
-            "answer": "L'article 42 del VI Conveni col·lectiu únic estén al personal laboral el sistema del complement de productivitat funcionarial. Els resulten d'aplicació les mateixes normes del Govern. Durant la vigència del conveni, aquest col·lectiu gaudeix d'una distribució lineal del 50% de la quantia assignada al complement en el seu grup professional."
+            id: 33,
+            word: "Complement de Productivitat en el Personal Laboral",
+            reason: "L'article 42 del VI Conveni col·lectiu únic estén al personal laboral el sistema del complement de productivitat funcionarial. Els resulten d'aplicació les mateixes normes del Govern. Durant la vigència del conveni, aquest col·lectiu gaudeix d'una distribució lineal del 50% de la quantia assignada al complement en el seu grup professional."
         },
         {
-            "id": 34,
-            "question": "Publicitat i transparència de la Productivitat",
-            "answer": "Els complements de productivitat concedits han de ser de coneixement públic per a la resta del personal inclòs en l'àmbit d'aplicació. Les secretaries generals dels departaments tenen l'obligació expressa de garantir l'accés del personal interessat a les llistes definitives d'incentius."
+            id: 34,
+            word: "Publicitat i transparència de la Productivitat",
+            reason: "Els complements de productivitat concedits han de ser de coneixement públic per a la resta del personal inclòs en l'àmbit d'aplicació. Les secretaries generals dels departaments tenen l'obligació expressa de garantir l'accés del personal interessat a les llistes definitives d'incentius."
         },
         {
-            "id": 35,
-            "question": "Acreditació ordinària i el cas del canvi de destinació",
-            "answer": "Les retribucions es liquid en per mesos vençuts i amb caràcter general s'acrediten segons la situació i drets del funcionari el dia 1 del mes. En cas de concurs de canvi de destinació (i formes ordinàries de provisió), la dependència on cessa el funcionari es fa càrrec de la totalitat de la nòmina d'aquell mes de cessament; la nova destinació comença a pagar a partir de l'1 del mes següent."
+            id: 35,
+            word: "Acreditació ordinària i el cas del canvi de destinació",
+            reason: "Les retribucions es liquiden per mesos vençuts i amb caràcter general s'acrediten segons la situació i drets del funcionari el dia 1 del mes. En cas de concurs de canvi de destinació (i formes ordinàries de provisió), la dependència on cessa el funcionari es fa càrrec de la totalitat de la nòmina d'aquell mes de cessament; la nova destinació comença a pagar a partir de l'1 del mes següent."
         },
         {
-            "id": 36,
-            "question": "Liquidació de retribucions en cas de canvi de ministeri/departament per reingrés",
-            "answer": "Si es tracta de resolucions de reingrés al servei actiu o nomenaments que impliquin un canvi de departament o d'Administració (i no sigui una forma ordinària de provisió), els havers es liquiden per dies naturals. El departament de cèsat liquida fins al dia de la presa de possessió de la nova plaça i el nou departament paga des d'aquell mateix dia."
+            id: 36,
+            word: "Liquidació de retribucions en cas de canvi de ministeri/departament per reingrés",
+            reason: "Si es tracta de resolucions de reingrés al servei actiu o nomenaments que impliquin un canvi de departament o d'Administració (i no sigui una forma ordinària de provisió), els havers es liquiden per dies naturals. El departament de cèsat liquida fins al dia de la presa de possessió de la nova plaça i el nou departament paga des d'aquell mateix dia."
         },
         {
-            "id": 37,
-            "question": "Estructura de les indemnitzacions per despeses de viatge (Dietes)",
-            "answer": "Són percepcions econòmiques extrasalarials per compensar despeses de manutenció i allotjament en llocs diferents del de la residència oficial. Es divideixen en:\n• Dieta sencera: despeses de manutenció i allotjament (només si es pernocta fora).\n• Mitja dieta: només despeses de manutenció (quan el servei obliga a dinar o sopar fora però es torna a la residència)."
+            id: 37,
+            word: "Estructura de les indemnitzacions per despeses de viatge (Dietes)",
+            reason: "Són percepcions econòmiques extrasalarials per compensar despeses de manutenció i allotjament en llocs diferents del de la residència oficial. Es divideixen en:\n• Dieta sencera: despeses de manutenció i allotjament (només si es pernocta fora).\n• Mitja dieta: només despeses de manutenció (quan el servei obliga a dinar o sopar fora però es torna a la residència)."
         },
         {
-            "id": 38,
-            "question": "Indemnitzacions per trasllat de residència: Drets i caducitat",
-            "answer": "S'autoritzen per trasllats forçosos del lloc de treball d'obligat compliment que impliquen un canvi de localitat de destinació. Dona dret al pagament de les despeses del viatge, transport de mobiliari i estris, i una indemnització equivalent a 3 dietes senceres per al titular i per cada membre de la família que es traslladi. Caduquen en el termini d'un any i no s'hi té dret si el trasllat és per sanció disciplinària."
+            id: 38,
+            word: "Indemnitzacions per trasllat de residència: Drets i caducitat",
+            reason: "S'autoritzen per trasllats forçosos del lloc de treball d'obligat compliment que impliquen un canvi de localitat de destinació. Dona dret al pagament de les despeses del viatge, transport de mobiliari i estris, i una indemnització equivalent a 3 dietes senceres per al titular i per cada membre de la família que es traslladi. Caduquen en el termini d'un any i no s'hi té dret si el trasllat és per sanció disciplinària."
         },
         {
-            "id": 39,
-            "question": "Conceptes i límits anuals del dret d'Assistències",
-            "answer": "S'apliquen per participar en tribunals d'oposicions/concursos o col·laborar (no permanent ni habitual) en cursos de formació i publicacions de l'Administració. Límits:\n1) La col·laboració en cursos no pot superar les 75 hores anuals.\n2) Les assistències no poden totalitzar anualment un import superior al 30% de les retribucions anuals del lloc de treball (excloent els triennis). Són compatibles amb dietes."
+            id: 39,
+            word: "Conceptes i límits anuals del dret d'Assistències",
+            reason: "S'apliquen per participar en tribunals d'oposicions/concursos o col·laborar (no permanent ni habitual) en cursos de formació i publicacions de l'Administració. Límits:\n1) La col·laboració en cursos no pot superar les 75 hores anuals.\n2) Les assistències no poden totalitzar anualment un import superior al 30% de les retribucions anuals del lloc de treball (excloent els triennis). Són compatibles amb dietes."
         },
         {
-            "id": 40,
-            "question": "Meritació i còmput de Pagues Extraordinàries (Personal Laboral)",
-            "answer": "A diferència dels funcionaris (que meriten semestralment), les pagues extres del personal laboral sota el VIè Conveni es meriten de forma anual (salari diferit reportat dia a dia) calculat sobre l'any natural (365 o 366 dies) i s'abonen al juny i desembre:\n• Paga de Juny: període de l'1 de juliol de l'any anterior al 30 de juny de l'any en curs.\n• Paga de Desembre: període de l'1 de gener al 31 de desembre de l'any en curs."
+            id: 40,
+            word: "Meritació i còmput de Pagues Extraordinàries (Personal Laboral)",
+            reason: "A diferència dels funcionaris (que meriten semestralment), les pagues extres del personal laboral sota el VIè Conveni es meriten de forma anual (salari diferit reportat dia a dia) calculat sobre l'any natural (365 o 366 dies) i s'abonen al juny i desembre:\n• Paga de Juny: període de l'1 de juliol de l'any anterior al 30 de juny de l'any en curs.\n• Paga de Desembre: període de l'1 de gener al 31 de desembre de l'any en curs."
         },
         {
-            "id": 41,
-            "question": "Exemple pràctic de Paga Extra de Desembre (Personal Laboral)",
-            "answer": "Si un treballador laboral comença a treballar el dia 1 de septembres, a la paga de desembre se li calcula la part proporcional sobre el període anual (1 de gener al 31 de desembre). Ha treballat setembre (30), octubre (31), novembre (30) i desembre (31) = 122 dies. Percebrà l'equivalent a 122 dies treballats sobre els 365 dies naturals de l'any (segons doctrina STS de 30 de gener de 2012)."
+            id: 41,
+            word: "Exemple pràctic de Paga Extra de Desembre (Personal Laboral)",
+            reason: "Si un treballador laboral comença a treballar el dia 1 de septembres, a la paga de desembre se li calcula la part proporcional sobre el període anual (1 de gener al 31 de desembre). Ha treballat setembre (30), octubre (31), novembre (30) i desembre (31) = 122 dies. Percebrà l'equivalent a 122 dies treballats sobre els 365 dies naturals de l'any (segons doctrina STS de 30 de gener de 2012)."
         },
         {
-            "id": 42,
-            "question": "Base d'aplicació de retencions del l'IRPF a la nòmina",
-            "answer": "L'IRPF és un impost progressiu. La base de retenció sobre la qual es calcula la quota s'obté de la següent fórmula: dels havers íntegres anuals més l'import anual de les retribucions en espècie, es descompten de manera directa la previsió de les cotitzacions a la Seguretat Social o mutualitats i la previsió d'altres reduccions legals."
+            id: 42,
+            word: "Base d'aplicació de retencions del l'IRPF a la nòmina",
+            reason: "L'IRPF és un impost progressiu. La base de retenció sobre la qual es calcula la quota s'obté de la següent fórmula: dels havers íntegres anuals més l'import anual de les retribucions en espècie, es descompten de manera directa la previsió de les cotitzacions a la Seguretat Social o mutualitats i la previsió d'altres reduccions legals."
         },
         {
-            "id": 43,
-            "question": "Funcionament de les quotes de MUFACE en la nòmina",
-            "answer": "Les quotes que aporten els funcionaris adscrits a la Mutualitat General de Funcionaris Civils de l'Estat (MUFACE) són descomptades de la nòmina com un import fix mensual que depèn directament del seu subgrup de classificació professional. S'aplica a les 14 pagues, per la qual cosa els mesos de juny i desembre el descompte de MUFACE és doble."
+            id: 43,
+            word: "Funcionament de les quotes de MUFACE en la nòmina",
+            reason: "Les quotes que aporten els funcionaris adscrits a la Mutualitat General de Funcionaris Civils de l'Estat (MUFACE) són descomptades de la nòmina com un import fix mensual que depèn directament del seu subgrup de classificació professional. S'aplica a les 14 pagues, per la qual cosa els mesos de juny i desembre el descompte de MUFACE és doble."
         },
         {
-            "id": 44,
-            "question": "Règim retributiu d'Incapacitat Temporal (Malaltia Comuna) dels funcionaris",
-            "answer": "Mentre dura la IT, el Decret llei 5/2018 de la Generalitat garanteix un complement que assegura el 100% de les retribucions fixes i periòdiques del mes d'inici de la baixa. A partir del quart mes la situació canvia: l'Administració paga les retribucions bàsiques i MUFACE passa a pagar el subsidi d'IT (calculat sobre el 3r mes, límit màxim de 24 mesos)."
+            id: 44,
+            word: "Règim retributiu d'Incapacitat Temporal (Malaltia Comuna) dels funcionaris",
+            reason: "Mentre dura la IT, el Decret llei 5/2018 de la Generalitat garanteix un complement que assegura el 100% de les retribucions fixes i periòdiques del mes d'inici de la baixa. A partir del quart mes la situació canvia: l'Administració paga les retribucions bàsiques i MUFACE passa a pagar el subsidi d'IT (calculat sobre el 3r mes, límit màxim de 24 mesos)."
         },
         {
-            "id": 45,
-            "question": "Càlcul econòmic del subsidi d'Incapacitat Temporal de MUFACE",
-            "answer": "A partir del quart mes de llicència per malaltia, el subsidi que abona MUFACE s'ha de calcular sobre les retribucions del tercer mes de baixa. No pot ser superior a les retribucions complementàries i ha de ser la quantitat més gran d'entre aquestes dues opcions:\n• El 80% de les retribucions bàsiques incrementada amb la sisena part de la paga extraordinària.\n• El 75% de les retribucions complementàries."
+            id: 45,
+            word: "Càlcul econòmic del subsidi d'Incapacitat Temporal de MUFACE",
+            reason: "A partir del quart mes de llicència per malaltia, el subsidi que abona MUFACE s'ha de calcular sobre les retribucions del tercer mes de baixa. No pot ser superior a les retribucions complementàries i ha de ser la quantitat més gran d'entre aquestes dues opcions:\n• El 80% de les retribucions bàsiques incrementada amb la sisena part de la paga extraordinària.\n• El 75% de les retribucions complementàries."
         },
         {
-            "id": 46,
-            "question": "Règim retributiu en cas de Baixa per Maternitat o Paternitat",
-            "answer": "S'ha d'abonar durant tot el temps que duri el gaudiment de la baixa corresponent. Tant per al personal funcionari com per al personal laboral, l'Administració de la Generalitat de Catalunya garanteix de forma absoluta el 100% de les retribucions dels seus treballadors mentre es troben en aquesta situació de protecció."
+            id: 46,
+            word: "Règim retributiu en cas de Baixa per Maternitat o Paternitat",
+            reason: "S'ha d'abonar durant tot el temps que duri el gaudiment de la baixa corresponent. Tant per al personal funcionari com per al personal laboral, l'Administració de la Generalitat de Catalunya garanteix de forma absoluta el 100% de les retribucions dels seus treballadors mentre es troben en aquesta situació de protecció."
         },
         {
-            "id": 47,
-            "question": "Procediment en nòmina per situació de Pluriocupació",
-            "answer": "Si les remuneracions totals entre diverses empreses superen el límit màxim o són inferiors a la base mínima, es demana una distribució a la Tresoreria General de la Seguretat Social perquè cada empresa cotitzi fins al límit assignat. En el cas d'un funcionari que vulgui fer una activitat privada, té l'obligació estricta de sol·licitar primer la compatibilitat de la segona activitat i posteriorment sol·licitar la pluriocupació."
+            id: 47,
+            word: "Procediment en nòmina per situació de Pluriocupació",
+            reason: "Si les remuneracions totals entre diverses empreses superen el límit màxim o són inferiors a la base mínima, es demana una distribució a la Tresoreria General de la Seguretat Social perquè cada empresa cotitzi fins al límit assignat. En el cas d'un funcionari que vulgui fer una activitat privada, té l'obligació estricta de sol·licitar primer la compatibilitat de la segona activitat i posteriorment sol·licitar la pluriocupació."
         }
     ]
