@@ -7,7 +7,6 @@ const questionEl = document.getElementById("question");
 const answerEl = document.getElementById("answer");
 const flashcardEl = document.getElementById("flashcard");
 
-const showBtn = document.getElementById("showBtn");
 const nextBtn = document.getElementById("nextBtn");
 const prevBtn = document.getElementById("prevBtn");
 
@@ -16,7 +15,9 @@ const counterEl = document.getElementById("counter");
 fetch("flashcards.json?" + Date.now())
     .then(response => response.json())
     .then(data => {
+
         flashcards = data;
+
         showCard();
     });
 
@@ -33,16 +34,12 @@ function showCard() {
         `${current + 1} / ${flashcards.length}`;
 }
 
-showBtn.addEventListener("click", () => {
+flashcardEl.addEventListener("click", () => {
 
     flashcardEl.classList.toggle("flip");
 
 });
-document.querySelector(".flashcard").addEventListener("click", () => {
 
-    document.querySelector(".flashcard").classList.toggle("flip");
-
-});
 nextBtn.addEventListener("click", () => {
 
     current++;
@@ -64,4 +61,5 @@ prevBtn.addEventListener("click", () => {
 
     showCard();
 });
+
 });
