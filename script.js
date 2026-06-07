@@ -89,7 +89,20 @@ async function loadFlashcards() {
         
         const cardData = currentEssayCards[currentIndex];
         document.getElementById('front-text').textContent = cardData.word;
-        document.getElementById('back-text').innerHTML = cardData.reason.replace(/\n/g, '<br>');
+let respostaHtml = cardData.reason.replace(/\n/g, '<br>');
+
+if (cardData.doctrina) {
+    respostaHtml += `
+        <div class="doctrina-box">
+            <div class="doctrina-title">
+                Context / Matís d'Estudi
+            </div>
+            <div>${cardData.doctrina}</div>
+        </div>
+    `;
+}
+
+document.getElementById('back-text').innerHTML = respostaHtml;
         
         const cardEl = document.getElementById('card');
         cardEl.classList.remove('is-flipped');
