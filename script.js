@@ -9,21 +9,31 @@ let currentCard = 0;
 // =======================
 // INICIALITZACIÓ
 // =======================
-document.addEventListener("DOMContentLoaded", async () => {
-    console.log("JS carregat correctament");
+window.addEventListener("DOMContentLoaded", async () => {
 
-    await inicialitzarSelector();
+    console.log("DOM carregat");
 
-    document
-        .getElementById("carregarTema")
-        .addEventListener("click", async () => {
-            const ruta =
-                document.getElementById("temaSelect").value;
+    const select = document.getElementById("temaSelect");
 
-            if (!ruta) return;
+    if (!select) {
+        console.error("NO EXISTEIX temaSelect al DOM");
+        return;
+    }
 
-            await carregarTema(ruta);
-        });
+    const index = await carregarIndex();
+
+    console.log("INDEX:", index);
+
+    select.innerHTML = "";
+
+    index.forEach(item => {
+        const option = document.createElement("option");
+        option.value = item.fitxer;
+        option.textContent = `${item.bloc} - ${item.tema}`;
+        select.appendChild(option);
+    });
+
+    console.log("SELECT OMPLERT OK");
 });
 
 // =======================
