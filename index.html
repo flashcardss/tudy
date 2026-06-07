@@ -1,48 +1,56 @@
 <!DOCTYPE html>
 <html lang="ca">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Flashcards</title>
-
-<link rel="stylesheet" href="styles.css?v=2">
+    <title>Flashcards Exhaustives: EAPC - Sistema Retributiu</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
-
 <body>
+<h1>Estudi de la Font Oficial: 5. Sistema Retributiu (EAPC)</h1>
 
-<div class="flashcard-scene">
-
-    <div class="flashcard" id="flashcard">
-
-        <div class="card-face card-front">
-            <h2 id="question">Carregant...</h2>
+    <div class="main-container">
+        <div class="flashcard-scene" id="scene">
+            <div class="flashcard" id="card">
+                <div class="flashcard-face flashcard-front">
+                    <button class="review-toggle" id="btn-toggle-review" title="Marcar per repassar">★</button>
+                    <div class="instruction-tag">Pregunta / Concepte Clau (EAPC)</div>
+                    <div class="card-content" id="front-text">Carregant...</div>
+                </div>
+                <div class="flashcard-face flashcard-back">
+                    <div class="instruction-tag">Transcripció i Doctrina Literal de la Font</div>
+                    <div class="solution-content" id="back-text">...</div>
+                </div>
+            </div>
         </div>
 
-        <div class="card-face card-back">
-            <p id="answer"></p>
+        <div class="validation-controls" id="val-controls">
+            <button class="val-btn btn-success" id="btn-mark-ok">M'ho sabia! (✓)</button>
+            <button class="val-btn btn-error" id="btn-mark-fail">No m'ho sabia (✗)</button>
         </div>
 
+        <div class="nav-controls">
+            <button class="nav-btn" id="btn-prev" title="Anterior">❮</button>
+            <div id="counter" style="font-weight: bold; font-size: 1.1rem;">0 / 0</div>
+            <button class="nav-btn" id="btn-next" title="Següent">❯</button>
+        </div>
+
+        <div class="filter-controls">
+            <button class="filter-btn" id="btn-new-essay">Nou assaig complet</button>
+            <button class="filter-btn" id="btn-essay-failed">Assaig fallades</button>
+            <button class="filter-btn" id="btn-essay-review">Assaig repàs</button>
+        </div>
+
+        <div class="control-panel">
+            <button class="action-btn btn-csv" id="btn-export">Exportar Progrés (CSV)</button>
+            <button class="action-btn btn-reset" id="btn-reset-chart">Reiniciar Historial</button>
+        </div>
+
+        <div class="chart-container">
+            <canvas id="scoreChart"></canvas>
+        </div>
+        <div id="stats-summary">Inicia l'estudi per veure les dades</div>
     </div>
-
-</div>
-
-<div class="buttons">
-    <button id="prevBtn">Anterior</button>
-    <button id="nextBtn">Següent</button>
-</div>
-
-<p id="counter"></p>
-
-    <script src="script.js"></script>
-
-</body>
-</html>
-
-
-<p id="counter"></p>
-
-<script src="script.js?v=2"></script>
-
+<script src="script.js"></script>
 </body>
 </html>
