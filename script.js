@@ -38,9 +38,9 @@ showBtn.addEventListener("click", () => {
     flashcardEl.classList.toggle("flip");
 
 });
-flashcardEl.addEventListener("click", () => {
+document.querySelector(".flashcard").addEventListener("click", () => {
 
-    flashcardEl.classList.toggle("flip");
+    document.querySelector(".flashcard").classList.toggle("flip");
 
 });
 nextBtn.addEventListener("click", () => {
