@@ -36,7 +36,6 @@ function showCard() {
 
 flashcardEl.addEventListener("click", () => {
 
-    alert("clic detectat");
 
     flashcardEl.classList.toggle("flip");
 
