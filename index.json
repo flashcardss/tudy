@@ -11,12 +11,12 @@
   },
   {
     "bloc": "Bloc2",
-    "tema": "Tema 3",
-    "fitxer": "Bloc2/Tema03.json"
+    "tema": "Tema 1",
+    "fitxer": "Bloc2/Tema01.json"
   },
   {
     "bloc": "Bloc2",
-    "tema": "Tema 4",
-    "fitxer": "Bloc2/Tema04.json"
+    "tema": "Tema 2",
+    "fitxer": "Bloc2/Tema02.json"
   }
 ]
