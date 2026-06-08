@@ -2,8 +2,23 @@
     let rawData = [];
 
 async function loadFlashcards() {
-    const response = await fetch('flashcards.json');
-    rawData = await response.json();
+
+    // Carrega l’índex general
+    const indexResponse = await fetch('index.json');
+    const indexData = await indexResponse.json();
+
+    let totesLesTargetes = [];
+
+    // Carrega cada TemaXX.json
+    for (const tema of indexData) {
+
+        const temaResponse = await fetch(tema.fitxer);
+        const temaData = await temaResponse.json();
+
+        totesLesTargetes = totesLesTargetes.concat(temaData);
+    }
+
+    rawData = totesLesTargetes;
 }
 
 
