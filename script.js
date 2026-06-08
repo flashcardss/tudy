@@ -13,7 +13,7 @@ async function loadFlashcards() {
     for (const tema of indexData) {
 
         const temaResponse = await fetch(tema.fitxer);
-        const temaData = await temaResponse.json();
+        let temaData = await temaResponse.json();
 
 temaData = temaData.map((card, index) => ({
     id: `${tema.fitxer}-${index}`,
