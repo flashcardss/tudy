@@ -1,4 +1,4 @@
-{
+[{
             "id": 1,
             "sector": "òrgans-superiors",
             "question": "Quins són els 5 òrgans superiors competents en matèria de personal segons el Decret legislatiu 1/1997?",
@@ -81,4 +81,4 @@
             "question": "Quines són les característiques del VI Conveni col·lectiu únic del personal laboral de la Generalitat?",
             "answer": "<ul><li><b>Àmbit:</b> S'aplica al personal laboral de departaments, organismes autònoms i entitats gestores de la Seguretat Social.</li><li><b>Vigència:</b> El conveni està actualment denunciat i prorrogat fins que es negociï el nou.</li><li><b>CIVE:</b> Comissió Paritària per a la Interpretació, Vigilància i Estudi del Conveni (8 membres de l'Administració i 8 sindicals).</li><li><b>Àrees de funcions:</b> El personal s'agrupa en 5 àrees (Administració/Informàtica; Manteniment/Oficis; Serveis Generals; Sanitària/Assistencial; Educativa/Cultural).</li></ul>",
             "doctrina":  "A diferència dels funcionaris, els laborals es regeixen per pactes negociats que s'emmarquen en el dret privat del treball, encara que amb una creixent 'administrativització'."
-        }
+        }]
