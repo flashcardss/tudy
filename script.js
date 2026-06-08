@@ -15,9 +15,13 @@ async function loadFlashcards() {
         const temaResponse = await fetch(tema.fitxer);
         const temaData = await temaResponse.json();
 
-        temaData.forEach((card, index) => {
-    card.id = `${tema.fitxer}-${index}`;
-});
+temaData = temaData.map((card, index) => ({
+    id: `${tema.fitxer}-${index}`,
+    word: card.question,
+    reason: card.answer,
+    doctrina: card.doctrina || "",
+    sector: card.sector || ""
+}));
 
 totesLesTargetes = totesLesTargetes.concat(temaData);
     }
