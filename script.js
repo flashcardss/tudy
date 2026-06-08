@@ -15,7 +15,11 @@ async function loadFlashcards() {
         const temaResponse = await fetch(tema.fitxer);
         const temaData = await temaResponse.json();
 
-        totesLesTargetes = totesLesTargetes.concat(temaData);
+        temaData.forEach((card, index) => {
+    card.id = `${tema.fitxer}-${index}`;
+});
+
+totesLesTargetes = totesLesTargetes.concat(temaData);
     }
 
     rawData = totesLesTargetes;
