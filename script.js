@@ -5,8 +5,10 @@ let indexDataGlobal = [];
 async function loadFlashcards() {
 
     // Carrega l’índex general
-    const indexResponse = await fetch('index.json');
-    const indexData = await indexResponse.json();
+const indexResponse = await fetch('index.json');
+const indexData = await indexResponse.json();
+
+indexDataGlobal = indexData;
 
     let totesLesTargetes = [];
 
@@ -21,7 +23,10 @@ temaData = temaData.map((card, index) => ({
     word: card.question,
     reason: card.answer,
     doctrina: card.doctrina || "",
-    sector: card.sector || ""
+    sector: card.sector || "",
+    bloc: tema.bloc,
+    tema: tema.tema,
+    fitxer: tema.fitxer
 }));
 
 totesLesTargetes = totesLesTargetes.concat(temaData);
@@ -39,10 +44,56 @@ totesLesTargetes = totesLesTargetes.concat(temaData);
     let currentStats = { correct: 0, incorrect: 0 };
     let chartCtx = null;
     let currentEssayType = ""; 
+function omplirSelectorTemes() {
 
-    async function init() {
-        await loadFlashcards();
+    const select = document.getElementById('tema-select');
+
+    indexDataGlobal.forEach(item => {
+
+        const opcio = document.createElement('option');
+
+        opcio.value = item.fitxer;
+
+        opcio.textContent =
+            `${item.bloc} - ${item.tema}`;
+
+        select.appendChild(opcio);
+    });
+
+    select.addEventListener('change', canviarTema);
+}
+function canviarTema() {
+
+    const valor =
+        document.getElementById('tema-select').value;
+
+    if (valor === 'all') {
+
         sourceCards = rawData.map(d => ({
+            ...d,
+            markedForReview: false,
+            lastResult: null
+        }));
+
+    } else {
+
+        sourceCards = rawData
+            .filter(c => c.fitxer === valor)
+            .map(d => ({
+                ...d,
+                markedForReview: false,
+                lastResult: null
+            }));
+    }
+
+    startNewEssay();
+}
+    async function init() {
+await loadFlashcards();
+
+omplirSelectorTemes();
+
+sourceCards = rawData.map(d => ({
             ...d,
             markedForReview: false,
             lastResult: null
