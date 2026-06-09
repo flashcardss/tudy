@@ -1,5 +1,6 @@
 // Dades extretes estrictament de la font de dades proporcionada per l'usuari (EAPC Wiki - 5. Sistema retributiu)
-    let rawData = [];
+let rawData = [];
+let indexDataGlobal = [];
 
 async function loadFlashcards() {
 
