@@ -2,49 +2,42 @@
             {
                 "id": "SIT_001",
                 "sector": "Situacions Administratives",
-                
                 "question":  "Quines són les 5 situacions administratives bàsiques previstes de manera general pel TREBEP?",
                 "answer": "D'acord amb el text refós de l'Estatut bàsic de l'empleat públic (TREBEP), les situacions bàsiques són:\na) Servei en actiu.\nb) Serveis especials.\nc) Serveis en altres administracions públiques.\nd) Excedència.\ne) Suspensió de funcions."
             },
             {
                 "id": "SIT_002",
                 "sector": "Situacions Administratives",
-                
                 "question":  "En quina situació es troba un funcionari que està en situació de disponibilitat, comissió de servei, llicència o permís amb reserva de lloc?",
                 "answer": "Es troba en la situació de SERVEI EN ACTIU.\nComporta que el funcionari ocupa una plaça dotada pressupostàriament, desenvolupa el lloc de treball o manté el dret de reserva íntegra a través de les esmentades figures temporals."
             },
             {
                 "id": "SIT_003",
                 "sector": "Situacions Administratives",
-                
                 "question":  "Quins són els efectes generals de la situació de Serveis Especials respecte a retribucions i còmput de temps?",
                 "answer": "Els funcionaris en Serveis Especials:\n1. NO reben retribucions de l'Administració d'origen (reben les del lloc o càrrec efectiu que ocupin, excepte els triennis).\n2. Se'ls COMPUTA el temps als efectes de triennis, carrera vertical/promoció interna i drets en el règim de Seguretat Social.\n3. Tenen dret a la RESERVA del lloc de treball de procedència (o un d'equivalent en la mateixa localitat i condicions)."
             },
             {
                 "id": "SIT_004",
                 "sector": "Situacions Administratives",
-                
                 "question":  "Quines modalitats d'Excedència Voluntària preveu la normativa de la funció pública a Catalunya?",
                 "answer": "Es contemplen les següents modalitats:\na) Excedència voluntària per interès particular.\nb) Excedència voluntària per agrupació familiar.\nc) Excedència voluntària per incompatibilitats.\nd) Excedència voluntària incentivada (per raons organitzatives)."
             },
             {
                 "id": "SIT_005",
                 "sector": "Situacions Administratives",
-                
                 "question":  "Quins requisits i quina durada té l'Excedència Voluntària per Interès Particular a Catalunya?",
                 "answer": "• Requisit de servei previ: Cal haver prestat serveis efectius en qualsevol de les administracions públiques durant els 5 anys immediatament anteriors.\n• Durada mínima d'estada: No es pot romandre en aquesta situació menys de 2 anys continuats.\n• Efectes: No genera dret a percebre retribucions, ni computa per a triennis, carrera o Seguretat Social. No comporta reserva de lloc de treball."
             },
             {
                 "id": "SIT_006",
                 "sector": "Situacions Administratives",
-                
                 "question":  "Quins drets específics atorga l'Excedència per cura de familiars o fills i com es diferencia de la voluntària comuna?",
                 "answer": "L'excedència per cura de fills o familiars és una modalitat d'excedència forçosa/protegida:\n1. Còmput: El període complet de permanència computa a efectes de triennis, carrera professional i drets de Seguretat Social.\n2. Reserva de lloc: Es té dret a la reserva del lloc de treball durant un període màxim de 3 anys (durant el qual es pot reingressar de forma immediata)."
             },
             {
                 "id": "SIT_007",
                 "sector": "Situacions Administratives",
-                
                 "question":  "Quins drets tenen les funcionàries víctimes de violència de gènere pel que fa a l'excedència?",
                 "answer": "Les funcionàries víctimes de violència de gènere tenen dret a sol·licitar l'excedència sense necessitat d'haver prestat serveis previs.\n• Primers 6 mesos: Tenen dret a la reserva del lloc de treball, computant el temps a efectes de triennis, carrera i Seguretat Social. A més, durant els primers 2 mesos tenen dret a percebre les retribucions íntegres.\n• Pròrrogues: Es pot prorrogar per períodes de 3 mesos fins a un màxim de 18 mesos amb reserva del lloc de treball."
             },
@@ -53,35 +46,30 @@
             {
                 "id": "DIS_001",
                 "sector": "Règim Disciplinari",
-                
                 "question":  "Com es classifiquen les faltes disciplinàries segons el TREBEP i el Decret Legislatiu 1/1997?",
                 "answer": "Es classifiquen legalment en tres nivells de gravetat:\n1. Faltes Molt Greus (tipificades de forma directa i tancada pel TREBEP i lleis autonòmiques).\n2. Faltes Greus (determinades per llei del Parlament o reglaments de desplegament).\n3. Faltes Lleus (establertes per disposició legal o reglamentària segons el grau d'incompliment)."
             },
             {
                 "id": "DIS_002",
                 "sector": "Règim Disciplinari",
-                
                 "question":  "Esmenta com a mínim 4 exemples de faltes qualificades com a Molt Greus per la llei.",
                 "answer": "Són faltes molt greus:\n1. L'incompliment del deure de fidelitat a la Constitució o a l'Estatut en l'exercici de la funció pública.\n2. Tota actuació que suposi discriminació per raó de raça, sexe, religió, llengua, opinió o qualsevol altra condició.\n3. L'abandonament del servei o la renúncia injustificada al desenvolupament de les funcions.\n4. La publicació o utilització indeguda de secrets oficials o matèries declarades reservades."
             },
             {
                 "id": "DIS_003",
                 "sector": "Règim Disciplinari",
-                
                 "question":  "Quines sancions es poden imposar al personal funcionari de la Generalitat segons la gravetat de la falta?",
                 "answer": "Les sancions aplicables són:\n• Separació del servei (només per faltes molt greus).\n• Suspensió de funcions (amb caràcter temporal).\n• Trasllat forçós de lloc de treball (amb o sense canvi de residència).\n• Pèrdua d'1 a 3 graus personals (només per faltes greus o molt greus).\n• Amonestació per escrit (exclusiva per a faltes lleus)."
             },
             {
                 "id": "DIS_004",
                 "sector": "Règim Disciplinari",
-                
                 "question":  "Quina és la sanció disciplinària equivalent a la separació del servei per al personal laboral?",
                 "answer": "Per al personal laboral, la sanció de màxima gravetat es tradueix en l'ACOMIADAMENT DISCIPLINARI.\nAquest només es pot imposar per la comissió de faltes molt greus i comporta la inhabilitació del treballador per tornar a signar un nou contracte amb funcions similars dins de l'Administració."
             },
             {
                 "id": "DIS_005",
                 "sector": "Règim Disciplinari",
-                
                 "question":  "Quins òrgans són competents a la Generalitat de Catalunya per imposar les sancions disciplinàries segons la gravetat?",
                 "answer": "La competència està distribuïda així:\n• Per a faltes lleus: Els Secretaris Generals, Directors Generals o òrgans assimilats de cada departament.\n• Per a faltes greus: Els Secretaris Generals del departament on estigui adscrit el funcionari.\n• Per a faltes molt greus: Les persones titulars dels Departaments (Consellers/es) de la Generalitat."
             },
@@ -108,7 +96,6 @@
             {
                 "id": "TER_004",
                 "sector": "Terminis i Prescripcions",
-            
                 "question":  "Quina és la durada màxima permesa per a una Suspensió de Funcions de caràcter Preventiu durant la tramitació d'un expedient?",
                 "answer": "La suspensió provisional o preventiva de funcions NO pot superar en cap cas el termini de 6 MESOS, excepte en els supòsits de paralització del procediment per causes imputables directament a la persona expedientada o quan s'estigui en espera d'una sentència judicial ferma de l'ordre penal."
             },
