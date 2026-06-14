@@ -20,8 +20,8 @@ indexDataGlobal = indexData;
 
 temaData = temaData.map((card, index) => ({
     id: `${tema.fitxer}-${index}`,
-    word: card.question,
-    reason: card.answer,
+    question: card.question,
+    answer: card.answer,
     doctrina: card.doctrina || "",
     sector: card.sector || "",
     bloc: tema.bloc,
