@@ -13,23 +13,33 @@ indexDataGlobal = indexData;
     let totesLesTargetes = [];
 
     // Carrega cada TemaXX.json
-    for (const tema of indexData) {
+for (const tema of indexData) {
+
+    try {
 
         const temaResponse = await fetch(tema.fitxer);
         let temaData = await temaResponse.json();
 
-temaData = temaData.map((card, index) => ({
-    id: `${tema.fitxer}-${index}`,
-    question: card.question,
-    answer: card.answer,
-    doctrina: card.doctrina || "",
-    sector: card.sector || "",
-    bloc: tema.bloc,
-    tema: tema.tema,
-    fitxer: tema.fitxer
-}));
+        temaData = temaData.map((card, index) => ({
+            id: `${tema.fitxer}-${index}`,
+            question: card.question,
+            answer: card.answer,
+            doctrina: card.doctrina || "",
+            sector: card.sector || "",
+            bloc: tema.bloc,
+            tema: tema.tema,
+            fitxer: tema.fitxer
+        }));
 
-totesLesTargetes = totesLesTargetes.concat(temaData);
+        totesLesTargetes = totesLesTargetes.concat(temaData);
+
+    } catch (error) {
+
+        console.error("ERROR AL FITXER:", tema.fitxer);
+        console.error(error);
+
+    }
+}
     }
 
     rawData = totesLesTargetes;
