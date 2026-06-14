@@ -42,8 +42,8 @@ for (const tema of indexData) {
 }
     }
 
-    rawData = totesLesTargetes;
-
+     rawData = totesLesTargetes;
+}
     let sourceCards = [];
     let currentEssayCards = [];
     let currentIndex = 0;
