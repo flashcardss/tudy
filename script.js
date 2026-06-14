@@ -39,7 +39,6 @@ for (const tema of indexData) {
         console.error(error);
 
     }
-}
     }
 
      rawData = totesLesTargetes;
