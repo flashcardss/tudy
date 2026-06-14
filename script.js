@@ -163,8 +163,9 @@ sourceCards = rawData.map(d => ({
         if (currentEssayCards.length === 0) return;
         
         const cardData = currentEssayCards[currentIndex];
-        document.getElementById('front-text').textContent = cardData.word;
-let respostaHtml = cardData.reason.replace(/\n/g, '<br>');
+document.getElementById('front-text').textContent = cardData.question;
+
+let respostaHtml = cardData.answer.replace(/\n/g, '<br>');
 
 if (cardData.doctrina) {
     respostaHtml += `
