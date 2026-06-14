@@ -386,5 +386,9 @@ document.getElementById('back-text').innerHTML = respostaHtml;
         }
     };
 
-    window.onload = init;
+    window.addEventListener('DOMContentLoaded', async () => {
+    await loadFlashcards();
+    init();
+});
     window.onresize = setupChart;
+window.addEventListener('DOMContentLoaded', loadFlashcards);
