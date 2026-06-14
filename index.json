@@ -6,7 +6,33 @@
   },
   {
     "bloc": "Bloc1",
+    "tema": "Tema 16E_2",
+    "fitxer": "Bloc1/Tema16E_2.json"
+  },
+  {
+    "bloc": "Bloc1",
+    "tema": "Tema 17E",
+    "fitxer": "Bloc1/Tema17E.json"
+  },
+  {
+    "bloc": "Bloc1",
+    "tema": "Tema 18E",
+    "fitxer": "Bloc1/Tema18E.json"
+  },
+  {
+    "bloc": "Bloc1",
+    "tema": "Tema 19E",
+    "fitxer": "Bloc1/Tema19E.json"
+  },
+
+  {
+    "bloc": "Bloc1",
     "tema": "Tema 20E",
     "fitxer": "Bloc1/Tema20E.json"
+  },
+  {
+    "bloc": "Bloc1",
+    "tema": "Tema 22E",
+    "fitxer": "Bloc1/Tema22E.json"
   }
 ]
