@@ -41,8 +41,6 @@
                 "question":  "Quins drets tenen les funcionàries víctimes de violència de gènere pel que fa a l'excedència?",
                 "answer": "Les funcionàries víctimes de violència de gènere tenen dret a sol·licitar l'excedència sense necessitat d'haver prestat serveis previs.\n• Primers 6 mesos: Tenen dret a la reserva del lloc de treball, computant el temps a efectes de triennis, carrera i Seguretat Social. A més, durant els primers 2 mesos tenen dret a percebre les retribucions íntegres.\n• Pròrrogues: Es pot prorrogar per períodes de 3 mesos fins a un màxim de 18 mesos amb reserva del lloc de treball."
             },
-
-            // --- CATEGORIA: RÈGIM DISCIPLINARI ---
             {
                 "id": "DIS_001",
                 "sector": "Règim Disciplinari",
@@ -73,8 +71,6 @@
                 "question":  "Quins òrgans són competents a la Generalitat de Catalunya per imposar les sancions disciplinàries segons la gravetat?",
                 "answer": "La competència està distribuïda així:\n• Per a faltes lleus: Els Secretaris Generals, Directors Generals o òrgans assimilats de cada departament.\n• Per a faltes greus: Els Secretaris Generals del departament on estigui adscrit el funcionari.\n• Per a faltes molt greus: Les persones titulars dels Departaments (Consellers/es) de la Generalitat."
             },
-
-            // --- CATEGORIA: TERMINIS I PRESCREPCIONS CRÍTICS ---
             {
                 "id": "TER_001",
                 "sector": "Terminis i Prescripcions",
