@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "sector": "BLOC 1: PERSONAL EVENTUAL",
+    "question": "Com es defineix el personal eventual segons la normativa de la Generalitat?",
+    "answer": "Són aquells que, en virtut de lliure nomenament del president o dels consellers i en règim no permanent, ocupen llocs de confiança o d'assessorament no reservats a funcionaris.",
+    "doctrina": "És clau distingir que la seva funció és estrictament de \"confiança\" o \"assessorament especial\". A diferència dels funcionaris, el seu nomenament és lliure, el que significa que no està subjecte als principis de mèrit i capacitat que regeixen l'accés a la funció pública."
+  },
+  {
+    "id": 2,
+    "sector": "BLOC 1: PERSONAL EVENTUAL",
+    "question": "Quin règim jurídic se'ls aplica en defecte de previsió específica?",
+    "answer": "Se'ls aplica per analogia el règim estatutari del personal funcionari, en tout allò que s'adeqüi a la seva condició i excloent el que estigui vinculat a la permanència.",
+    "doctrina": "Tot i que no són funcionaris de carrera, comparteixen gran part dels seus drets i deures. No obstant això, tenen limitacions clares: per exemple, no tenen dret a llicències per estudis relacionats amb el lloc de treball ni a llicències per assumptes propis."
+  },
+  {
+    "id": 3,
+    "sector": "BLOC 1: PERSONAL EVENTUAL",
+    "question": "Quin és el nombre màxim de llocs de personal eventual als departaments de la Generalitat i com es distribueixen?",
+    "answer": "El nombre màxim és de 144 llocs: fins a 41 per al Departament de la Presidència i un màxim de 91 a distribuir entre la resta de departaments.",
+    "doctrina": "Aquesta xifra és un límit legal per evitar l'excés de càrrecs de confiança. Cal recordar que hi ha excepcions que no computen en aquest límit: el personal eventual d'expresidents, el de les oficines a l'exterior, els assessors dels grups parlamentaris i els de les delegacions territorials del Govern."
+  },
+  {
+    "id": 4,
+    "sector": "BLOC 1: PERSONAL EVENTUAL",
+    "question": "Quines són les causes de cessament del personal eventual?",
+    "answer": "Cessament de l'autoritat que el va nomenar (si no hi ha ratificació), resolució de l'autoritat, renúncia de l'interessat o obtenció de destinació definitiva en cas de funcionaris en servei actiu.",
+    "doctrina": "El cessament del personal eventual és lliure i, molt important, no genera cap dret a indemnització. Es publica al DOGC i només es pot percebre la liquidació de vacances no gaudides de manera excepcional si no es tenia vinculació prèvia amb l'Administració."
+  },
+  {
+    "id": 5,
+    "sector": "BLOC 1: PERSONAL EVENTUAL",
+    "question": "En quina situació administrativa queda un funcionari de la Generalitat nomenat personal eventual?",
+    "answer": "Per defecte, serà declarat en serveis especials en el seu cos d'origen, tot i que pot optar per romandre en servei actiu si el lloc eventual està classificat dins del seu grup i nivell.",
+    "doctrina": "L'opció de \"servei active\" s'ha de demanar en els 15 dies següents a la publicació del nomenament al DOGC. Si es queda en serveis especials, té dret a la reserva de plaça i al còmput de temps per a triennis i consolidació de grau."
+  },
+  {
+    "id": 6,
+    "sector": "BLOC 2: PERSONAL DIRECTIU",
+    "question": "Quina és la característica principal que defineix el personal directiu en comparació amb l'eventual?",
+    "answer": "El criteri de professionalitat i l'exercici de funcions directives amb autonomia i responsabilitat per objectius, per damunt de la confiança política.",
+    "doctrina": "El personal directiu està subjecte a avaluació de resultats segons criteris d'eficàcia i eficiència. Un resultat negatiu en l'avaluació pot comportar el seu cessament."
+  },
+  {
+    "id": 7,
+    "sector": "BLOC 2: PERSONAL DIRECTIU",
+    "question": "Quins són els requisits de designació per al personal directiu segons el RD-Llei 6/2023?",
+    "answer": "Ser funcionari de carrera (subgrup A1), tenir l'antiguitat i experiència requerida i disposar de la formació específica pel perfil del lloc.",
+    "doctrina": "La norma busca professionalitzar la cúpula administrativa. El nomenament es fa per lliure designació amb una durada màxima de cinc anys renovables. No es poden cobrir aquests llocs de manera provisional."
+  },
+  {
+    "id": 8,
+    "sector": "BLOC 3: PERSONAL INTERÍ I TEMPORAL",
+    "question": "En quins quatre supòsits es pot nomenar personal funcionari interí?",
+    "answer": "a) Existència de places vacants (màxim 3 anys); b) Substitució transitòria dels titulars; c) Execució de programes temporals (màxim 3 anys, ampliables a 12 mesos més); d) Excés o acumulació de tasques (màxim 9 mesos en un període de 18).",
+    "doctrina": "Aquests supòsits són numerus clausus (tancats), el que significa que l'Administració no pot inventar-ne de nous. El nomenament ha d'estar justificat per raons de necessitat i urgència."
+  },
+  {
+    "id": 9,
+    "sector": "BLOC 3: PERSONAL INTERÍ I TEMPORAL",
+    "question": "Què passa quan un funcionari interí ocupa una vacant durant més de tres anys?",
+    "answer": "La relació d'interinitat finalitza automàticament i la vacant només es pot ocupar per un funcionari de carrera, llevat que el procés selectiu hagi quedat desert.",
+    "doctrina": "Aquesta norma (derivada del TREBEP i reforçada per la Llei 20/2021) busca reduir la temporalitat excessiva. Excepcionalment, l'interí pot seguir si s'ha publicat la convocatòria dins dels tres anys i està pendent de resolució."
+  },
+  {
+    "id": 10,
+    "sector": "BLOC 3: PERSONAL INTERÍ I TEMPORAL",
+    "question": "Quin objectiu té la taxa d'estabilització de la Llei 20/2021?",
+    "answer": "Situar la taxa d'interinitat estructural per sota del 8% en el conjunt de les administracions públiques.",
+    "doctrina": "Inclou places estructurals ocupades temporalment de forma ininterrompuda des d'abans de l'1 de gener de 2018. Aquests processos són una mesura extraordinària per reduir la precarietat en l'ocupació pública."
+  },
+  {
+    "id": 11,
+    "sector": "BLOC 3: PERSONAL INTERÍ I TEMPORAL",
+    "question": "Quins són els principis que han de regir la selecció del personal interí?",
+    "answer": "Igualtat, mèrit, capacitat, publicitat i celeritat.",
+    "doctrina": "Tot i que la selecció ha de ser àgil (per cobrir la necessitat immediata), no es poden ignorar els principis constitucionals d'accés a la funció pública. Sovint s'utilitzen concursos de mèrits. El nomenament interí mai dóna dret a la condició de funcionari de carrera."
+  },
+  {
+    "id": 12,
+    "sector": "BLOC 3: PERSONAL INTERÍ I TEMPORAL",
+    "question": "En quins casos l'Administració de la Generalitat pot ocupar llocs amb personal laboral?",
+    "answer": "Llocs de caràcter no permanent, activitats pròpies d'oficis, llocs instrumentals (manteniment, comunicació, serveis socials), llocs que requereixen coneixements tècnics especialitzats no coberts per cossos de funcionaris, recerca i certs llocs docents.",
+    "doctrina": "La regla general és que els llocs siguin ocupats per funcionaris. El personal laboral és l'excepció i la seva relació es formalitza mitjançant un contracte escrit sotmès al dret laboral i als convenis col·lectius."
+  },
+  {
+    "id": 13,
+    "sector": "BLOC 3: PERSONAL INTERÍ I TEMPORAL",
+    "question": "Què és el personal \"laboral indefinit no fix\"?",
+    "answer": "És el personal laboral temporal que esdevé indefinit per frau de llei en la contractació o pel transcurs del temps, però que no té la condició de \"fix\" perquè no ha superat un procés basat en els principis de mèrit i capacitat.",
+    "doctrina": "És una figura creada per la jurisprudència. Aquest personal té dret a seguir al lloc fins que la plaça es cobreixi definitivament per oferta pública o s'amortitzi. No es pot convertir automàticament en fix per no vulnerar el dret d'accés igualitari a l'ocupació pública."
+  },
+  {
+    "id": 14,
+    "sector": "BLOC 3: PERSONAL INTERÍ I TEMPORAL",
+    "question": "Poden el personal interí o eventual formar part d'òrgans de selecció d'oposicions?",
+    "answer": "No. El RD-Llei 6/2023 prohibeix expressament que el personal eventual, funcionari interí, laboral no fix o d'elecció política formin part dels tribunals.",
+    "doctrina": "Aquesta prohibició garanteix la imparcialitat i professionalitat dels membres dels tribunals, assegurant que els qui avaluen siguin funcionaris amb plaça permanent o personal aliè a interessos polítics directes."
+  }
+]
