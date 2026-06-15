@@ -1,0 +1,142 @@
+[
+{
+            "id": 1,
+            "sector": "òrgans-superiors",
+            "question": "Quins són els 5 òrgans superiors competents en matèria de personal segons el Decret legislatiu 1/1997?",
+            "answer":"<ul><li><b>El Govern</b> (màxim òrgan directiu)</li><li><b>El conseller/a competent en matèria de funció pública</b> (actualment Presidència)</li><li><b>La Comissió Tècnica de la Funció Pública</b> (òrgan tècnic i de coordinació)</li><li><b>El Consell Català de la Funció Pública</b> (òrgan col·legiat de consulta i participació)</li><li><b>La Inspecció General dels Serveis de Personal</b></li></ul>",
+            "doctrina":"L'esquema d'òrgans superiors garanteix la centralització normativa i la coordinació interdepartamental."
+        },
+        {
+            "id": 2,
+            "sector": "òrgans-superiors",
+            "question": "Quina és la funció política bàsica del Govern de la Generalitat en la gestió de recursos humans?",
+            "answer":"Li correspon <b>dirigir la política global de recursos humans</b> del personal dependent de la Generalitat, exercir la <b>potestat reglamentària</b> (dictar decrets) i fixar anualment les directrius de l'aplicació del <b>règim retributiu</b>.",
+            "doctrina":"L'oferta d'ocupació pública (OOP) i els acords de condicions de treball requereixen necessàriament l'aprovació del Govern per ser vàlids."
+        },
+        {
+            "id": 3,
+            "sector": "òrgans-superiors",
+            "question": "Quines són les competències clau del Conseller/a competent en funció pública respecte a la vida administrativa del personal?",
+            "answer":"<ul><li>Elaborar projectes de disposicions generals i dictar <b>instruccions i circulars</b>.</li><li><b>Convocar processos selectius</b> de caràcter general.</li><li><b>Nomenar els funcionaris</b> i declarar les seves <b>jubilacions</b>.</li><li>Convocar i resoldre els <b>concursos de provisió</b> de llocs de treball i declarar les <b>situacions administratives</b> (delegat o atribuït posteriorment).</li></ul>",
+            "doctrina":"Des del 2021, aquesta gran competència executiva i corporativa resideix en el Departament de la Presidència."
+        },
+        {
+            "id": 4,
+            "sector": "òrgans-superiors",
+            "question": "Com està composada la Comissió Tècnica de la Funció Pública (CTFP)?",
+            "answer":"<ul><li><b>Presidència:</b> La persona titular del departament competent en matèria de funció pública.</li><li><b>Vocals:</b> Les persones titulars de les <b>Secretaries Generals</b> de tots els departaments, el/la vicepresident/a del Comitè Director per a l'Organització, el/la director/a de l'EAPC, i el/la <b>Director/a General de la Funció Pública</b> (que actua com a secretari/ària).</li></ul>",
+            "doctrina":"Té un perfil marcadament polític-tècnic d'alt nivell (Secretaris Generals) per garantir la uniformitat executiva."
+        },
+        {
+            "id": 5,
+            "sector": "òrgans-superiors",
+            "question": "Quines competències s'atribueixen a la Comissió Tècnica de la Funció Pública (CTFP) per pròpia llei i quines per delegació del Govern?",
+            "answer":"<ul><li><b>Per llei (Funcions pròpies):</b> Coordinar la política de personal, informar sobre assumptes de personal elevats al Govern i emetre <b>informe previ obligatori en expedients disciplinaris de separació del servei</b>.</li><li><b>Per delegació del Govern:</b> Aprovar i modificar les normes de valoració i les <b>Relacions de Llocs de Treball (RLT)</b>.</li></ul>",
+            "doctrina":"La delegació de competències sobre RLT a la CTFP es va fixar mitjançant l'Acord de Govern de 25 de juliol de 1995."
+        },
+        {
+            "id": 6,
+            "sector": "òrgans-superiors",
+            "question": "Què és el Consell Català de la Funció Pública i quina és la seva composició paritària?",
+            "answer":"És l'òrgan superior col·legiat de <b>consulta, informe, proposta i participació</b> del personal per a qüestions communes de les administracions catalanes.<br><b>Composició:</b> Titular de Funció Pública, 5 representants del Govern, 5 representants de corporacions locals i <b>11 representants de les organitzacions sindicals</b>.",
+            "doctrina":"Informa preceptivament els projectes de llei i reglaments generals en matèria de funció pública abans de la seva aprovació."
+        },
+        {
+            "id": 7,
+            "sector": "atribució-departaments",
+            "question": "Quina modificació competencial rellevant introdueix la Resolució PRE/3757/2021 en els òrgans directius de Funció Pública?",
+            "answer":"El/la Conseller/a delega funcions clau corporatives:<br><ul><li><b>A la Secretaria d'Administració i Funció Pública:</b> Dictar instruccions/circulars i autoritzar funcions docents d'alts càrrecs.</li><li><b>A la Direcció General de Funció Pública (DGFP):</b> Convocar processos selectius i concursos generals, resoldre expedients de compatibilitat, nomenar funcionaris i declarar situacions/jubilacions (llevat del que s'atribueixi expressament als departaments).</li></ul>",
+            "doctrina":"La DGFP manté la competència general subsidiària i la gestió dels cossos generals de l'Administració."
+        },
+        {
+            "id": 8,
+            "sector": "atribució-departaments",
+            "question": "Què acorda el decret GOV/117/2022 respecte a les competències dels departaments en matèria de personal?",
+            "answer":"Estableix l'<b>atribució temporal (per 5 anys)</b> a favor de <b>tots els departaments de la Generalitat</b> per gestionar directament el seu personal adscrit en matèria de:<br><ul><li>Declaració de <b>situacions administratives</b>.</li><li>Resolució de sol·licituds de <b>reingrés al servei actiu</b>.</li><li>Declaració de la <b>pèrdua de la condició de funcionari</b>.</li><li>Declaració del <b>perllongament en el servei actiu</b> i rehabilitacions específiques.</li><li>Resolució de <b>compatibilitats</b>.</li></ul>",
+            "doctrina":"Busca flexibilitzar, descentralitzar i simplificar la gestió ordinària dels recursos humans des d'una perspectiva de modernització."
+        },
+        {
+            "id": 9,
+            "sector": "atribució-departaments",
+            "question": "Com es gestiona un reingrés al servei actiu sense reserva de lloc si el departament de procedència no té vacants?",
+            "answer":"Si el departament de la darrera destinació no disposa de vacants dotades a <b>menys de 40 quilòmetres</b> d'aquell municipi, ho ha de <b>comunicar a la Direcció General de Funció Pública</b>. La DGFP, segons els criteris de prelació, informarà a quin departament alternatiu s'ha d'adreçar la sol·licitud.",
+            "doctrina":"Evita la dispersió geogràfica forçosa del personal i optimitza les places pressupostades globalment."
+        },
+        {
+            "id": 10,
+            "sector": "atribució-departaments",
+            "question": "Quins departaments tenen atribucions exclusives i singulars de selecció i provisió per als seus cossos especials segons l'Acord GOV/117/2022?",
+            "answer":"<ul><li><b>Departament de Salut:</b> Cossos de sanitat local i metges inspectors.</li><li><b>Departament d'Interior:</b> Cos d'Agents Rurals (i Mossos d'Esquadra per la seva llei pròpia).</li><li><b>Departament de Justícia:</b> Personal penitenciari i d'execució penal.</li><li><b>Departament d'Educació:</b> Cossos docents (per la Llei d'Educació).</li></ul>Aquests departaments poden <b>convocar els seus processos selectius i concursos de provisió propis</b>.",
+            "doctrina":"Es tracta d'una descentralització sectorial profunda justificada per la naturalesa altament especialitzada d'aquests serveis públics."
+        },
+        {
+            "id": 11,
+            "sector": "rlt-estructura",
+            "question": "Què és la Relació de Llocs de Treball (RLT) i quina diferència té amb la Plantilla de Personal?",
+            "answer":"<ul><li><b>RLT:</b> És l'<b>instrument tècnic</b> de caràcter públic d'ordenació del personal segons les necessitats del servei. Inclou tots els llocs existents i els seus requisits de desenvolupament.</li><li><b>Plantilla:</b> És un concepte estrictament <b>pressupostari</b>. És el conjunt de llocs de la RLT que estan <b>dotats econòmicament</b> en els pressupostos vigents.</li></ul>La RLT és sempre igual o superior en nombre a la plantilla.",
+            "doctrina":"Exemple: Un lloc po t estar creat a la RLT però 'no dotat' a la plantilla; per tant, no es pot ocupar fins que rebi crèdit pressupostari."
+        },
+        {
+            "id": 12,
+            "sector": "rlt-estructura",
+            "question": "Quin és el contingut mínim obligatori que ha de fer constar una Relació de Llocs de Treball (RLT)?",
+            "answer":"D'acord amb la normativa, ha d'especificar:<br><ul><li>La denominació i característiques essencials del lloc.</li><li>Els <b>requisits exigits per ocupar-lo</b> (cos, escala o grup).</li><li>El <b>règim jurídic</b> aplicable (funcionari o laboral).</li><li>Les retribucions complementàries: <b>Complement de destinació (nivell) i complement específic</b>.</li><li>La <b>forma de provisió</b> (concurs o lliure designació).</li></ul>",
+            "doctrina":"La RLT vincula tant l'Administració com els aspirants; no es pot proveir cap lloc que no figuri en ella."
+        },
+        {
+            "id": 13,
+            "sector": "rlt-estructura",
+            "question": "Com es classifiquen els llocs de treball de la Generalitat segons la seva forma de provisió?",
+            "answer":"<ul><li><b>Concurs (règim general):</b> Sistema ordinari on es valoren mèrits, capacitats i, de vegades, aptituds mitjançant proves acadèmiques o pràctiques.</li><li><b>Lliure designació (excepció):</b> Per a llocs de caràcter directiu, de comandament superior o d'especial responsabilitat i confiança (com caps de servei o secretaris d'alts càrrecs). Requereix convocatòria pública i apreciació discrecional.</li></ul>",
+            "doctrina":"L'article 65 del Decret legislatiu 1/1997 regula la provisió singularitzada de comandaments."
+        },
+        {
+            "id": 14,
+            "sector": "racionalització",
+            "question": "Què són els Plans d'Ocupació i quins efectes poden produir en el personal de l'Administració?",
+            "answer":"Són els instruments de planificació integral per aconseguir una dimensió idònia dels recursos humans. Poden comportar:<br><ul><li>Modificacions d'estructures organitzatives i de llocs de treball.</li><li><b>Suspensió d'incorporacions</b> de personal extern.</li><li><b>Reassignació d'efectius</b> (mobilitat del personal afectat).</li><li>Cursos de formació i capacitació obligatoris.</li></ul>",
+            "doctrina":"Són obligatoris els informes econòmics i de justificació de causes objectives abans de la seva aprovació pel Govern."
+        },
+        {
+            "id": 15,
+            "sector": "racionalització",
+            "question": "Quines són les 3 fases cronològiques del procés de reassignació forçosa d'efectius?",
+            "answer":"<ul><li><b>Primera etapa (fins a 6 mesos):</b> Reassignació en llocs del mateix departament o àmbit sectorial. Manteniment de retribucions. Mobilitat provincial voluntària.</li><li><b>Segona etapa (3 mesos):</b> Reassignació coordinada per Funció Pública cap a altres departaments. Encara voluntari canviar de província.</li><li><b>Tercera etapa (Expectativa de destinació):</b> S'aplica si no s'ha obtingut lloc en les fases anteriors. Passa a dependre corporativament de la DGFP.</li></ul>",
+            "doctrina":"El compliment de les ordres i destinacions durant la reassignació és d'obligat seguiment per evitar sancions de servei."
+        },
+        {
+            "id": 16,
+            "sector": "racionalització",
+            "question": "Quines obligacions i retribucions tenen els funcionaris declarats en situació d'expectativa de destinació?",
+            "answer":"<b>Retribucions:</b> Percepció de retribucions bàsiques, complement de destinació complet i el <b>50% del complement específic</b>.<br><b>Obligacions strictu sensu:</b><br><ul><li>Acceptar destinacions característiques similars (<b>obligatori fins i tot fora de la província</b>).</li><li>Participar en concursos de provisió idonis.</li><li>Participar en els cursos de formació als quals se'ls convoqui.</li></ul>",
+            "doctrina":"S'equipara a la situació de servei actiu a efectes de còmput de temps, però l'incompliment de les obligacions comporta el pas automàtic a excedència forçosa."
+        },
+        {
+            "id": 17,
+            "sector": "racionalització",
+            "question": "Quin és el termini màxim de permanència en la situació d'expectativa de destinació i què passa un cop vençut?",
+            "answer":"El termini màxim és de <b>1 any</b>. Un cop transcorregut aquest temps sense haver obtingut una destinació definitiva, el funcionari passa automàticament a la situació d'<b>excedència forçosa</b>.",
+            "doctrina":"L'excedència forçosa per racionalització dona dret a percebre retribucions bàsiques i triennis, mantenint l'obligació de participar en concursos."
+        },
+        {
+            "id": 18,
+            "sector": "racionalització",
+            "question": "En què consisteix l'excedència voluntària incentivada en el marco de les mesures de racionalització?",
+            "answer":"És una modalitat a la qual es poden acollir voluntàriament els funcionaris afectats per un procés de reassignació d'efectius o en expectativa de destinació. Concedeix el dret a una <b>indemnització econòmica</b> equivalent a una mensualitat de retribucions per any de servei (amb topalls legals).",
+            "doctrina":"Té com a contrapartida que el funcionari manifesta la seva voluntat de trencar temporalment el vincle actiu sense dret a reserva de lloc de treball."
+        },
+        {
+            "id": 19,
+            "sector": "racionalització",
+            "question": "Quines mesures de racionalització preveu el VIè Conveni Col·lectiu Únic per al personal laboral de la Generalitat?",
+            "answer":"Preveu instruments de flexibilitat organitzativa d'acord amb l'Estatut dels Treballadors:<br><ul><li><b>Trasllats forçosos</b> derivats de canvis d'adscripció de llocs entre unitats orgàniques.</li><li><b>Modificació substancial de les condicions de treball</b> (per causes econòmiques, tècniques, organitzatives o de producció).</li><li>Mobilitat funcional i mobilitat geogràfica, buscant amortitzar vacants quan restin lliures.</li></ul>",
+            "doctrina":"Garanteix l'adscripció preferent a la vacant més propera a la residència del treballador afectat."
+        },
+        {
+            "id": 20,
+            "sector": "rlt-estructura",
+            "question": "Quin procediment cal seguir per modificar la plantilla pressupostària a diferència de la RLT ordinària?",
+            "answer":"Mentre que la RLT es modifica mitjançant acords tècnics validats per la CTFP o el Govern, la modificació de la plantilla pressupostària requereix la proposta dels departaments en el <b>termini d'un mes des de l'entrada en vigor dels Pressupostos de la Generalitat</b>, elevant la llista de places vacants dotades a través de la Direcció General de Funció Pública.",
+            "doctrina":"Aquest tràmit anual lliga estretament la gestió de personal amb la Llei de Pressupostos aprovada pel Parlament."
+        }
+    ]
