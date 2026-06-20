@@ -166,7 +166,6 @@ function canviarTema() {
 
 sourceCards = rawData.map(d => ({
     ...d,
-
     markedForReview: false,
     lastResult: null,
 
@@ -344,14 +343,16 @@ document.getElementById('back-text').innerHTML = respostaHtml;
 
 if (isOk) {
 
-    realCard.totalOk++;
+    realCard.totalOk =
+        (realCard.totalOk || 0) + 1;
 
     realCard.lastOkDate =
         new Date().toISOString();
 
 } else {
 
-    realCard.totalFail++;
+    realCard.totalFail =
+        (realCard.totalFail || 0) + 1;
 
     realCard.lastFailDate =
         new Date().toISOString();
