@@ -51,6 +51,92 @@ for (const tema of indexData) {
     let currentStats = { correct: 0, incorrect: 0 };
     let chartCtx = null;
     let currentEssayType = ""; 
+const STORAGE_KEY = "flashcards_eapc_progress";
+
+function saveProgress() {
+
+    const progress = {
+
+        history,
+        sessionCount,
+
+        cards: sourceCards.map(c => ({
+
+            id: c.id,
+
+            markedForReview: c.markedForReview,
+            lastResult: c.lastResult,
+
+            totalOk: c.totalOk,
+            totalFail: c.totalFail,
+
+            lastOkDate: c.lastOkDate,
+            lastFailDate: c.lastFailDate
+
+        }))
+    };
+
+    localStorage.setItem(
+        STORAGE_KEY,
+        JSON.stringify(progress)
+    );
+}
+
+function loadProgress() {
+
+    const saved =
+        localStorage.getItem(STORAGE_KEY);
+
+    if (!saved) return;
+
+    try {
+
+        const progress =
+            JSON.parse(saved);
+
+        history =
+            progress.history || [];
+
+        sessionCount =
+            progress.sessionCount || 0;
+
+        const cardsState =
+            progress.cards || [];
+
+        cardsState.forEach(savedCard => {
+
+            const card =
+                sourceCards.find(
+                    c => c.id === savedCard.id
+                );
+
+            if (!card) return;
+
+            card.markedForReview =
+                savedCard.markedForReview;
+
+            card.lastResult =
+                savedCard.lastResult;
+
+            card.totalOk =
+                savedCard.totalOk || 0;
+
+            card.totalFail =
+                savedCard.totalFail || 0;
+
+            card.lastOkDate =
+                savedCard.lastOkDate || null;
+
+            card.lastFailDate =
+                savedCard.lastFailDate || null;
+        });
+
+    } catch(error) {
+
+        console.error(error);
+
+    }
+}
 function omplirSelectorTemes() {
 
     const select = document.getElementById('tema-select');
@@ -76,12 +162,21 @@ function canviarTema() {
 
     if (valor === 'all') {
 
-        sourceCards = rawData.map(d => ({
-            ...d,
-            markedForReview: false,
-            lastResult: null
-        }));
+sourceCards = rawData.map(d => ({
+    ...d,
 
+    markedForReview: false,
+    lastResult: null,
+
+    totalOk: 0,
+    totalFail: 0,
+
+    lastOkDate: null,
+    lastFailDate: null
+}));
+      loadProgress();  
+setupChart();
+startNewEssay();
     } else {
 
         sourceCards = rawData
@@ -206,6 +301,21 @@ document.getElementById('back-text').innerHTML = respostaHtml;
             
             const realCard = sourceCards.find(c => c.id === card.id);
             realCard.lastResult = isOk ? 'ok' : 'fail';
+
+if (isOk) {
+
+    realCard.totalOk++;
+
+    realCard.lastOkDate =
+        new Date().toISOString();
+
+} else {
+
+    realCard.totalFail++;
+
+    realCard.lastFailDate =
+        new Date().toISOString();
+}
 
             history.push({
                 sessionId: sessionCount,
