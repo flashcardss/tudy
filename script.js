@@ -555,4 +555,3 @@ localStorage.removeItem(
     init();
 });
     window.onresize = setupChart;
-window.addEventListener('DOMContentLoaded', loadFlashcards);
