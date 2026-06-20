@@ -94,8 +94,10 @@ function loadProgress() {
         const progress =
             JSON.parse(saved);
 
-        history =
-            progress.history || [];
+history = (progress.history || []).map(h => ({
+    ...h,
+    date: new Date(h.date)
+}));
 
         sessionCount =
             progress.sessionCount || 0;
@@ -191,18 +193,25 @@ startNewEssay();
     startNewEssay();
 }
     async function init() {
-await loadFlashcards();
 
 omplirSelectorTemes();
 
 sourceCards = rawData.map(d => ({
-            ...d,
-            markedForReview: false,
-            lastResult: null
-        }));
-        
-        setupChart();
-        startNewEssay();
+    ...d,
+    markedForReview: false,
+    lastResult: null,
+
+    totalOk: 0,
+    totalFail: 0,
+
+    lastOkDate: null,
+    lastFailDate: null
+}));
+
+loadProgress();
+
+setupChart();
+startNewEssay();
         
         document.getElementById('scene').addEventListener('click', (e) => {
             if (e.target.closest('.review-toggle')) return;
@@ -348,14 +357,16 @@ if (isOk) {
         new Date().toISOString();
 }
 
-            history.push({
-                sessionId: sessionCount,
-                sessionType: currentEssayType, 
-                date: new Date(),
-                word: card.word,
-                reason: card.reason,
-                result: isOk ? "Encert" : "Error"
-            });
+history.push({
+    sessionId: sessionCount,
+    sessionType: currentEssayType,
+    date: new Date(),
+
+    question: card.question,
+    answer: card.answer,
+
+    result: isOk ? "Encert" : "Error"
+});
 
 updateChart();
 updateUI();
@@ -505,9 +516,10 @@ renderCard();
         let csv = "Sessió;Filtre_Assaig;Data;Hora;Pregunta_Concepte;Resultat_Avaluació;Doctrina_Literal_EAPC\n";
         
         history.forEach(h => {
-            const escapedReason = h.reason.replace(/"/g, '""');
-            const typeLabel = h.sessionType || "general";
             
+            const typeLabel = h.sessionType || "general";
+            const escapedAnswer =
+    (h.answer || "").replace(/"/g, '""');
             const year = h.date.getFullYear();
             const month = String(h.date.getMonth() + 1).padStart(2, '0');
             const day = String(h.date.getDate()).padStart(2, '0');
