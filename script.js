@@ -412,7 +412,8 @@ saveProgress();
     document.getElementById('btn-new-essay').onclick = startNewEssay;
     document.getElementById('btn-essay-failed').onclick = startFailedEssay;
     document.getElementById('btn-essay-review').onclick = startReviewEssay;
-    
+    document.getElementById('btn-essay-difficult').onclick =
+    startDifficultEssay;
     document.getElementById('btn-toggle-review').onclick = (e) => {
         e.stopPropagation();
         const card = currentEssayCards[currentIndex];
@@ -524,9 +525,26 @@ renderCard();
 
     document.getElementById('btn-reset-chart').onclick = () => {
         if(confirm("Segur que vols esborrar l'historial complet i posar el comptador de sessions a zero?")) {
-            history = [];
-            sourceCards.forEach(c => { c.lastResult = null; });
-            sessionCount = 0; 
+           history = [];
+
+sourceCards.forEach(c => {
+
+    c.lastResult = null;
+
+    c.markedForReview = false;
+
+    c.totalOk = 0;
+    c.totalFail = 0;
+
+    c.lastOkDate = null;
+    c.lastFailDate = null;
+});
+
+sessionCount = 0;
+
+localStorage.removeItem(
+    STORAGE_KEY
+);
             startNewEssay();
             updateChart();
         }
