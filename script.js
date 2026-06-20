@@ -246,7 +246,38 @@ sourceCards = rawData.map(d => ({
         resetSessionStats();
         renderCard();
     }
+function startDifficultEssay() {
 
+    const difficultCards = sourceCards
+        .filter(c => c.totalFail > 0)
+        .sort(
+            (a, b) =>
+            (b.totalFail - b.totalOk)
+            -
+            (a.totalFail - a.totalOk)
+        );
+
+    if (difficultCards.length === 0) {
+
+        alert(
+            "Encara no hi ha preguntes difícils registrades."
+        );
+
+        return;
+    }
+
+    currentEssayType = "dificils";
+
+    currentEssayCards =
+        difficultCards.map(c => ({
+            ...c,
+            answeredInThisSession: false
+        }));
+
+    resetSessionStats();
+
+    renderCard();
+}
     function resetSessionStats() {
         currentIndex = 0;
         sessionCount++; 
@@ -326,8 +357,9 @@ if (isOk) {
                 result: isOk ? "Encert" : "Error"
             });
 
-            updateChart();
-            updateUI();
+updateChart();
+updateUI();
+saveProgress();
         }
         nextCard();
     }
@@ -385,8 +417,12 @@ if (isOk) {
         e.stopPropagation();
         const card = currentEssayCards[currentIndex];
         const realCard = sourceCards.find(c => c.id === card.id);
-        realCard.markedForReview = !realCard.markedForReview;
-        renderCard();
+        realCard.markedForReview =
+    !realCard.markedForReview;
+
+saveProgress();
+
+renderCard();
     };
 
     function setupChart() {
