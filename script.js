@@ -412,7 +412,7 @@ saveProgress();
         const typeLabel = currentEssayType ? ` (Filtre: ${currentEssayType})` : " (Assaig General)";
 
         document.getElementById('stats-summary').innerHTML = 
-            `Estat actual del bloc retributiu${typeLabel}: ${currentStats.correct} Encerts / ${currentStats.incorrect} Errors (${totalAnswered} de ${total} avaluats)<br>` +
+            `Estat actual${typeLabel}: ${currentStats.correct} Encerts / ${currentStats.incorrect} Errors (${totalAnswered} de ${total} avaluats)<br>` +
             `<strong>Percentatge d'èxit de la sessió: ${percent}%</strong>`;
     }
 
