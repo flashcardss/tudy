@@ -363,6 +363,9 @@ history.push({
     sessionType: currentEssayType,
     date: new Date(),
 
+    bloc: card.bloc,
+    tema: card.tema,
+
     question: card.question,
     answer: card.answer,
 
