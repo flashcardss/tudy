@@ -530,7 +530,7 @@ let csv = "Bloc;Tema;Sessió;Filtre_Assaig;Data;Hora;Pregunta_Concepte;Resultat_
             const hours = String(h.date.getHours()).padStart(2, '0');
             const minutes = String(h.date.getMinutes()).padStart(2, '0');
             
-            csv += `${h.sessionId};"${typeLabel}";${year}-${month}-${day};${hours}:${minutes};"${h.question}";${h.result};"${escapedAnswer}"\n`;
+            csv += `"${h.bloc}";"${h.tema}";${h.sessionId};"${typeLabel}";${year}-${month}-${day};${hours}:${minutes};"${h.question}";${h.result};"${escapedAnswer}"\n`;
         });
         
         const blob = new Blob(["\uFEFF" + csv], { type: 'text/csv;charset=utf-8;' });
