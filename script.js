@@ -536,7 +536,7 @@ let csv = "Bloc;Tema;Sessió;Filtre_Assaig;Data;Hora;Pregunta_Concepte;Resultat_
         const blob = new Blob(["\uFEFF" + csv], { type: 'text/csv;charset=utf-8;' });
         const url = URL.createObjectURL(blob);
         const a = document.createElement("a");
-        a.href = url; a.download = "progres_retributiu_EAPC.csv"; a.click();
+        a.href = url; a.download = "Registre_flashcards.csv"; a.click();
     };
 
     document.getElementById('btn-reset-chart').onclick = () => {
