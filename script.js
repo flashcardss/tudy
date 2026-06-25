@@ -1,4 +1,4 @@
-// Dades extretes estrictament de la font de dades proporcionada per l'usuari (EAPC Wiki - 5. Sistema retributiu)
+// Dades extretes estrictament de la font de dades proporcionada per l'usuari
 let rawData = [];
 let indexDataGlobal = [];
 
@@ -385,7 +385,7 @@ saveProgress();
             renderCard();
             updateUI();
         } else {
-            if(confirm("Has completat les targetes actives de l'assaig d'EAPC. Vols reiniciar aquesta llista?")) {
+            if(confirm("Has completat les targetes actives de l'assaig actual. Vols reiniciar aquesta llista?")) {
                 currentIndex = 0;
                 currentEssayCards.forEach(c => c.answeredInThisSession = false);
                 renderCard();
@@ -517,7 +517,7 @@ renderCard();
     document.getElementById('btn-export').onclick = () => {
         if (history.length === 0) return alert("No hi ha dades per exportar en l'historial d'assaigs actual.");
         
-let csv = "Bloc;Tema;Sessió;Filtre_Assaig;Data;Hora;Pregunta_Concepte;Resultat_Avaluació;Doctrina_Literal_EAPC\n";
+let csv = "Bloc;Tema;Sessió;Filtre_Assaig;Data;Hora;Pregunta_Concepte;Resultat_Avaluació;Doctrina\n";
         
         history.forEach(h => {
             
