@@ -517,7 +517,7 @@ renderCard();
     document.getElementById('btn-export').onclick = () => {
         if (history.length === 0) return alert("No hi ha dades per exportar en l'historial d'assaigs actual.");
         
-        let csv = "Sessió;Filtre_Assaig;Data;Hora;Pregunta_Concepte;Resultat_Avaluació;Doctrina_Literal_EAPC\n";
+let csv = "Bloc;Tema;Sessió;Filtre_Assaig;Data;Hora;Pregunta_Concepte;Resultat_Avaluació;Doctrina_Literal_EAPC\n";
         
         history.forEach(h => {
             
