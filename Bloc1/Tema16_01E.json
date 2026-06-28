@@ -2,140 +2,140 @@
   {
     "id": 1,
     "sector": "òrgans-superiors",
-    "question": "Quin dels següents no és un òrgan superior en matèria de personal segons la normativa? a) El Govern. b) La Comissió tècnica dels serveis de personal. c) El Conseller competent en matèria de Funció Pública. d) El Consell Català de la Funció Pública.",
+    "question": "Quin dels següents no és un òrgan superior en matèria de personal segons la normativa?<br>a) El Govern.<br>b) La Comissió tècnica dels serveis de personal.<br>c) El Conseller competent en matèria de Funció Pública.<br>d) El Consell Català de la Funció Pública.",
     "answer": "La resposta correcta és la b) La Comissió tècnica dels serveis de personal.",
     "doctrina": "Segons l'article 4 del Decret legislatiu 1/1997, els cinc òrgans superiors són el Govern, el conseller/a competent, la Comissió Tècnica de la Funció Pública (fixeu-vos que el nom correcte no és 'de serveis de personal'), el Consell Català de la Funció Pública i la Inspecció General dels Serveis de Personal. Aquesta distinció és terminològica pero fonamental en l'examen."
   },
   {
     "id": 2,
     "sector": "racionalització",
-    "question": "A quin personal es poden aplicar les mesures i instruments de racionalització adoptades pel Govern de la Generalitat i amb quina limitació? a) Al personal funcionari amb la possibilitat d’incidir en la classificació dels llocs de treball. b) Al personal funcionari i laboral amb la possibilitat d’incidir en la classificació dels llocs de treball. c) Al personal funcionari però sense la possibilitat d’incidir en la classificació dels llocs de treball. d) Al personal funcionari i laboral però sense la possibilitat d’incidir en la classificació dels llocs de treball.",
+    "question": "A quin personal es poden aplicar les mesures i instruments de racionalització adoptades pel Govern de la Generalitat i amb quina limitació?<br>a) Al personal funcionari amb la possibilitat d’incidir en la classificació dels llocs de treball.<br>b) Al personal funcionari i laboral amb la possibilitat d’incidir en la classificació dels llocs de treball.<br>c) Al personal funcionari però sense la possibilitat d’incidir en la classificació dels llocs de treball.<br>d) Al personal funcionari i laboral però sense la possibilitat d’incidir en la classificació dels llocs de treball.",
     "answer": "La resposta correcta és la d) Al personal funcionari i laboral però sense la possibilitat d’incidir en la classificació dels llocs de treball.",
     "doctrina": "L'article 68 del TRLFP faculta al Govern per aplicar aquests instruments a tot el personal per optimitzar els recursos humans. No obstant això, la racionalització busca la redistribució d'efectius o la formació, però no és el mecanisme legal per modificar la valoració tècnica o la classificació dels llocs que ja estan definits a la RLT."
   },
   {
     "id": 3,
     "sector": "òrgans-superiors",
-    "question": "Quines de les següents funcions i càrrecs ostenta el conseller competent en matèria de funció pública? a) Prepara propostes relatives a la relació de llocs de treball i també, si s’escau, de la valoració dels llocs de treball. b) És el President de la Comissió Tècnica de la funció pública. c) És membre del Consell Català de la funció pública. d) Totes les respostes anteriors són correctes.",
+    "question": "Quines de les següents funcions i càrrecs ostenta el conseller competent en matèria de funció pública?<br>a) Prepara propostes relatives a la relació de llocs de treball i també, si s’escau, de la valoració dels llocs de treball.<br>b) És el President de la Comissió Tècnica de la funció pública.<br>c) És membre del Consell Català de la funció pública.<br>d) Totes les respostes anteriors són correctes.",
     "answer": "La resposta correcta és la d) Totes les respostes anteriors són correctes.",
     "doctrina": "El conseller (actualment el titular de la Presidència) té un paper transversal: prepara l'oferta d'ocupació pública i les RLT (article 6), presideix l'òrgan de coordinació tècnica (CTFP, article 7) i s'integra en l'òrgan consultiu superior (Consell Català, article 8)."
   },
   {
     "id": 4,
     "sector": "òrgans-superiors",
-    "question": "Sota quina premissa és possible l'atribució de competències del Conseller competent en matèria de funció pública a altres departaments per part del Govern? a) Respecte de toutes les competències del Conseller mencionat. b) Respecte de totes les competències del Conseller mencionat, a excepció de la relativa a les mesures de funcionament del Registre General de Personal i la preparació del projecte d’oferta d’ocupació pública. c) Si és temporal sense que precisi de la proposta prèvia del mateix conseller mencionat. d) Si ho requereix, com a premissa, l’efectivitat dels serveis.",
+    "question": "Sota quina premissa és possible l'atribució de competències del Conseller competent en matèria de funció pública a altres departaments per part del Govern?<br>a) Respecte de toutes les competències del Conseller mencionat.<br>b) Respecte de totes les competències del Conseller mencionat, a excepció de la relative a les mesures de funcionament del Registre General de Personal i la preparació del projecte d’oferta d’ocupació pública.<br>c) Si és temporal sense que precisi de la proposta prèvia del mateix conseller mencionat.<br>d) Si ho requereix, com a premissa, l’efectivitat dels serveis.",
     "answer": "La resposta correcta és la d) Si ho requereix, com a premissa, l’efectivitat dels serveis.",
-    "doctrina": "L'article 6.3 del TRLFP permet aquesta delegació o atribució selectiva de competències (com nomenaments o concursos) cap als diversos departaments per guanyar agilitat, sempre que el departament de Funció Pública mantingui les facultats d'inspecció i fixació de criteris."
+    "doctrina": "L'article 6.3 del TRLFP permet aquesta delegació o attribution selectiva de competències (com nomenaments o concursos) cap als diversos departaments per guanyar agilitat, sempre que el departament de Funció Pública mantingui les facultats d'inspecció i fixació de criteris."
   },
   {
     "id": 5,
     "sector": "instruments-gestió",
-    "question": "Com es defineix jurídicament la Relació de Llocs de Treball (RLT)? a) Un document administratiu que inclou el total de la plantilla de la generalitat. b) Un document privat de gestió interna de les Administracions Públiques. c) Un document de caràcter públic que actualitza anualment cada departament. d) Un instrument d’ordenació del personal.",
+    "question": "Com es defineix jurídicament la Relació de Llocs de Treball (RLT)?<br>a) Un document administratiu que inclou el total de la plantilla de la generalitat.<br>b) Un document privat de gestió interna de les Administracions Públiques.<br>c) Un document de caràcter públic que actualitza anualment cada departament.<br>d) Un instrument d’ordenació del personal.",
     "answer": "La resposta correcta és la d) Un instrument d’ordenació del personal.",
     "doctrina": "L'EBEP (art. 74) i el TRLFP defineixen la RLT com l'instrument tècnic essencial per estructurar l'organització. És un document públic que identifica els requisits, funcions i retribucions de cada unitat elemental de l'estructura: el lloc de treball."
   },
   {
     "id": 6,
     "sector": "competències-departamentals",
-    "question": "Segons l’acord de Govern 117/2022, quines potestats s'atribueixen als Departaments de la Generalitat? a) Totes les potestats del conseller competent en matèria de funció pública en els Departaments de la Generalitat. b) Algunes de les potestats del conseller competent en matèria de funció pública, especialment la de l’aprovació de la relació de llocs de treball. c) Les potestats del Conseller competent en matèria de funció pública i del Govern. d) Cap de les respostes anteriors és correcte.",
+    "question": "Segons l’acord de Govern 117/2022, quines potestats s'atribueixen als Departaments de la Generalitat?<br>a) Totes les potestats del conseller competent en matèria de funció pública en els Departaments de la Generalitat.<br>b) Algunes de les potestats del conseller competent en matèria de funció pública, especialment la de l’aprovació de la relació de llocs de treball.<br>c) Les potestats del Conseller competent en matèria de funció pública i del Govern.<br>d) Cap de les respostes anteriors és correcte.",
     "answer": "La resposta correcta és la b) Algunes de les potestats del conseller competent en matèria de funció pública, especialment la de l’aprovació de la relació de llocs de treball.",
     "doctrina": "Aquest acord aprofundeix en la descentralització funcional, permetent que els departaments aprovin les seves pròpies modificacions de RLT quan no comportin un increment de despesa, agilitzant així la gestió diària dels recursos humans."
   },
   {
     "id": 7,
     "sector": "racionalització",
-    "question": "Què poden incloure les mesures de racionalització del personal? a) No poden afectar al personal laboral. b) Les aprova el conseller competent de cada departament. c) Poden incloure mesures específiques de promoció interna. d) Totes les respostes són correctes.",
+    "question": "Què poden incloure les mesures de racionalització del personal?<br>a) No poden afectar al personal laboral.<br>b) Les aprova el conseller competent de cada departament.<br>c) Poden incloure mesures específiques de promoció interna.<br>d) Totes les respostes són correctes.",
     "answer": "La resposta correcta és la c) Poden incloure mesures específiques de promoció interna.",
-    "doctrina": "L'article 68.b del TRLFP estableix que els instruments de racionalització poden preveure torns especials de promoció interna per adaptar el personal a les noves estructures o necessitats derivades d'una reorganització."
+    "doctrina": "L'article 68.b del TRLFP estableix que els instruments de racionalització podem preveure torns especials de promoció interna per adaptar el personal a les noves estructures o necessitats derivades d'una reorganització."
   },
   {
     "id": 8,
     "sector": "situacions-administratives",
-    "question": "En quin cas s'esdevé o es relaciona l'excedència forçosa amb la gestió de personal? a) Sempre té lloc quan s’aplica una mesura de racionalització. b) S’esdevé en determinats casos com a conseqüència d’una mesura de racionalització tot i que el funcionari es manté en actiu. c) És una situació administrativa que pot donar-se en una reassignació d’efectius. d) És una mesura de racionalització.",
+    "question": "En quin cas s'esdevé o es relaciona l'excedència forçosa amb la gestió de personal?<br>a) Sempre té lloc quan s’aplica una mesura de racionalització.<br>b) S’esdevé en determinats casos com a conseqüència d’una mesura de racionalització tot i que el funcionari es manté en actiu.<br>c) És una situació administrativa que pot donar-se en una reassignació d’efectius.<br>d) És una mesura de racionalització.",
     "answer": "La resposta correcta és la c) És una situació administrativa que pot donar-se en una reassignació d’efectius.",
     "doctrina": "Segons l'article 90 del TRLFP, l'excedència forçosa es declara quan, fruit d'una reducció de llocs (racionalització) o reassignació, no és possible mantenir el funcionari en servei actiu per manca de vacants. En aquesta situació, el funcionari té dret a retribucions bàsiques i triennis."
   },
   {
     "id": 9,
     "sector": "òrgans-superiors",
-    "question": "Quina és una característica compositiva del Consell Català de la Funció Pública? a) És l’òrgan superior col·legiat d’execució dels assumptes de personal. b) És un òrgan col·legiat de participació del personal però no de consulta. c) Està format per cinc representants del Govern entre d’altres. d) Està presidit pel President d’una de les corporacions locals de Catalunya.",
+    "question": "Quina és una característica compositiva del Consell Català de la Funció Pública?<br>a) És l’òrgan superior col·legiat d’execució dels assumptes de personal.<br>b) És un òrgan col·legiat de participació del personal però no de consulta.<br>c) Està format per cinc representants del Govern entre d’altres.<br>d) Està presidit pel President d’una de les corporacions locals de Catalunya.",
     "answer": "La resposta correcta és la c) Està format per cinc representants del Govern entre d’altres.",
     "doctrina": "L'article 8 del TRLFP defineix el Consell Català com un òrgan superior col·legiat de consulta, informe, proposta i participació. La seva composició és tripartita: 5 del Govern, 5 de les corporacions locals i 5 dels sindicats, sota la presidència del conseller/a competent."
   },
   {
     "id": 10,
     "sector": "instruments-gestió",
-    "question": "Qui té la competència per aprovar els intervals dels nivells dels cossos i les escales? a) El Govern. b) La Comissió tècnica per delegació del Govern. c) El Conseller competent en matèria de Funció Pública. d) El Conseller competent dels llocs d’adscripció.",
+    "question": "Qui té la competència per aprovar els intervals dels nivells dels cossos i les escales?<br>a) El Govern.<br>b) La Comissió tècnica per delegació del Govern.<br>c) El Conseller competent en matèria de Funció Pública.<br>d) El Conseller competent dels llocs d’adscripció.",
     "answer": "La resposta correcta és la a) El Govern.",
     "doctrina": "L'article 5.d del TRLFP reserva al Govern la facultat d'aprovar els intervals (mínim i màxim) que corresponen a cada cos dins dels 30 nivells existents, sent una decisió de política global de funció pública."
   },
   {
     "id": 11,
     "sector": "jubilació",
-    "question": "Declarar el perllongament en el servei actiu del personal funcionari és una competència del Conseller competent en matèria de funció pública que s'ha: a) Atribuïda, temporalment i per mitjà d’Acord de Govern, a tots els departament de la Generalitat. b) Atribuïda, temporalment i per mitjà d’Acord de Govern, als departaments de Salut, d’Interior, i de Justícia. c) Atribuïda, temporalment i per mitjà d’Acord de Govern, als departaments d’Empresa i Treball, de Cultura i de la Presidència. d) No atribuïble a la resta de departaments de la Generalitat.",
+    "question": "Declarar el perllongament en el servei actiu del personal funcionari és una competència del Conseller competent en matèria de funció pública que s'ha:<br>a) Atribuïda, temporalment i per mitjà d’Acord de Govern, a tots els departament de la Generalitat.<br>b) Atribuïda, temporalment i per mitjà d’Acord de Govern, als departaments de Salut, d’Interior, i de Justícia.<br>c) Atribuïda, temporalment i per mitjà d’Acord de Govern, als departaments d’Empresa i Treball, de Cultura i de la Presidència.<br>d) No atribuïble a la resta de departaments de la Generalitat.",
     "answer": "La resposta correcta és la b) Atribuïda, temporalment i per mitjà d’Acord de Govern, als departaments de Salut, d’Interior, i de Justícia.",
     "doctrina": "Basant-se en l'article 6.3 del TRLFP (efectivitat dels serveis), el Govern ha delegat la gestió de jubilacions i el seu perllongament (fins els 70 anys) en departaments amb un volum de personal molt elevat i específic per facilitar la tramitació directa."
   },
   {
     "id": 12,
     "sector": "racionalització",
-    "question": "En una reassignació d’efectius on el funcionari manté la situació de servei actiu, l’acceptació d’una plaça vacant alternativa en condicions similars: a) És obligatòria, excepte en cas de força major. b) És voluntària en tot cas. c) És obligatòria si la plaça està a la mateixa localitat. d) És obligatòria si la plaça està a la mateixa província.",
+    "question": "En una reassignació d’efectius on el funcionari manté la situació de servei active, l’acceptació d’una plaça vacant alternativa en condicions similars:<br>a) És obligatòria, excepte en cas de força major.<br>b) És voluntària en tot cas.<br>c) És obligatòria si la plaça està a la mateixa localitat.<br>d) És obligatòria si la plaça està a la mateixa província.",
     "answer": "La resposta correcta és la c) És obligatòria si la plaça està a la mateixa localitat.",
     "doctrina": "Aquest és un principi de mobilitat per necessitats del servei. Per protegir la conciliació, l'obligatorietat d'acceptar el nou destí es limita al mateix municipi o localitat, seguint la lògica de la redistribució d'efectius de l'article 67."
   },
   {
     "id": 13,
     "sector": "estructura-organitzativa",
-    "question": "Quina estructura de suport té la Secretaria d’Administració i Funció Pública segons el Decret 289/2022? a) Dos direccions Generals i la Comissió Tècnica. b) Tres Direccions Generals i l’Escola d’administració Pública de Catalunya. c) Dos Direccions Generals i un Gabinet de Suport Tècnic i Estudis. d) Tres Direccions Generals i la Comissió de Garantia del Dret d’Accés a la Informació Pública.",
+    "question": "Quina estructura de suport té la Secretaria d’Administració i Funció Pública segons el Decret 289/2022?<br>a) Dos direccions Generals i la Comissió Tècnica.<br>b) Tres Direccions Generals i l’Escola d’administració Pública de Catalunya.<br>c) Dos Direccions Generals i un Gabinet de Suport Tècnic i Estudis.<br>d) Tres Direccions Generals i la Comissió de Garantia del Dret d’Accés a la Informació Pública.",
     "answer": "La resposta correcta és la c) Dos Direccions Generals i un Gabinet de Suport Tècnic i Estudis.",
     "doctrina": "L'actual Secretaria s'organitza separant les funcions imperatives de gestió i execució (Direccions Generals) de les funcions d'anàlisi, prospectiva i preparació normativa que assumeix el Gabinet d'Estudis."
   },
   {
     "id": 14,
     "sector": "estructura-organitzativa",
-    "question": "A quina Direcció General pertany la Subdirecció General de Participació Ciutadana? a) A la Direcció General de Bon Govern, Transparència i Organització de l’Administració. b) A la Direcció General de Funció Pública. c) A la Direcció General de Bon Govern, Innovació i Qualitat democràtiques. d) A la Direcció General de Funció Pública i Planificació Estratègica.",
+    "question": "A quina Direcció General pertany la Subdirecció General de Participació Ciutadana?<br>a) A la Direcció General de Bon Govern, Transparència i Organització de l’Administració.<br>b) A la Direcció General de Funció Pública.<br>c) A la Direcció General de Bon Govern, Innovació i Qualitat democràtiques.<br>d) A la Direcció General de Funció Pública i Planificació Estratègica.",
     "answer": "La resposta correcta és la c) A la Direcció General de Bon Govern, Innovació i Qualitat democràtiques.",
     "doctrina": "L'organigrama actual del Departament de la Presidència vincula orgànicament la participació amb la innovació i la millora dels mecanismes democràtics de la Generalitat."
   },
   {
     "id": 15,
     "sector": "negociació-col·lectiva",
-    "question": "Establir els criteris d'actuació per a les negociacions col·lectives amb el personal laboral és una potestat de: a) Del Conseller competent en matèria de funció pública. b) De la Direcció General de Funció Pública. c) Del Govern. d) De la Comissió Tècnica.",
+    "question": "Establir els criteris d'actuació per a les negociacions col·lectives amb el personal laboral és una potestat de:<br>a) Del Conseller competent en matèria de funció pública.<br>b) De la Direcció General de Funció Pública.<br>c) Del Govern.<br>d) De la Comissió Tècnica.",
     "answer": "La resposta correcta és la c) Del Govern.",
     "doctrina": "Segons l'article 5.h del TRLFP, el Govern és qui fixa les línies mestres i els límits econòmics i normatius que han de seguir els representants de l'Administració quan negocien convenis col·lectius amb el personal laboral."
   },
   {
     "id": 16,
     "sector": "provisió",
-    "question": "Convocar i resoldre els concursos especials de provisió és una potestat de: a) Del Conseller competent en matèria de funció pública. b) Del Conseller del departament en el que estiguin adscrites les places. c) Del Govern. d) De la Comissió Tècnica per delegació del Govern.",
+    "question": "Convocar i resoldre els concursos especials de provisió és una potestat de:<br>a) Del Conseller competent en matèria de funció pública.<br>b) Del Conseller del departament en el que estiguin adscrites les places.<br>c) Del Govern.<br>d) De la Comissió Tècnica per delegació del Govern.",
     "answer": "La resposta correcta és la b) Del Conseller del departament en el que estiguin adscrites les places.",
-    "doctrina": "L'article 65 del TRLFP estableix que, mentre els concursos generals poden ser centralitzats, els concursos per a llocs de comandament (específics) o lliures designacions són competència de cada departament, ja que requereixen una valoració més propera a la singularitat del lloc."
+    "doctrina": "L'article 65 del TRLFP estableix que, mentre els concursos generals poden ser centralitzats, os concursos per a llocs de comandament (específics) o lliures designacions són competència de cada departament, ja que requereixen una valoració més propera a la singularitat del lloc."
   },
   {
     "id": 17,
     "sector": "òrgans-superiors",
-    "question": "Quin paper té el Director de l’Escola d’Administració Pública (EAPC) a la Comissió Tècnica de la Funció Pública? a) És un vocal de la Comissió Tècnica que actua com a Secretari de la Comissió. b) És un vocal de la Comissió Tècnica que actua com a President de la mateixa. c) És un vocal de la Comissió Tècnica que actua com a Vicepresident de la mateix. d) Cap de les respostes anteriors és correcte.",
+    "question": "Quin paper té el Director de l’Escola d’Administració Pública (EAPC) a la Comissió Tècnica de la Funció Pública?<br>a) És un vocal de la Comissió Tècnica que actua com a Secretari de la Comissió.<br>b) És un vocal de la Comissió Tècnica que actua com a President de la mateixa.<br>c) És un vocal de la Comissió Tècnica que actua com a Vicepresident de la mateix.<br>d) Cap de les respostes anteriors és correcte.",
     "answer": "La resposta correcta és la d) Cap de les respostes anteriors és correcte (és vocal, però no secretari ni president).",
     "doctrina": "L'article 7.2 del TRLFP indica que el Director de l'EAPC és un vocal. El president és el conseller i el secretari és el Director General de la Funció Pública. Per tant, és membre amb veu i vot però sense aquests càrrecs específics de gestió de l'òrgan."
   },
   {
     "id": 18,
     "sector": "instruments-gestió",
-    "question": "Segons la normativa, com s'han de regular els procediments de modificació de les RLT del personal funcionari? a) Mitjançant ordre conjunta del Conseller competent en matèria de funció pública i el Conseller d’Economia i Finances. b) Mitjançant ordre del Conseller del departaments del llocs d’adscripció. c) Mitjançant ordre del Conseller competent en matèria de funció Pública. d) Mitjançant Acord de Govern, a proposta conjunta del Conseller competent en matèria de funció pública i el Conseller d’Economia i Finances.",
+    "question": "Segons la normativa, com s'han de regular els procediments de modificació de les RLT del personal funcionari?<br>a) Mitjançant ordre conjunta del Conseller competent en matèria de funció pública i el Conseller d’Economia i Finances.<br>b) Mitjançant ordre del Conseller del departaments del llocs d’adscripció.<br>c) Mitjançant ordre del Conseller competent en matèria de funció Pública.<br>d) Mitjançant Acord de Govern, a proposta conjunta del Conseller competent en matèria de funció pública i el Conseller d’Economia i Finances.",
     "answer": "La resposta correcta és la c) Mitjançant ordre del Conseller competent en matèria de funció Pública.",
     "doctrina": "L'Ordre de 3 de febrer de 1994 és la que actualment desplega els procediments de modificació de les RLT. Aquesta facultat normativa procedimental correspon al titular del departament de funció pública per garantir l'homogeneïtat dels tràmit en tota l'Administració."
   },
   {
     "id": 19,
     "sector": "instruments-gestió",
-    "question": "Quina és la naturalesa jurídica del canvi d’horari d’un lloc de treball? a) No implica cap modificació a la relació de llocs de treball. b) És una modificació del lloc de treball que en cas de no incidir en el pressupost no s’ha de distingir de la resta de modificacions. c) Pot efectuar-se fins i tot quan es doni respecte de places incloses a una Oferta d’Ocupació Pública. d) Cap de les respostes anteriors és correcte.",
+    "question": "Quina és la naturalesa jurídica del canvi d’horari d’un lloc de treball?<br>a) No implica cap modificació a la relació de llocs de treball.<br>b) És una modificació del lloc de treball que en cas de no incidir en el pressupost no s’ha de distingir de la resta de modificacions.<br>c) Pot efectuar-se fins i tot quan es doni respecte de places incloses a una Oferta d’Ocupació Pública.<br>d) Cap de les respostes anteriors és correcte.",
     "answer": "La resposta correcta és la b) És una modificació del lloc de treball que en cas de no incidir en el pressupost no s’ha de distingir de la resta de modificacions.",
-    "doctrina": "L'horari és una característica essencial del lloc que consta a la RLT i té correlació amb el complement específic. Qualsevol variació és una modificació de la RLT i, segons l'Ordre de 1994, si no té cost econòmic segueix el tràmit de modificació parcial simplificada."
+    "doctrina": "L'horari és una characteristic essencial del lloc que consta a la RLT i té correlació amb el complement específic. Qualsevol variació és una modificació de la RLT i, segons l'Ordre de 1994, si no té cost econòmic segueix el tràmit de modificació parcial simplificada."
   },
   {
     "id": 20,
     "sector": "racionalització",
-    "question": "Quin dels següents no es considera una mesura o instrument de racionalització segons l'article 68 del TRLFP? a) El trasllat de dependències administratives. b) Els concursos de provisió. c) La reassignació d’efectius. d) El dimensionament de plantilles.",
+    "question": "Quin dels següents no es considera una mesura o instrument de racionalització segons l'article 68 del TRLFP?<br>a) El trasllat de dependències administratives.<br>b) Els concursos de provisió.<br>c) La reassignació d’efectius.<br>d) El dimensionament de plantilles.",
     "answer": "La resposta correcta és la d) El dimensionament de plantilles.",
     "doctrina": "L'article 68 enumera mesures per optimitzar el que ja existeix (racionalitzar). El dimensionament, en canvi, es refereix a l'augment o ajust estructural de la plantilla que requereix informes pressupostaris i aprovació del Govern, per la qual cosa té una naturalesa organitzativa diferent."
   }
