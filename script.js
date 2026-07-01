@@ -304,7 +304,11 @@ function startDifficultEssay() {
         if (currentEssayCards.length === 0) return;
         
         const cardData = currentEssayCards[currentIndex];
-document.getElementById('front-text').textContent = cardData.question;
+document.getElementById('front-text').innerHTML =
+    cardData.question.replace(
+        /\[note\](.*?)\[\/note\]/g,
+        "<span class='card-note'>$1</span>"
+    );
 
 let respostaHtml = cardData.answer.replace(/\n/g, '<br>');
 
