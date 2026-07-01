@@ -310,7 +310,9 @@ document.getElementById('front-text').innerHTML =
         "<span class='card-note'>$1</span>"
     );
 
-let respostaHtml = cardData.answer.replace(/\n/g, '<br>');
+let respostaHtml = cardData.answer
+    .replace(/\[note\](.*?)\[\/note\]/g, "<span class='card-note'>$1</span>")
+    .replace(/\n/g, "<br>");
 
 if (cardData.doctrina) {
     respostaHtml += `
