@@ -3,7 +3,7 @@
     "id": 1,
     "sector": "òrgans-superiors",
     "question": "Quin dels següents no és un òrgan superior en matèria de personal segons la normativa?[note]a) El Govern.[/note][note]b) La Comissió tècnica dels serveis de personal.[/note][note]c) El Conseller competent en matèria de Funció Pública.[/note][note]d) El Consell Català de la Funció Pública.[/note]",
-    "answer": "La resposta correcta és la b) La Comissió tècnica dels serveis de personal.",
+    "answer": "La resposta correcta és la <br>b) La Comissió tècnica dels serveis de personal.<br><br><img src='Imatges/Avaluacio_continua.svg'>",
     "doctrina": "Segons l'article 4 del Decret legislatiu 1/1997, els cinc òrgans superiors són el Govern, el conseller/a competent, la Comissió Tècnica de la Funció Pública (fixeu-vos que el nom correcte no és 'de serveis de personal'), el Consell Català de la Funció Pública i la Inspecció General dels Serveis de Personal. Aquesta distinció és terminològica pero fonamental en l'examen."
   },
   {
