@@ -307,7 +307,7 @@ function startDifficultEssay() {
 document.getElementById('front-text').innerHTML =
     cardData.question.replace(
         /\[note\](.*?)\[\/note\]/g,
-        "<span class='card-note'>$1</span>"
+        "<div class='card-note'>$1</div>"
     );
 
 let respostaHtml = cardData.answer
