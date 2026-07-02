@@ -304,15 +304,9 @@ function startDifficultEssay() {
         if (currentEssayCards.length === 0) return;
         
         const cardData = currentEssayCards[currentIndex];
-document.getElementById('front-text').innerHTML =
-    cardData.question.replace(
-        /\[note\](.*?)\[\/note\]/g,
-        "<div class='card-note'>$1</div>"
-    );
+document.getElementById('front-text').textContent = cardData.question;
 
-let respostaHtml = cardData.answer
-    .replace(/\[note\](.*?)\[\/note\]/g, "<span class='card-note'>$1</span>")
-    .replace(/\n/g, "<br>");
+let respostaHtml = cardData.answer.replace(/\n/g, '<br>');
 
 if (cardData.doctrina) {
     respostaHtml += `
