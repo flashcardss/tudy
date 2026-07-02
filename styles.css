@@ -278,11 +278,15 @@
     text-align: center;
 }
 
-.question-note {
+.card-note {
+    display: block;
     margin-top: 16px;
+
     color: #000;
     font-size: 0.95rem;
     font-weight: normal;
     text-align: left;
     line-height: 1.5;
+
+    white-space: pre-line;
 }
