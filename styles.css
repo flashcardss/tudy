@@ -269,3 +269,31 @@
             color: var(--dark-color);
             line-height: 1.5;
         }
+/* ===========================
+   MÒBIL: preguntes amb scroll
+   =========================== */
+
+@media (max-width: 768px) {
+
+    .flashcard-front {
+        justify-content: flex-start;
+    }
+
+    .card-content {
+
+        margin-top: 55px;
+
+        width: 100%;
+        height: calc(100% - 70px);
+
+        overflow-y: auto;
+        overflow-x: hidden;
+
+        padding-right: 8px;
+
+        box-sizing: border-box;
+
+        display: block;
+    }
+
+}
