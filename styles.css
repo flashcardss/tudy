@@ -99,6 +99,8 @@
             font-weight: bold;
             line-height: 1.4;
             color: #2980b9;
+                    
+    width: 100%;
         }
 .question-note {
     margin-top: 14px;
@@ -294,6 +296,33 @@
         box-sizing: border-box;
 
         display: block;
+    }
+
+}
+@media (max-width:768px){
+
+    .flashcard-front{
+        justify-content:flex-start;
+    }
+
+    .card-content{
+        margin-top:55px;
+        display:flex;
+        flex-direction:column;
+        width:100%;
+        height:calc(100% - 70px);
+    }
+
+    .question-note{
+
+        margin-top:16px;
+
+        flex:1;
+
+        overflow-y:auto;
+        overflow-x:hidden;
+
+        padding-right:8px;
     }
 
 }
