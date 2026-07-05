@@ -1,0 +1,30 @@
+[
+{
+            "id": 1,
+            "sector": "òrgans-superiors",
+            "question": "Quins són els 5 òrgans superiors competents en matèria de personal segons el Decret legislatiu 1/1997?",
+            "answer": "<ul><li><b>El Govern</b> (màxim òrgan directiu).</li><li><b>El conseller o consellera competent en matèria de funció pública</b> (actualment el Departament de la Presidència).</li><li><b>La Comissió Tècnica de la Funció Pública</b> (òrgan tècnic i de coordinació).</li><li><b>El Consell Català de la Funció Pública</b> (òrgan col·legiat de consulta i participació).</li><li><b>La Inspecció General dels Serveis de Personal</b> (òrgan de vigilància i control).</li></ul>",
+            "doctrina":  "L'esquema d'òrgans superiors garanteix la centralització normativa i la coordinació interdepartamental en una Administració complexa com la de la Generalitat."
+        },
+        {
+            "id": 2,
+            "sector": "òrgans-superiors",
+            "question": "Quines són les competències principals del Govern en matèria de personal?",
+            "answer": "<ul><li><b>Exercir la potestat reglamentària</b> mitjançant decrets de desenvolupament.</li><li><b>Establir la política global de recursos humans</b>.</li><li><b>Aprovar l'oferta d'ocupació pública (OOP)</b>.</li><li><b>Fixar les directrius per al règim retributiu</b> i la negociació col·lectiva.</li><li><b>Aprovar o modificar la Relació de Llocs de Treball (RLT)</b> i les normes de valoració.</li></ul>",
+            "doctrina":  "El Govern actua com el vèrtex polític i decisori, marcant les línies estratègiques i financeres que han de regir la gestió del personal."
+        },
+		{
+ "id":3,
+ "sector":"Preg.47-871",
+ "question":"D'acord amb el Text únic de la Llei de la funció pública de l'Administració de la Generalitat de Catalunya, quina de les opcions següents és una mesura de racionalització de personal? [note]a) La modificació puntual de l'horari de treball per necessitats del servei. [/note][note]b) La planificació de necessitats de personal basada exclusivament en criteris pressupostaris. [/note][note]c) Els plans de formació i capacitació per a la recol·locació del personal. [/note][note]d) L'establiment de mesures específiques de promoció interna. [/note]",
+ "answer":"c) Els plans de formació i capacitació per a la recol·locació del personal. ",
+  "doctrina":""
+   },
+{
+ "id":4,
+ "sector":"Preg.91-871",
+ "question":"El vostre cap us demana que tramiteu la creació d'un lloc de treball d'investigació. Quin tipus de lloc cal crear? [note]a) Un lloc de treball que pugui ser ocupat per personal funcionari. [/note][note]b) Un lloc de treball que pugui ser ocupat per personal laboral. [/note][note]c) Un lloc de treball que pugui ser ocupat indistintament tant per personal funcionari com per personal laboral. [/note][note]d) Un lloc de treball que pugui ser ocupat indistintament tant per personal funcionari com per personal interí. [/note]",
+ "answer":"c) Un lloc de treball que pugui ser ocupat indistintament tant per personal funcionari com per personal laboral. ",
+  "doctrina":""
+   }
+   ]
