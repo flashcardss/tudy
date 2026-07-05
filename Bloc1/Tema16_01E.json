@@ -27,4 +27,10 @@
  "answer":"c) Un lloc de treball que pugui ser ocupat indistintament tant per personal funcionari com per personal laboral. ",
   "doctrina":"aquest és el camp doctrina"
    }
+	{
+  "id": 5,
+  "question": "Prova",
+  "answer": "Resposta",
+  "doctrina": "Aquest és el camp doctrina"
+}
    ]
