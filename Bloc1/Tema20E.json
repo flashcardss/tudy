@@ -209,28 +209,13 @@
     "question": "Base d'aplicació de retencions del l'IRPF a la nòmina",
     "answer": "L'IRPF és un impost progressiu. La base de retenció sobre la qual es calcula la quota s'obté de la següent fórmula: dels havers íntegres anuals més l'import anual de les retribucions en espècie, es descompten de manera directa la previsió de les cotitzacions a la Seguretat Social o mutualitats i la previsió d'altres reduccions legals."
   },
-  {
+   {
     "id": 43,
-    "question": "Funcionament de les quotes de MUFACE en la nòmina",
-    "answer": "Les quotes que aporten els funcionaris adscrits a la Mutualitat General de Funcionaris Civils de l'Estat (MUFACE) són descomptades de la nòmina com un import fix mensual que depèn directament del seu subgrup de classificació professional. S'aplica a les 14 pagues, per la qual cosa els mesos de juny i desembre el descompte de MUFACE és doble."
-  },
-  {
-    "id": 44,
-    "question": "Règim retributiu d'Incapacitat Temporal (Malaltia Comuna) dels funcionaris",
-    "answer": "Mentre dura la IT, el Decret llei 5/2018 de la Generalitat garanteix un complement que assegura el 100% de les retribucions fixes i periòdiques del mes d'inici de la baixa. A partir del quart mes la situació canvia: l'Administració paga les retribucions bàsiques i MUFACE passa a pagar el subsidi d'IT (calculat sobre el 3r mes, límit màxim de 24 mesos)."
-  },
-  {
-    "id": 45,
-    "question": "Càlcul econòmic del subsidi d'Incapacitat Temporal de MUFACE",
-    "answer": "A partir del quart mes de llicència per malaltia, el subsidi que abona MUFACE s'ha de calcular sobre les retribucions del tercer mes de baixa. No pot ser superior a les retribucions complementàries i ha de ser la quantitat més gran d'entre aquestes dues opcions:\n• El 80% de les retribucions bàsiques incrementada amb la sisena part de la paga extraordinària.\n• El 75% de les retribucions complementàries."
-  },
-  {
-    "id": 46,
     "question": "Règim retributiu en cas de Baixa per Maternitat o Paternitat",
     "answer": "S'ha d'abonar durant tot el temps que duri el gaudiment de la baixa corresponent. Tant per al personal funcionari com per al personal laboral, l'Administració de la Generalitat de Catalunya garanteix de forma absoluta el 100% de les retribucions dels seus treballadors mentre es troben en aquesta situació de protecció."
   },
   {
-    "id": 47,
+    "id": 44,
     "question": "Procediment en nòmina per situació de Pluriocupació",
     "answer": "Si les remuneracions totals entre diverses empreses superen el límit màxim o són inferiors a la base mínima, es demana una distribució a la Tresoreria General de la Seguretat Social perquè cada empresa cotitzi fins al límit assignat. En el cas d'un funcionari que vulgui fer una activitat privada, té l'obligació estricta de sol·licitar primer la compatibilitat de la segona activitat i posteriorment sol·licitar la pluriocupació."
   }
