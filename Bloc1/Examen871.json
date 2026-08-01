@@ -1,16 +1,772 @@
 [
-{	
-	"id": 2,	 
-	"sector": "871- Test teòric - part comuna- 27-5-26",	 
-	"question": "2. D'acord amb l'Estatut d'autonomia de Catalunya, el Consell de Garanties Estatutàries està format per:[note]a) Juristes de reconeguda competència 2/3 dels quals són designats a proposta del Parlament (per majoria de 3/5 dels diputats) i el 1/3 restant, a proposta del Govern.[/note][note]b) Juristes de reconeguda competència, 1/3 dels quals són juristes designats a proposta del Parlament (per majoria de 2/5 dels diputats) i els 2/3 restants, a proposta del Govern.[/note][note]c) Juristes de reconeguda competència nomenats a proposta del President del Govern i del President del Parlament de Catalunya.[/note][note]d) Juristes de reconeguda competència designats a proposta del Parlament de Catalunya, per majoria simple dels diputats.][/note]",	 
-	"answer": "a) Juristes de reconeguda competència 2/3 dels quals són designats a proposta del Parlament (per majoria de 3/5 dels diputats) i el 1/3 restant, a proposta del Govern.",	  
-	"doctrina": ""	   
-	},
-{	 
-	"id": 3,	 
-	"sector": "871- Test teòric - part comuna- 27-5-26",	 
-	"question": "3. D'acord amb la Llei orgànica 1/2025, de 2 de gener, de mesures en matèria d'eficiència del servei públic de justícia, els jutjats contenciosos administratius s'han reconvertit en:[note]a) Jutjats especialitzats contenciosos administratius.[/note][note]b) Sales contencioses administratives.[/note][note]c) Seccions contencioses administratives dels tribunals d'instància.[/note][note]d) Tribunals d'instància.][/note]",	 
-	"answer": "c) Seccions contencioses administratives dels tribunals d'instància.",	  
-	"doctrina": ""	 
-	}
+{
+ "id":1,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"1. L'ordenació i la prestació de serveis bàsics a la comunitat és una competència:[note]a) Compartida entre la Generalitat de Catalunya i l'Estat.[/note][note]b) Delegada a la Generalitat de Catalunya.[/note][note]c) Exclusiva de la Generalitat de Catalunya.[/note][note]d) Dels governs local de Catalunya.][/note]",
+ "answer":"d) Dels governs local de Catalunya.",
+  "doctrina":""
+ },
+{
+ "id":2,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"2. D'acord amb l'Estatut d'autonomia de Catalunya, el Consell de Garanties Estatutàries està format per:[note]a) Juristes de reconeguda competència 2/3 dels quals són designats a proposta del Parlament (per majoria de 3/5 dels diputats) i el 1/3 restant, a proposta del Govern.[/note][note]b) Juristes de reconeguda competència, 1/3 dels quals són juristes designats a proposta del Parlament (per majoria de 2/5 dels diputats) i els 2/3 restants, a proposta del Govern.[/note][note]c) Juristes de reconeguda competència nomenats a proposta del President del Govern i del President del Parlament de Catalunya.[/note][note]d) Juristes de reconeguda competència designats a proposta del Parlament de Catalunya, per majoria simple dels diputats.][/note]",
+ "answer":"a) Juristes de reconeguda competència 2/3 dels quals són designats a proposta del Parlament (per majoria de 3/5 dels diputats) i el 1/3 restant, a proposta del Govern.",
+  "doctrina":""
+   },
+{
+ "id":3,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"3. D'acord amb la Llei orgànica 1/2025, de 2 de gener, de mesures en matèria d'eficiència del servei públic de justícia, els jutjats contenciosos administratius s'han reconvertit en:[note]a) Jutjats especialitzats contenciosos administratius.[/note][note]b) Sales contencioses administratives.[/note][note]c) Seccions contencioses administratives dels tribunals d'instància.[/note][note]d) Tribunals d'instància.][/note]",
+ "answer":"c) Seccions contencioses administratives dels tribunals d'instància.",
+  "doctrina":""
+ },
+{
+ "id":4,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"4. Si mentre es tramita un procediment sancionador es té constància que hi ha un procés penal en curs, cal:[note]a) La suspensió del procediment sancionador, atesa la prioritat de l'ordre penal.[/note][note]b) Continuar amb la tramitació del procediment sancionador.[/note][note]c) Tancar el procediment sancionador.[/note][note]d) Continuar la tramitació del procediment sancionador i, un cop finalitzat, suspendre'n l'execució del resultat.][/note]",
+ "answer":"a) La suspensió del procediment sancionador, atesa la prioritat de l'ordre penal.",
+  "doctrina":""
+   },
+{
+ "id":5,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"5. De conformitat amb la Llei 39/2015, d'1 d'octubre, del procediment administratiu comú de les administracions públiques, les persones interessades poden sol·licitar l'inici d'un procediment de responsabilitat patrimonial:[note]a) En qualsevol moment.[/note][note]b) En el termini màxim de 6 mesos.[/note][note]c) Quan no hagi prescrit el seu dret a reclamar.[/note][note]d) En el termini de 18 mesos.][/note]",
+ "answer":"c) Quan no hagi prescrit el seu dret a reclamar.",
+  "doctrina":""
+   },
+{
+ "id":6,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"6. El Sistema Europeu de Comptes (SEC) inclou:[note]a) Els pressupostos de tots els estats membres de la Unió Europea.[/note][note]b) Una metodologia (Annex A) i un programa (Annex B).[/note][note]c) Les despeses de tots els estats de la Unió Europea.[/note][note]d) Només els comptes regionals dels estats de la Unió Europea.][/note]",
+ "answer":"b) Una metodologia (Annex A) i un programa (Annex B).",
+  "doctrina":""
+ },
+{
+ "id":7,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"7. Si un tractament de dades personals pot comportar un risc alt per als drets i les llibertats de les persones físiques, abans de fer-lo, el responsable del tractament:[note]a) Ha d'avaluar l'impacte de les operacions de tractament.[/note][note]b) Ha d'incloure aquest risc al registre d'activitats de tractament.[/note][note]c) Ha de formalitzar un encàrrec del tractament.[/note][note]d) S'ha d'adherir a un dels codis de conducta regulats per l'article 40 del Reglament general de protecció de dades.][/note]",
+ "answer":"a) Ha d'avaluar l'impacte de les operacions de tractament.",
+  "doctrina":""
+   },
+{
+ "id":8,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"8. D'acord amb la normativa de sector públic instrumental de la Generalitat Catalunya, quina de les opcions següents referida als consorcis no és certa?[note]a) Sempre es constitueixen per llei, que n'ha de determinar les funcions, els recursos econòmics assignats, les bases de l'organització i el règim jurídic.[/note][note]b) Són entitats de dret públic amb personalitat jurídica pròpia.[/note][note]c) Tenen caràcter associatiu i naturalesa voluntària.[/note][note]d) Tenen capacitat per crear i gestionar serveis i dur a terme activitats i obres.][/note]",
+ "answer":"a) Sempre es constitueixen per llei, que n'ha de determinar les funcions, els recursos econòmics assignats, les bases de l'organització i el règim jurídic.",
+  "doctrina":""
+ },
+{
+ "id":9,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"9. Com s'anomena la teoria que descriu una cadena d'hipòtesis segons la qual els recursos assignats a una intervenció permeten desenvolupar activitats que produeixen determinats productes, els quals, al seu torn, generen beneficis a curt, mitjà i llarg termini sobre la societat en conjunt o sobre la població objectiu d'una política o programa?[note]a) Teoria causal adequada.[/note][note]b) Teoria del cicle de les polítiques públiques.[/note][note]c) Teoria de l'elecció o opció pública.[/note][note]d) Teoria del canvi de les intervencions públiques.][/note]",
+ "answer":"d) Teoria del canvi de les intervencions públiques.]",
+  "doctrina":""
+   },
+{
+ "id":10,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"10. D'acord amb l'article 8 de la Llei 40/2015, d'1 d'octubre, de règim jurídic del sector públic, la competència:[note]a) És intransferible i l'han d'exercir els òrgans administratius que la tinguin atribuïda com a pròpia, excepte en els casos de delegació o avocació si s'efectuen en els termes que preveu aquesta Llei o d'altres.[/note][note]b) És ineludible i l'han d'exercir els òrgans administratius que la tinguin atribuïda com a pròpia, excepte en els casos de delegació o avocació si s'efectuen en els termes que preveu aquesta Llei o d'altres.[/note][note]c) És irrenunciable i l'han d'exercir els òrgans administratius que la tinguin atribuïda com a pròpia, excepte en els casos de delegació o avocació si s'efectuen en els termes que preveu aquesta Llei o d'altres.[/note][note]d) És irrevocable i l'han d'exercir els òrgans administratius que la tinguin atribuïda com a pròpia, excepte en els casos de delegació o avocació si s'efectuen en els termes que preveu aquesta Llei o d'altres. 7/54][/note]",
+ "answer":"c) És irrenunciable i l'han d'exercir els òrgans administratius que la tinguin atribuïda com a pròpia, excepte en els casos de delegació o avocació si s'efectuen en els termes que preveu aquesta Llei o d'altres.",
+  "doctrina":""
+ },
+{
+ "id":11,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"11. En el procediment d'elaboració de disposicions de caràcter general de l'Administració de la Generalitat, el tràmit d'audiència als ciutadans:[note]a) S'ha d'atorgar quan el projecte afecti els seus drets o interessos legítims; es pot ometre per raons greus d'interès públic degudament justificades i el termini per formular al·legacions no pot ser inferior a 10 dies, reduïble a 5 dies per causa motivada.[/note][note]b) S'ha de concedir en tots els casos, amb un termini mínim de 15 dies improrrogables i sense possibilitat de reducció.[/note][note]c) S'ha d'atorgar quan el projecte afecti els seus drets o interessos legítims; es pot ometre per raons greus d'interès públic degudament justificades i el termini per formular al·legacions no pot ser inferior a 15 dies, reduïble a 7 dies per causa motivada.[/note][note]d) S'ha de concedir en qualsevol cas, amb un termini mínim de 10 dies improrrogables i sense possibilitat de reducció.][/note]",
+ "answer":"c) S'ha d'atorgar quan el projecte afecti els seus drets o interessos legítims; es pot ometre per raons greus d'interès públic degudament justificades i el termini per formular al·legacions no pot ser inferior a 15 dies, reduïble a 7 dies per causa motivada.",
+  "doctrina":""
+   },
+{
+ "id":12,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"12. En l'àmbit de l'Administració de la Generalitat, els estàndards mínims de qualitat declarats en les cartes de serveis són exigibles a l'Administració quan el servei es presta en condicions normals, sense pertorbacions alienes que n'alterin el funcionament. Això no obstant, si concorren raons excepcionals sobrevingudes que afecten el funcionament del servei de manera extraordinària:[note]a) S'han de suspendre els estàndards mínims de qualitat declarats a la carta i els drets que en deriven directament fins que el servei no torni a prestar-se en condicions normals.[/note][note]b) No es pot suspendre cap dels estàndards mínims de qualitat declarats a la carta ni els drets que en deriven directament.[/note][note]c) Es poden suspendre temporalment un o alguns dels estàndards mínims de qualitat declarats a la carta, però no els drets que en deriven directament. La suspensió es fa efectiva per resolució motivada del titular de la unitat del departament o departaments que van aprovar la carta.[/note][note]d) Es poden suspendre temporalment un o alguns dels estàndards mínims de qualitat declarats a la carta i els drets que en deriven directament. La suspensió es fa efectiva per resolució motivada del titular del departament o departaments que van aprovar la carta.][/note]",
+ "answer":"d) Es poden suspendre temporalment un o alguns dels estàndards mínims de qualitat declarats a la carta i els drets que en deriven directament. La suspensió es fa efectiva per resolució motivada del titular del departament o departaments que van aprovar la carta.]",
+  "doctrina":""
+ },
+{
+ "id":13,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"13. D'acord amb la Llei 39/2015, d'1 d'octubre, del procediment administratiu comú de les administracions públiques, quina és l'opció correcta en relació amb els terminis de notificació dels actes administratius?[note]a) Les notificacions s'han de practicar en el termini màxim de 10 dies hàbils des de la data en què s'ha dictat l'acte.[/note][note]b) El termini per practicar la notificació és de 10 dies naturals des de la data en què s'ha dictat l'acte. L'incompliment d'aquest termini no determina per si sol la nul·litat de l'acte.[/note][note]c) El termini de 10 dies naturals per practicar la notificació es computa des de l'endemà de la data en què s'ha dictat l'acte.[/note][note]d) Si la notificació no es practica en el termini de 10 dies hàbils, l'acte administratiu esdevé automàticament anul·lable.][/note]",
+ "answer":"a) Les notificacions s'han de practicar en el termini màxim de 10 dies hàbils des de la data en què s'ha dictat l'acte.",
+  "doctrina":""
+   },
+{
+ "id":14,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"14. D'acord amb la Llei 39/2015, d'1 d'octubre, del procediment administratiu comú de les administracions públiques, quin principi permet que les qüestions incidentals plantejades durant la tramitació no suspenguin, amb caràcter general, el procediment?[note]a) El principi d'antiformalisme.[/note][note]b) El principi d'oficialitat.[/note][note]c) El principi d'economia procedimental.[/note][note]d) El principi de contradicció.][/note]",
+ "answer":"c) El principi d'economia procedimental.",
+  "doctrina":""
+ },
+{
+ "id":15,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"15. La revisió d'ofici d'actes administratius nuls en l'àmbit de l'Administració de la Generalitat de Catalunya:[note]a) Pot iniciar-se d'ofici o a sol·licitud d'una persona interessada i requereix, amb caràcter previ a la declaració de nul·litat, el dictamen favorable de l'òrgan consultiu corresponent.[/note][note]b) Només pot iniciar-se a instància d'una persona interessada i el dictamen de la Comissió Jurídica Assessora té caràcter merament facultatiu.[/note][note]c) Permet declarar la nul·litat d'actes anul·lables en qualsevol moment, sense necessitat de seguir un procediment contradictori.[/note][note]d) Té un termini màxim per resoldre de 3 mesos. Un cop transcorregut aquest termini, es produeix silenci estimatori.][/note]",
+ "answer":"a) Pot iniciar-se d'ofici o a sol·licitud d'una persona interessada i requereix, amb caràcter previ a la declaració de nul·litat, el dictamen favorable de l'òrgan consultiu corresponent.",
+  "doctrina":""
+   },
+{
+ "id":16,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"16. En quin capítol del pressupost d'ingressos de la Generalitat de Catalunya s'inclouen els recursos procedents de l'emissió de deute públic i de l'obtenció de préstecs?[note]a) Capítol VIII: variació d'actius financers.[/note][note]b) Capítol VII: transferències de capital.[/note][note]c) Capítol V: ingressos patrimonials.[/note][note]d) Capítol IX: variació de passius financers.][/note]",
+ "answer":"d) Capítol IX: variació de passius financers.]",
+  "doctrina":""
+ },
+{
+ "id":17,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"17. El mandat del director o directora de l'Oficina Antifrau és de 6 anys:[note]a) Des de la data en què és elegit pel Parlament.[/note][note]b) Des de la data de publicació del seu nomenament al Diari Oficial de la Generalitat de Catalunya.[/note][note]c) A comptar al cap de 20 dies d'haver-se publicat el nomenament al Diari Oficial de la Generalitat de Catalunya.[/note][note]d) A partir de l'endemà de la data de publicació del seu nomenament al Diari Oficial de la Generalitat de Catalunya.][/note]",
+ "answer":"a) Des de la data en què és elegit pel Parlament.",
+  "doctrina":""
+   },
+{
+ "id":18,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"18. Quin dret fonamental regula la Llei orgànica 5/2024, d'11 de novembre?[note]a) El dret a la llibertat religiosa.[/note][note]b) El dret a l'exercici del vot.[/note][note]c) El dret de defensa.[/note][note]d) El dret a la regulació de l'eutanàsia.]",
+ "answer":"c) El dret de defensa.",
+  "doctrina":""
+ },
+{
+ "id":19,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"19. Quin país de la Unió Europea es va incorporar a la zona euro l'1 de gener de 2026?[note]a) Dinamarca.[/note][note]b) Bulgària.[/note][note]c) Croàcia.[/note][note]d) Romania.]",
+ "answer":"b) Bulgària.",
+  "doctrina":""
+   },
+{
+ "id":20,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"20. D'acord amb l'article 20.1 de la Llei 9/2017, de 8 de novembre, de contractes del sector públic, estan subjectes a regulació harmonitzada els contractes d'obres, de concessió d'obres i de concessió de serveis amb un valor estimat igual o superior a:[note]a) 5.538.000 euros.[/note][note]b) 2.750.000 euros.[/note][note]c) 3.143.000 euros.[/note][note]d) 4.221.000 euros.]",
+ "answer":"a) 5.538.000 euros.",
+  "doctrina":""
+ },
+{
+ "id":21,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"21. D'acord amb l'article 42.4 de la Llei 38/2003, de 17 de novembre, general de subvencions, quin és el termini màxim per resoldre i notificar la resolució del procediment de reintegrament des de la data de l'acord d'iniciació?[note]a) 6 mesos.[/note][note]b) 9 mesos.[/note][note]c) 12 mesos.[/note][note]d) 18 mesos.]",
+ "answer":"c) 12 mesos.",
+  "doctrina":""
+   },
+{
+ "id":22,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"22. D'acord amb la Llei 39/2015, d'1 d'octubre, del procediment administratiu comú de les administracions públiques, quin dels supòsits següents comporta la nul·litat de ple dret d'un acte administratiu?[note]a) Un acte dictat per un òrgan competent per raó de la matèria però incompetent per raó del grau, quan el vici no ha estat objecte de recurs en termini.[/note][note]b) Un acte administratiu dictat amb omissió d'un tràmit essencial del procediment, sempre que s'acrediti que el contingut final hauria estat el mateix sense l'omissió del tràmit.[/note][note]c) Un acte dictat fora de termini en un procediment sancionador, quan el termini té caràcter ordinari i no essencial.[/note][note]d) Un acte exprés mitjançant el qual s'atorga un dret subjectiu sense que es compleixin els requisits essencials exigits per l'ordenament jurídic per a la seva adquisició.]",
+ "answer":"d) Un acte exprés mitjançant el qual s'atorga un dret subjectiu sense que es compleixin els requisits essencials exigits per l'ordenament jurídic per a la seva adquisició.]",
+  "doctrina":""
+ },
+{
+ "id":23,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"23. El model de govern de les dades de l'Administració de la Generalitat de Catalunya i del seu sector públic es basa en una adaptació de la metodologia internacional anomenada:[note]a) DAMA (Data Administration Management Association).[/note][note]b) Norma ISO 8000.[/note][note]c) TOGAF (The Open Group Architecture Framework).[/note][note]d) FAIR (Findable, Accessible, Interoperable & Reusable).]",
+ "answer":"a) DAMA (Data Administration Management Association).",
+  "doctrina":""
+   },
+{
+ "id":24,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"24. El Portal de la transparència ha d'incloure:[note]a) L'organització institucional i l'estructura procedimental.[/note][note]b) El Registre de grups d'interès.[/note][note]c) Qualsevol matèria d'interès públic i les informacions demanades amb menys freqüència per via de l'exercici del dret d'accés a la informació pública.[/note][note]d) Les decisions i les actuacions amb rellevància jurídica general.]",
+ "answer":"b) El Registre de grups d'interès.",
+  "doctrina":""
+ },
+{
+ "id":25,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"25. D'acord amb l'article 40 del Decret 76/2020, de 4 d'agost, d'Administració digital, són funcions de les oficines d'atenció ciutadana:[note]a) Assistir, en l'ús de mitjans electrònics, les persones interessades no obligades a relacionar-se electrònicament amb l'Administració que ho sol·licitin, especialment pel que fa a la identificació i el certificat digital en nom seu i a la presentació de sol·licituds a través del Registre electrònic general.[/note][note]b) Assistir, en l'ús de mitjans electrònics, les persones interessades obligades a relacionar-se electrònicament amb l'Administració que ho sol·licitin, especialment pel que fa a la identificació i la signatura electrònica en nom seu i a la presentació de sol·licituds a través del Registre electrònic general.[/note][note]c) Assistir, en l'ús de mitjans electrònics, les persones interessades obligades a relacionar-se electrònicament amb l'Administració que ho sol·licitin, especialment pel que fa a la identificació i el certificat digital en nom seu i a la presentació de sol·licituds a través del Registre electrònic general.[/note][note]d) Assistir, en l'ús de mitjans electrònics, les persones interessades no obligades a relacionar-se electrònicament amb l'Administració que ho sol·licitin, especialment pel que fa a la identificació i la signatura electrònica en nom seu i a la presentació de sol·licituds a través del Registre electrònic general.]",
+ "answer":"d) Assistir, en l'ús de mitjans electrònics, les persones interessades no obligades a relacionar-se electrònicament amb l'Administració que ho sol·licitin, especialment pel que fa a la identificació i la signatura electrònica en nom seu i a la presentació de sol·licituds a través del Registre electrònic general.",
+  "doctrina":""
+   },
+{
+ "id":26,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"26. El delicte de prevaricació dels funcionaris públics pot comportar:[note]a) Pena d'inhabilitació especial per a ocupació o càrrec públic per un termini de 9 a 15 anys.[/note][note]b) Pena d'inhabilitació especial per a ocupació o càrrec públic i per a l'exercici del dret de sufragi passiu per un termini de 9 a 15 anys.[/note][note]c) Pena d'inhabilitació especial per a ocupació o càrrec públic per un termini de 3 a 6 anys.[/note][note]d) Pena d'inhabilitació especial per a ocupació o càrrec públic i per a l'exercici del dret de sufragi passiu per un termini de 3 a 6 anys.]",
+ "answer":"b) Pena d'inhabilitació especial per a ocupació o càrrec públic i per a l'exercici del dret de sufragi passiu per un termini de 9 a 15 anys.",
+  "doctrina":""
+ },
+{
+ "id":27,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"27. D'acord amb l'article 17 de la Llei 26/2010, de 3 d'agost, de règim jurídic i de procediment de les administracions públiques de Catalunya, amb quina assistència s'entén vàlidament constituït un òrgan col·legiat en segona convocatòria, si les normes pròpies de l'òrgan no preveuen res específic?[note]a) Amb 1/3 dels membres, amb un mínim de 3.[/note][note]b) Amb 2/3 dels membres.[/note][note]c) Amb la meitat, com a mínim, dels membres.[/note][note]d) Amb 1/3 dels membres, amb un mínim de 4.]",
+ "answer":"a) Amb 1/3 dels membres, amb un mínim de 3.",
+  "doctrina":""
+   },
+{
+ "id":28,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"28. D'acord amb l'article 3 del Decret 232/2013, de 15 d'octubre, pel qual es crea la Seu electrònica, com es defineix la interoperabilitat?[note]a) Com el mitjà d'interacció entre l'Administració i la ciutadania, les empreses i les entitats per a la prestació de serveis i la difusió d'informació.[/note][note]b) Com el conjunt de dades amb contingut i significat complet, estructurat de manera que pugui ser identificat, consultat o analitzat en suport electrònic.[/note][note]c) Com el procediment mitjançant el qual es garanteixen la protecció i la confidencialitat de les dades en les comunicacions electròniques de les administracions.[/note][note]d) Com la capacitat de les organitzacions per compartir la informació dels seus sistemes d'informació i dels procediments als quals donen suport, per assolir objectius comuns i possibilitar l'intercanvi d'informació entre aquests.]",
+ "answer":"d) Com la capacitat de les organitzacions per compartir la informació dels seus sistemes d'informació i dels procediments als quals donen suport, per assolir objectius comuns i possibilitar l'intercanvi d'informació entre aquests.]",
+  "doctrina":""
+ },
+{
+ "id":29,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"29. D'acord amb l'article 2 de la Llei 18/2010, de 7 de juny, de la Sindicatura de Comptes, quina funció correspon a la Sindicatura de Comptes?[note]a) La funció interventora o fiscalització prèvia plena, que pot ser substituïda, en els supòsits que es determinin, per una fiscalització prèvia per mostreig.[/note][note]b) La fiscalització dels comptes de la totalitat dels ingressos i de les despeses del sector públic de Catalunya.[/note][note]c) L'enjudiciament de la responsabilitat comptable en què incorrin els que tenen a càrrec seu la gestió de cabals o efectes públics.[/note][note]d) La fiscalització externa, permanent i consumptiva de l'activitat economicofinancera del sector públic.]",
+ "answer":"b) La fiscalització dels comptes de la totalitat dels ingressos i de les despeses del sector públic de Catalunya.",
+  "doctrina":""
+   },
+{
+ "id":30,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"30. D'acord amb l'article 16 de la Llei 13/2005, de 27 de desembre, del règim d'incompatibilitats dels alts càrrecs al servei de la Generalitat, quin és l'òrgan administratiu competent per instruir i resoldre els expedients relatius a les declaracions d'activitats, patrimonials i d'interessos dels alts càrrecs?[note]a) La Secretaria d'Administració i Funció Pública.[/note][note]b) El Gabinet Jurídic.[/note][note]c) La Comissió Jurídica Assessora.[/note][note]d) El conseller o consellera corresponent.]",
+ "answer":"a) La Secretaria d'Administració i Funció Pública.",
+  "doctrina":""
+ },
+{
+ "id":31,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"31. Quina naturalesa jurídica té l'Estatut d'autonomia de Catalunya?[note]a) Reial decret legislatiu.[/note][note]b) Llei ordinària.[/note][note]c) Reial decret llei.[/note][note]d) Llei orgànica.]",
+ "answer":"d) Llei orgànica.",
+  "doctrina":""
+   },
+{
+ "id":32,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"32. D'acord amb l'article 13 de la Llei 13/2005, de 27 de desembre, del règim d'incompatibilitats dels alts càrrecs al servei de la Generalitat, els alts càrrecs de la Generalitat han de formular una declaració patrimonial i d'interessos:[note]a) En el termini de 2 mesos a comptar des de la data de presa de possessió i des de la data de cessament, i també en el termini de 2 mesos des que es produeixen variacions en els fets declarats.[/note][note]b) En el termini de 3 mesos a comptar des de la data de presa de possessió i des de la data de cessament, i també en el termini d'1 mes des que es produeixen variacions en els fets declarats.[/note][note]c) En el termini d'1 mes a comptar des de la data de presa de possessió i des de la data de cessament, i també en el termini de 2 mesos des que es produeixen variacions en els fets declarats.[/note][note]d) En el termini de 4 mesos a comptar des de la data de presa de possessió i des de la data de cessament, i també en el termini de 3 mesos des que es produeixen variacions en els fets declarats.]",
+ "answer":"b) En el termini de 3 mesos a comptar des de la data de presa de possessió i des de la data de cessament, i també en el termini d'1 mes des que es produeixen variacions en els fets declarats.",
+  "doctrina":""
+ },
+{
+ "id":33,
+ "sector":"871- Test teòric - part comuna- 27-5-26",
+ "question":"33. D'acord amb l'article 132.1 de la Constitució espanyola, la llei regula el règim jurídic dels béns de domini públic i dels béns comunals inspirant-se en els principis:[note]a) D'imparcialitat, jerarquia i capacitat.[/note][note]b) D'igualtat, progressivitat i solidaritat.[/note][note]c) D'inalienabilitat, imprescriptibilitat i inembargabilitat.[/note][note]d) D'integritat, objectivitat i transparència.]",
+ "answer":"c) D'inalienabilitat, imprescriptibilitat i inembargabilitat.",
+  "doctrina":""
+   },
+{
+ "id":34,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"34. D'acord amb l'article 44.1 de la Llei 10/2014, del 26 de setembre, de consultes populars no referendàries i d'altres formes de participació ciutadana, en l'àmbit de Catalunya, la convocatòria d'un procés de participació ciutadana per iniciativa ciutadana és preceptiva si té el suport de:[note]a) Un mínim de 50.000 persones majors de divuit anys que puguin participar en el procés.[/note][note]b) un mínim de 50.000 persones majors de setze anys que puguin participar en el procés.[/note][note]c) Un mínim de 20.000 persones majors de setze anys que puguin participar en el procés.[/note][note]d) Un màxim de 20.000 persones majors de divuit anys que puguin participar en el procés.]",
+ "answer":"c) Un mínim de 20.000 persones majors de setze anys que puguin participar en el procés.",
+  "doctrina":""
+ },
+{
+ "id":35,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"35. Quin dels indicadors següents de seguiment del Pla de Govern de la XV legislatura no correspon a la prioritat 1: "Prosperitat compartida basada en el coneixement, per millorar la qualitat de vida i l'accés a l'habitatge"?[note]a) Preus dels graus i màsters universitaris habilitants.[/note][note]b) Nombre d'habitatges de lloguer protegit disponibles.[/note][note]c) Percentatge del pes de la indústria en el valor afegit brut de Catalunya.[/note][note]d) Nombre de places públiques d'escola bressol (0-3 anys).]",
+ "answer":"d) Nombre de places públiques d'escola bressol (0-3 anys).]",
+  "doctrina":""
+   },
+{
+ "id":36,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"36. En el marc de l'elaboració d'un pressupost per programes, quin tipus d'indicadors de seguiment mesuren la quantitat de productes, activitats o serveis públics produïts, o el nombre de clients servits?[note]a) Els indicadors d'input[/note][note]b) Els indicadors d'output[/note][note]c) Els indicadors de resultats[/note][note]d) Els indicadors d'eficiència]",
+ "answer":"b) Els indicadors d'output",
+  "doctrina":""
+ },
+{
+ "id":37,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"37. Quin és l'objecte d'avaluació de l'informe d'impacte econòmic i social que ha d'acompanyar qualsevol projecte de disposició reglamentària?[note]a) La repercussió de la disposició reglamentària en els recursos personals i materials i en els pressupostos de la Generalitat, i també les fonts i els procediments de finançament, si escau.[/note][note]b) Els costos i els beneficis que implica el projecte de disposició reglamentària exclusivament per als seus destinataris.[/note][note]c) Els costos i els beneficis que implica el projecte de disposició reglamentària per als seus destinataris i per a la realitat social i econòmica.[/note][note]d) L'impacte que tindrà el projecte de disposició reglamentària en la disminució de les desigualtats i en els índexs de prosperitat i cohesió social, prenent com a referència l'Índex de Desenvolupament Humà (IDH) de les Nacions Unides.]",
+ "answer":"c) Els costos i els beneficis que implica el projecte de disposició reglamentària per als seus destinataris i per a la realitat social i econòmica.",
+  "doctrina":""
+   },
+{
+ "id":38,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"38. En el procés de disseny d'un quadre de comandament, les actuacions fan referència a la descripció del que s'ha de fer:[note]a) Per assolir els objectius operatius.[/note][note]b) Per mesurar els objectius estratègics.[/note][note]c) Per assolir les línies estratègiques.[/note][note]d) Per mesurar les línies estratègiques.]",
+ "answer":"a) Per assolir els objectius operatius.",
+  "doctrina":""
+ },
+{
+ "id":39,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"39. D'acord amb l'article 9 del Decret 13/2021, de 2 de març, pel qual es regula l'acreditació de competències en tecnologies de la informació i la comunicació (ACTIC), quins són tots els òrgans i centres que han de garantir el dret de la ciutadania a disposar d'un mitjà d'acreditació de les competències en tecnologies de la informació i la comunicació?[note]a) Els centres col·laboradors, el Servei d'Inclusió i Capacitació Digital, l'Àrea de Capacitació Digital i el Comitè ACTIC.[/note][note]b) El Consell Rector de l'ACTIC, la Comissió Assessora de l'ACTIC, el Servei d'Inclusió i Capacitació Digital i els centres col·laboradors.[/note][note]c) Els centres col·laboradors, la Comissió Assessora de l'ACTIC, l'Àrea de Capacitació Digital i el Servei d'Inclusió i Capacitació Digital.[/note][note]d) Els centres col·laboradors, el Comitè ACTIC, l'Àrea de Capacitació Digital, el Servei d'Inclusió i Capacitació Digital i el Consell Rector de l'ACTIC.]",
+ "answer":"b) El Consell Rector de l'ACTIC, la Comissió Assessora de l'ACTIC, el Servei d'Inclusió i Capacitació Digital i els centres col·laboradors.",
+  "doctrina":""
+   },
+{
+ "id":40,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"40. D'acord amb l'article 40 bis de la Llei 26/2010, de règim jurídic i de procediment de les administracions públiques de Catalunya, afegit per la Llei 9/2025, de 13 de novembre, quin tipus de consentiment es necessita per a la prestació de serveis proactius i personalitzats?[note]a) Consentiment exprés i específic, informat i inequívoc de la persona interessada.[/note][note]b) Consentiment general o indeterminat d'accés a la prestació de serveis proactius i personalitzats.[/note][note]c) Consentiment exprés i no específic, informat i inequívoc de la persona interessada.[/note][note]d) No cal consentiment exprés en aquests casos; es produeix en el moment d'accés a la prestació de serveis proactius i personalitzats.]",
+ "answer":"a) Consentiment exprés i específic, informat i inequívoc de la persona interessada.",
+  "doctrina":""
+ },
+{
+ "id":41,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"41. D'acord amb el punt 42 del Reglament (UE) 2024/1183 del Parlament Europeu i el Consell d'11 d'abril de 2024, pel qual es modifica el Reglament UE 910/2014 relatiu al marc europeu d'identitat digital, què és la cartera europea d'identitat digital?[note]a) Un llibre major electrònic qualificat creat i gestionat per un o més prestadors qualificats de serveis de confiança que permet fer transaccions entre els estats membres de la Unió Europea.[/note][note]b) Un mitjà d'identificació electrònica que permet a l'usuari emmagatzemar, gestionar i validar de manera segura dades d'identificació de la persona i declaracions electròniques d'atributs.[/note][note]c) És un arxiu electrònic de serveis qualificats prestats per prestadors qualificats que permet l'emmagatzemament de dades dels països de la Unió Europea.[/note][note]d) És un tipus de signatura electrònica avançada que permet a l'usuari signar amb altres usuaris d'estats membres de la Unió Europea.]",
+ "answer":"b) Un mitjà d'identificació electrònica que permet a l'usuari emmagatzemar, gestionar i validar de manera segura dades d'identificació de la persona i declaracions electròniques d'atributs.",
+  "doctrina":""
+   },
+{
+ "id":42,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"42. D'acord amb el punt 3 de l'annex de l'Acord GOV/153/2024, de 18 de juny, quin dels requisits següents han de complir els espais privats digitals?[note]a) Ser un servei finalista majoritari (més del 50% dels serveis).[/note][note]b) Tenir una especialització del procediment que encaixi amb el procediment administratiu.[/note][note]c) Ser un model corporatiu transversal.[/note][note]d) Ser un servei no finalista amb una relació continuada en el temps.]",
+ "answer":"a) Ser un servei finalista majoritari (més del 50% dels serveis).",
+  "doctrina":""
+ },
+{
+ "id":43,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"43. D'acord amb el que disposa l'article 53.3 del Decret 76/2020, de 4 d'agost, d'Administració digital, per quina raó s'hauria de preservar la identitat dels empleats públics en la utilització d'un sistema de signatura electrònica?[note]a) Per raó de seguretat pública.[/note][note]b) Per raó de confidencialitat.[/note][note]c) Per raó d'intimitat personal.[/note][note]d) Per raó d'interès públic.]",
+ "answer":"a) Per raó de seguretat pública.",
+  "doctrina":""
+   },
+{
+ "id":44,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"44. Quina de les opcions següents constitueix el conjunt d'eines que poden utilitzar les administracions públiques per definir i garantir determinats estàndards ètics en el comportament dels seus agents i de les seves organitzacions?[note]a) Codis laborals i òrgans de supervisió.[/note][note]b) Quadres de comandament.[/note][note]c) Infraestructura ètica.[/note][note]d) Plans estratègics i manuals d'acollida.]",
+ "answer":"c) Infraestructura ètica.",
+  "doctrina":""
+ },
+{
+ "id":45,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"45. Quina de les opcions següents és una característica del model CAF?[note]a) És un model que només mesura resultats econòmics.[/note][note]b) És una eina dissenyada per a les administracions públiques de la UE.[/note][note]c) És obligatori segons la normativa catalana.[/note][note]d) És equivalent a una norma ISO.]",
+ "answer":"b) És una eina dissenyada per a les administracions públiques de la UE.",
+  "doctrina":""
+   },
+{
+ "id":46,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"46. D'acord amb la Llei 19/2014, del 29 de desembre, de transparència, accés a la informació pública i bon govern, quin element ha de contenir necessàriament una carta de serveis?[note]a) La planificació de reorganització dels serveis per als propers exercicis.[/note][note]b) Les condicions d'accés als serveis.[/note][note]c) Els protocols disciplinaris interns per l'incompliment del serveis.[/note][note]d) La memòria econòmica del programa pressupostari dels serveis.]",
+ "answer":"b) Les condicions d'accés als serveis.",
+  "doctrina":""
+ },
+{
+ "id":47,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"47. D'acord amb el Text únic de la Llei de la funció pública de l'Administració de la Generalitat de Catalunya, quina de les opcions següents és una mesura de racionalització de personal?[note]a) La modificació puntual de l'horari de treball per necessitats del servei.[/note][note]b) La planificació de necessitats de personal basada exclusivament en criteris pressupostaris.[/note][note]c) Els plans de formació i capacitació per a la recol·locació del personal.[/note][note]d) L'establiment de mesures específiques de promoció interna.]",
+ "answer":"c) Els plans de formació i capacitació per a la recol·locació del personal.",
+  "doctrina":""
+   },
+{
+ "id":48,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"48. Es pot concedir una reducció de jornada per interès particular al personal que presta serveis en règim de jornada de dedicació especial?[note]a) No, excepte quan disposi d'un informe favorable de la Direcció General de Funció Pública.[/note][note]b) Sí, però només amb l'aprovació mitjançant una resolució de la Secretaria General corresponent.[/note][note]c) No, en cap cas.[/note][note]d) Sí, però només amb l'aprovació del superior jeràrquic i si es garanteix la cobertura del servei.]",
+ "answer":"c) No, en cap cas.",
+  "doctrina":""
+ },
+{
+ "id":49,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"49. D'acord amb el Reglament de selecció de personal de l'Administració de la Generalitat de Catalunya, el tribunal qualificador s'ha de constituir amb:[note]a) Un nombre senar de membres no inferior a 5 i han de comptar amb el mateix nombre de suplents.[/note][note]b) Un nombre parell de membres no inferior a 6 i han de comptar amb el mateix nombre de suplents.[/note][note]c) Un nombre senar de membres superior a 5 i han de comptar amb el mateix nombre de suplents.[/note][note]d) Un nombre parell de membres no inferior a 4 i han de comptar amb el mateix nombre de suplents]",
+ "answer":"a) Un nombre senar de membres no inferior a 5 i han de comptar amb el mateix nombre de suplents.",
+  "doctrina":""
+   },
+{
+ "id":50,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"50. D'acord amb l'article 7.2 del Reglament de selecció de personal de l'Administració de la Generalitat de Catalunya, quin percentatge màxim pot representar la fase de concurs sobre la puntuació total d'un procés selectiu pel sistema de concurs-oposició?[note]a) El 25%[/note][note]b) El 33%[/note][note]c) El 50%[/note][note]d) El 40%]",
+ "answer":"d) El 40%]",
+  "doctrina":""
+ },
+{
+ "id":51,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"51. D'acord amb l'article 97 del Text refós de la Llei de l'Estatut bàsic de l'empleat públic, quin és el termini de prescripció de les sancions imposades per faltes disciplinàries lleus, comptat des de la fermesa de la resolució sancionadora?[note]a) 2 anys[/note][note]b) 1 any[/note][note]c) 6 mesos[/note][note]d) 3 mesos]",
+ "answer":"b) 1 any",
+  "doctrina":""
+   },
+{
+ "id":52,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"52. D'acord amb l'article 90 del Text refós de la Llei de l'Estatut bàsic de l'empleat públic, la sanció disciplinària de suspensió de funcions no pot tenir una durada superior a:[note]a) 2 anys[/note][note]b) 3 anys[/note][note]c) 5 anys[/note][note]d) 6 anys]",
+ "answer":"d) 6 anys]",
+  "doctrina":""
+ },
+{
+ "id":53,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"53. D'acord amb l'article 5 del Decret 138/2008, de 8 de juliol, d'indemnitzacions per raó del servei, les comissions de servei amb dret a indemnització, llevat de casos excepcionals, no poden tenir una durada superior a:[note]a) 1 mes, o 3 mesos si s'han de dur a terme en territori estranger. L'òrgan competent pot autoritzar la concessió d'una pròrroga pel temps estrictament indispensable, quan el termini esdevingui insuficient per al compliment total del servei.[/note][note]b) 3 mesos, o 6 mesos si s'han de dur a terme en territori estranger. L'òrgan competent pot autoritzar la concessió d'una pròrroga pel temps estrictament indispensable quan el termini esdevingui insuficient per al compliment total del servei.[/note][note]c) 6 mesos. L'òrgan competent pot autoritzar la concessió d'una pròrroga pel temps estrictament indispensable, quan el termini esdevingui insuficient per al compliment total del servei.[/note][note]d) 1 mes, o 2 mesos si s'han de dur a terme en territori estranger. Aquests límits de durada màxima no són prorrogables.]",
+ "answer":"a) 1 mes, o 3 mesos si s'han de dur a terme en territori estranger. L'òrgan competent pot autoritzar la concessió d'una pròrroga pel temps estrictament indispensable, quan el termini esdevingui insuficient per al compliment total del servei.",
+  "doctrina":""
+   },
+{
+ "id":54,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"54. D'acord amb l'article 4 del Decret 2/2005, d'11 de gener, sobre el règim jurídic del personal eventual de l'Administració de la Generalitat de Catalunya:[note]a) La provisió de llocs de personal eventual es duu a terme mitjançant convocatòria pública i pel sistema de lliure designació.[/note][note]b) Per la naturalesa especial de les seves funcions, la provisió de llocs de personal eventual es fa sense necessitat de convocatòria pública i tampoc s'han de publicar les resolucions de nomenament de personal eventual; només s'han de notificar a les persones interessades.[/note][note]c) La presa de possessió als llocs de treball de personal eventual ha de ser objecte d'inscripció al Registre General de Personal.[/note][note]d) El personal eventual pot ser nomenat per la persona titular de la Secretaria General del departament corresponent.]",
+ "answer":"c) La presa de possessió als llocs de treball de personal eventual ha de ser objecte d'inscripció al Registre General de Personal.",
+  "doctrina":""
+ },
+{
+ "id":55,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"55. D'acord amb el VI Conveni col·lectiu únic del personal laboral de la Generalitat de Catalunya, es pot destinar el personal laboral fix a realitzar tasques corresponents a una categoria professional inferior a la que té?[note]a) Sí, sempre que sigui per necessitats peremptòries i imprevisibles de l'activitat productiva i pel temps imprescindible, que no podrà excedir en cap cas els 2 mesos cada any.[/note][note]b) Sí, sempre que sigui per necessitats peremptòries i imprevisibles de l'activitat productiva i pel temps imprescindible, que no podrà excedir en cap cas els 3 mesos cada any. Aquest període és prorrogable excepcionalment per 3 mesos més, prèvia consulta als representants dels treballadors.[/note][note]c) No, només es pot encomanar al personal laboral l'exercici de tasques corresponents a una categoria professional superior a la que tinguin, de la mateixa àrea funcional o, si és d'una altra àrea funcional, sempre que sigui del grup immediatament superior.[/note][note]d) No, només en el cas del personal laboral temporal, per necessitats peremptòries i imprevisibles de l'activitat productiva i pel temps imprescindible, que no podrà excedir en cap cas els 3 mesos cada any.]",
+ "answer":"a) Sí, sempre que sigui per necessitats peremptòries i imprevisibles de l'activitat productiva i pel temps imprescindible, que no podrà excedir en cap cas els 2 mesos cada any.",
+  "doctrina":""
+   },
+{
+ "id":56,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"56. Els contractes sotmesos a la Llei 9/2017, de 8 de novembre, de contractes del sector públic s'identifiquen per l'aplicació:[note]a) Del valor econòmic del contracte.[/note][note]b) Del codi CSP.[/note][note]c) Del codi que determini cada administració pública.[/note][note]d) Del vocabulari comú de contractes públics.]",
+ "answer":"d) Del vocabulari comú de contractes públics.]",
+  "doctrina":""
+ },
+{
+ "id":57,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"57. D'acord amb la Llei 9/2017, de 8 de novembre, de contractes del sector públic, els contractes d'obres i de serveis subvencionats per poders adjudicadors estan subjectes a regulació harmonitzada quan són subvencionats:[note]a) De forma indirecta i en més d'un 50% del seu import.[/note][note]b) De forma directa i en més d'un 50% del seu import.[/note][note]c) De forma directa i en més d'un 60% del seu import.[/note][note]d) De forma indirecta i en més d'un 60% del seu import.]",
+ "answer":"b) De forma directa i en més d'un 50% del seu import.",
+  "doctrina":""
+   },
+{
+ "id":58,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"58. Els òrgans de contractació han de donar publicitat mitjançant internet:[note]a) Només dels anuncis de licitació dels contractes.[/note][note]b) Només dels anuncis de licitació i d'adjudicació dels contractes.[/note][note]c) Només dels plecs de clàusules administratives i de prescripcions tècniques.[/note][note]d) De tota la documentació necessària per licitar.]",
+ "answer":"d) De tota la documentació necessària per licitar.]",
+  "doctrina":""
+ },
+{
+ "id":59,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"59. En matèria de contractació pública, la modificació del plec de prescripcions tècniques particulars després de l'adjudicació del contracte:[note]a) Pot comportar la retroacció d'actuacions.[/note][note]b) Comporta la retroacció d'actuacions quan es modifiquin d'ofici per l'òrgan de contractació.[/note][note]c) Comporta la retroacció d'actuacions quan es modifiquin a petició de l'adjudicatari.[/note][note]d) No pot comportar la retroacció d'actuacions, sense excepcions.]",
+ "answer":"a) Pot comportar la retroacció d'actuacions.",
+  "doctrina":""
+   },
+{
+ "id":60,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"60. Els contractes subscrits pels poders adjudicadors són invàlids quan:[note]a) La invalidesa no derivi de la il·legalitat de les seves clàusules.[/note][note]b) Hi concorri alguna de les causes d'invalidesa de dret natural.[/note][note]c) En els actes preparatoris o del procediment d'adjudicació es presentin algunes de les causes d'invalidesa de dret administratiu.[/note][note]d) En els actes preparatoris o del procediment d'adjudicació es presentin algunes de les causes d'invalidesa de dret mercantil.]",
+ "answer":"c) En els actes preparatoris o del procediment d'adjudicació es presentin algunes de les causes d'invalidesa de dret administratiu.",
+  "doctrina":""
+ },
+{
+ "id":61,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"61. La modificació d'un contracte celebrat per un poder adjudicador que no és administració pública es regeix per:[note]a) Les normes de dret privat, i no s'hi aplica la Llei 9/2017, de 8 de novembre.[/note][note]b) La Llei 9/2017, de 8 de novembre, i no s'hi apliquen les normes de dret privat.[/note][note]c) Les normes de dret privat, però s'hi aplica la Llei 9/2017, de 8 de novembre, pel que fa als supòsits de modificació del contracte.[/note][note]d) La Llei 9/2017, de 8 de novembre, en el cas que el plec de clàusules administratives particulars no prevegi la modificació del contracte.]",
+ "answer":"c) Les normes de dret privat, però s'hi aplica la Llei 9/2017, de 8 de novembre, pel que fa als supòsits de modificació del contracte.",
+  "doctrina":""
+   },
+{
+ "id":62,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"62. No es pot modificar un contracte:[note]a) Sense el dictamen previ de la Comissió Jurídica Assessora.[/note][note]b) Sense el dictamen previ de la Comissió Jurídica Assessora, quan el plec de clàusules administratives no prevegi la modificació i la seva quantia, aïllada o conjuntament, sigui superior a un 20% del preu inicial del contracte, IVA exclòs, i el seu preu sigui superior a 3.000.000 d'euros.[/note][note]c) Sense el dictamen previ del Consell d'Estat, quan el plec de clàusules administratives no prevegi la modificació i la seva quantia, aïllada o conjuntament, sigui superior a un 20% del preu inicial del contracte, IVA exclòs, i el seu preu sigui superior a 6.000.000 d'euros.[/note][note]d) Sense el dictamen previ de la Comissió Jurídica Assessora, quan el plec de clàusules administratives no prevegi la modificació i la seva quantia, aïllada o conjuntament, sigui superior a un 20% del preu inicial del contracte, IVA exclòs, i el seu preu sigui igual o superior a 6.000.000 d'euros.]",
+ "answer":"d) Sense el dictamen previ de la Comissió Jurídica Assessora, quan el plec de clàusules administratives no prevegi la modificació i la seva quantia, aïllada o conjuntament, sigui superior a un 20% del preu inicial del contracte, IVA exclòs, i el seu preu sigui igual o superior a 6.000.000 d'euros.]",
+  "doctrina":""
+ },
+{
+ "id":63,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"63. En matèria de subvencions de les administracions públiques, els membres d'una comunitat de béns responen d'una sanció pecuniària de manera:[note]a) Solidària[/note][note]b) Mancomunada[/note][note]c) Individual[/note][note]d) Subsidiària]",
+ "answer":"a) Solidària",
+  "doctrina":""
+   },
+{
+ "id":64,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"64. Quina de les opcions següents és l'instrument que té com a objectiu principal assegurar l'assoliment dels 17 objectius de desenvolupament sostenible mitjançant les polítiques públiques impulsades i gestionades per la Generalitat de Catalunya?[note]a) El Pla nacional per a l'Agenda 2030.[/note][note]b) L'Estratègia Catalana d'Adaptació al Canvi Climàtic.[/note][note]c) El Pla d'Acció Auto+ per a l'Agenda 2030.[/note][note]d) L'Estratègia mediterrània MedCat 2030.]",
+ "answer":"a) El Pla nacional per a l'Agenda 2030.",
+  "doctrina":""
+ },
+{
+ "id":65,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"65. D'acord amb el Text únic de la Llei de la funció pública de l'Administració de la Generalitat de Catalunya, quins son els mitjans per accedir als cossos i les escales de funcionaris o a les categories laborals?[note]a) Procediments d'oposició, concurs o promoció interna, amb caràcter general, els cursos de formació o la fase de prova que determini la convocatòria.[/note][note]b) Procediments d'oposició, concurs o lliure designació, segons el lloc de treball i, si escau, els cursos de formació o la fase de prova que determini la convocatòria.[/note][note]c) Procediments de concurs oposició o concurs, borsa de treball i, si escau, cursos de formació o la fase de prova que determini la convocatòria.[/note][note]d) Procediments d'oposició, concurs oposició o concurs i, si escau, els cursos de formació o la fase de prova que determini la convocatòria.]",
+ "answer":"d) Procediments d'oposició, concurs oposició o concurs i, si escau, els cursos de formació o la fase de prova que determini la convocatòria.]",
+  "doctrina":""
+   },
+{
+ "id":66,
+ "sector":"871- Test teòric - part específica - 27-5-26",
+ "question":"66. D'acord amb l'article 103 del Text únic de la Llei de la funció pública de l'Administració de la Generalitat de Catalunya, quina de les següents opcions és una retribució complementària:[note]a) Les pagues extraordinàries.[/note][note]b) Les gratificacions per serveis extraordinaris.[/note][note]c) Els triennis.[/note][note]d) La participació en les sancions pecuniàries imposades, que només pot percebre el personal dels cossos tributaris i respecte dels expedients en què hagi intervingut directament.]",
+ "answer":"b) Les gratificacions per serveis extraordinaris.",
+  "doctrina":""
+ },
+{
+ "id":67,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"67. Treballeu com a tècnic superior a la Subdirecció General de Pesca, Aqüicultura i Estructures Pesqueres. Ja fa uns anys que disposeu de la T-CAT P amb signatura avançada instal·lada al vostre ordinador, amb data d'emissió 10.11. 2022. Quan caducarà?[note]a) El 9.11.2025, perquè té una caducitat general de 3 anys des de la seva emissió, amb renovació possible des de 90 dies abans de caducar.[/note][note]b) El 10.11.2026, perquè té una caducitat general de 4 anys des de la seva emissió, amb renovació possible des de 60 dies abans de caducar.[/note][note]c) El 10.11.2025, perquè té una caducitat general de 3 anys des de la seva emissió, amb renovació possible des de 60 dies abans de caducar.[/note][note]d) El 9.11.2026, té una caducitat general de 4 anys des de la seva emissió, amb renovació possible des de 30 dies abans de caducar.]",
+ "answer":"b) El 10.11.2026, perquè té una caducitat general de 4 anys des de la seva emissió, amb renovació possible des de 60 dies abans de caducar.",
+  "doctrina":""
+   },
+{
+ "id":68,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"68. Com a responsable de contractació del Departament de Cultura, us demanen que calculeu el valor estimat del contracte del servei de neteja. El pressupost base de licitació és de 121.000 euros (21 % d'IVA inclòs). El termini d'execució és d'un any, amb una modificació prevista d'un màxim del 20 % anual i una pròrroga per 2 anys més. Quin és el valor estimat del contracte?[note]a) 120.000 euros[/note][note]b) 360.000 euros[/note][note]c) 439.230 euros[/note][note]d) 300.000 euros]",
+ "answer":"b) 360.000 euros",
+  "doctrina":""
+ },
+{
+ "id":69,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"69. Treballeu com a responsable de contractació al Servei Meteorològic de Catalunya, entitat de dret públic de la Generalitat que té la consideració d'administració pública a l'efecte de la legislació contractual. L'entitat ha de contractar el servei de gestió i manteniment de les estacions meteorològiques automàtiques que hi ha a Catalunya. A un company vostre li han encarregat que redacti el plec de clàusules administratives que ha de regir la licitació, però no té gaire experiència i us demana, com a expert en la matèria, si el contracte està subjecte a regulació harmonitzada. Què li respondríeu?[note]a) No, perquè el Servei Meteorològic de Catalunya no és un poder adjudicador.[/note][note]b) Sí, si és un contracte subvencionat de manera directa en més del 40% de l'import.[/note][note]c) No, perquè és un contracte que la legislació contractual estableix que no està subjecte a regulació harmonitzada.[/note][note]d) Sí, si el valor estimat del contracte és igual o superior a la quantia que estableix la legislació contractual.]",
+ "answer":"d) Sí, si el valor estimat del contracte és igual o superior a la quantia que estableix la legislació contractual.]",
+  "doctrina":""
+   },
+{
+ "id":70,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"70. El Departament de la Presidència ha de contractar el servei de control horari del Departament, per un valor estimat de 14.000 euros. Us demanen, com a responsable de la contractació, que determineu qui ha d'adjudicar el contracte:[note]a) El director o directora general de contractació pública.[/note][note]b) El conseller o consellera.[/note][note]c) El secretari o la secretària general, o la persona en qui delegui.[/note][note]d) L'òrgan que aprovi la licitació.]",
+ "answer":"c) El secretari o la secretària general, o la persona en qui delegui.",
+  "doctrina":""
+ },
+{
+ "id":71,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"71. Treballeu al Servei de Contractació del departament competent en l'atenció a la infància i l'adolescència i us demanen quin és el procediment adequat per tramitar la prestació del servei social d'atenció a un grup de menors d'edat estrangers no acompanyats que acaba d'arribar a Catalunya. La xarxa de serveis socials està saturada, fet que posa en greu perill els drets i la integritat física dels nouvinguts. Què proposareu?[note]a) Un contracte verbal per urgència[/note][note]b) Una tramitació d'emergència[/note][note]c) Un procediment obert simplificat[/note][note]d) Un contracte menor]",
+ "answer":"b) Una tramitació d'emergència",
+  "doctrina":""
+   },
+{
+ "id":72,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"72. Treballeu al Servei de Contractació del Centre de Telecomunicacions i Tecnologies de la Informació (CTTI), entitat de dret públic de la Generalitat. La responsable del contracte del servei de manteniment de les aplicacions de la Generalitat de Catalunya, adjudicat el maig de 2019 a Global Service TIC, SA, planteja modificar-lo perquè ha augmentat de manera imprevisible la necessitat de la ciutadania de relacionar-se digitalment a causa d'una epidèmia de grip. Es tracta d'un contracte d'un import inicial de 13.100.000 euros (IVA exclòs) i l'import de la modificació proposada és de 4.000.000 d'euros. Se us planteja, com a expert en la matèria, si cal demanar el dictamen de la Comissió Jurídica Assessora. Què li aconselleu?[note]a) No, perquè l'import de la modificació és menor de 6.000.000 d'euros.[/note][note]b) Sí, perquè es tracta d'una modificació contractual.[/note][note]c) Sí, perquè es compleixen tots els requisits legals.[/note][note]d) No, perquè el dictamen és facultatiu si la modificació no està prevista en els plecs de clàusules administratives particulars.]",
+ "answer":"c) Sí, perquè es compleixen tots els requisits legals.",
+  "doctrina":""
+ },
+{
+ "id":73,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"73. Participeu com a ponent en unes jornades de tramitació electrònica, i una persona del públic us pregunta què és la interoperabilitat semàntica. Li responeu que, segons disposa el Reial decret 4/2010, de 8 de gener, pel qual es regula I'Esquema Nacional d'Interoperabilitat en l'àmbit de l'Administració Electrònica, és aquella dimensió de la interoperabilitat relativa:[note]a) A la capacitat de les entitats i dels processos a través dels quals duen a terme les seves activitats per col·laborar per assolir èxits mútuament acordats relatius als serveis que presten.[/note][note]b) Al fet que la informació intercanviada pugui ser interpretable de forma automàtica i reutilitzable per aplicacions que no van intervenir en la seva creació.[/note][note]c) A la relació entre sistemes i serveis de tecnologies de la informació, incloent-hi aspectes com ara les interfícies, la interconnexió, la integració de dades i serveis, la presentació de la informació, l'accessibilitat i la seguretat, o altres de naturalesa anàloga.[/note][note]d) A la interacció entre elements que corresponen a diverses onades tecnològiques; es manifesta especialment en la conservació de la informació en suport electrònic.]",
+ "answer":"b) Al fet que la informació intercanviada pugui ser interpretable de forma automàtica i reutilitzable per aplicacions que no van intervenir en la seva creació.",
+  "doctrina":""
+   },
+{
+ "id":74,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"74. El Servei de Contractació us fa l'observació que el Centre de Telecomunicacions i Tecnologies de la Informació (CTTI), és un poder adjudicador que no té la consideració d'administració pública, i els seus contractes es regeixen per normes de dret privat. Hi esteu d'acord?[note]a) No, perquè no cal distingir entre el règim de preparació i adjudicació i el règim relatiu als efectes i a l'extinció del contracte.[/note][note]b) No, perquè els contractes es regeixen per normes de dret públic.[/note][note]c) Sí, però només pel que fa als efectes i l'extinció dels contractes, amb algunes excepcions.[/note][note]d) Sí, però només pel que fa als efectes i l'extinció dels contractes, sense cap excepció.]",
+ "answer":"c) Sí, però només pel que fa als efectes i l'extinció dels contractes, amb algunes excepcions.",
+  "doctrina":""
+ },
+{
+ "id":75,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"75. Infraestructures de la Generalitat de Catalunya, SAU, poder adjudicador que no és administració pública a l'efecte de la legislació contractual, necessita modificar un contracte signat amb l'empresa Projectes i Carreteres, SA, per executar les obres de condicionament de la carretera C-63. A causa de diverses incidències aparegudes en el decurs de les obres, s'ha redactat un projecte modificat. En tractar-se d'una modificació no prevista en el plec de clàusules administratives, el responsable del contracte us demana, com a especialista en la matèria, si cal donar audiència a la contractista. Què li respondríeu?[note]a) Sí, i la contractista ha de donar per escrit la conformitat a la modificació.[/note][note]b) No, perquè la modificació és obligatòria per a la contractista.[/note][note]c) Sí, i la contractista ha de donar, per escrit o verbalment, la conformitat a la modificació.[/note][note]d) No, perquè la modificació no és obligatòria per a la contractista.]",
+ "answer":"a) Sí, i la contractista ha de donar per escrit la conformitat a la modificació.",
+  "doctrina":""
+   },
+{
+ "id":76,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"76. Sistema d'Emergències Mèdiques, SA (SEM), societat mercantil adscrita al Servei Català de la Salut, va contractar l'1 de gener de 2022 el servei d'atenció psicològica en ambulàncies. El contracte, adjudicat pel procediment obert, va finalitzar el 31 de desembre de 2024, però l'empresa va continuar prestant el servei a instàncies del SEM, fins a l'1 de gener de 2026, quan es va adjudicar el nou contracte a una altra empresa, també pel procediment obert. Com a responsable de la contractació de l'empresa trobeu correcta la prestació del servei durant el 2025?[note]a) No, perquè és un encàrrec verbal nul.[/note][note]b) Sí, perquè el servei és de caràcter essencial.[/note][note]c) Sí, perquè hi ha hagut un retard en la tramitació de la licitació del nou contracte.[/note][note]d) Sí, perquè la pròrroga és forçosa fins a la nova adjudicació.]",
+ "answer":"a) No, perquè és un encàrrec verbal nul.",
+  "doctrina":""
+ },
+{
+ "id":77,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"77. Treballeu com a responsable de tramitació de subvencions en el departament competent en matèria d'empresa, el qual ha concedit a l'Associació Empresarial Tecnològica una subvenció de 15.000 euros per fomentar l'emprenedoria. L'Associació, però, només ha justificat parcialment, dins del termini previst, les despeses corresponents a les actuacions de foment realitzades. Què ha de fer el Departament?[note]a) Requerir a l'Associació que presenti la documentació justificativa en el termini improrrogable de 15 dies, a fi d'evitar les sancions que li puguin pertocar.[/note][note]b) Requerir a l'Associació que presenti la documentació justificativa en el termini de 15 dies, ampliable en 7 dies més si ho sol·licita.[/note][note]c) Iniciar el procediment de revocació de la subvenció.[/note][note]d) Requerir a l'Associació que presenti la documentació justificativa en el termini improrrogable de 15 dies.]",
+ "answer":"d) Requerir a l'Associació que presenti la documentació justificativa en el termini improrrogable de 15 dies.]",
+  "doctrina":""
+   },
+{
+ "id":78,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"78. El Departament de Recerca i Universitats vol fer una aportació complementària per finançar les despeses de funcionament d'una universitat pública en concret, Iligada al fet que aquesta universitat atén una població geogràficament dispersa i també a l'assoliment d'un objectiu específic de millora de la qualitat del servei que ofereix. Quin és l'instrument idoni per fer-ho?[note]a) Un contracte-programa.[/note][note]b) Un encàrrec de gestió, amb clàusules que penalitzin l'incompliment de l'objectiu establert.[/note][note]c) Un conveni-programa acadèmic-docent.[/note][note]d) Un acord-marc de serveis.]",
+ "answer":"a) Un contracte-programa.",
+  "doctrina":""
+ },
+{
+ "id":79,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"79. El Departament d'Educació i Formació Professional està duent a terme l'avaluació econòmica d'un projecte per afavorir les vocacions científiques i tecnològiques. Un cop els diferents beneficis i costos han estat identificats i valorats econòmicament, cal agregar-los, a fi de comparar-los i poder estimar el valor social net del projecte. En aquest moment, cal aplicar la taxa de descompte social (TDS). Quin valor de TDS haurà d'aplicar el Departament si vol seguir la recomanació continguda a la Guia d'avaluació econòmica de polítiques públiques de la Generalitat de Catalunya, elaborada pel Departament d'Economia i Hisenda?[note]a) 3%[/note][note]b) 4%[/note][note]c) 5%[/note][note]d) 5,5%]",
+ "answer":"a) 3%",
+  "doctrina":""
+   },
+{
+ "id":80,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"80. En data 11 de maig de 2026, l'òrgan competent del Departament d'Empresa i Treball ha resolt incoar un expedient disciplinari al senyor Jofre Carandell, funcionari interí del cos administratiu, escala administrativa, per la presumpta comissió d'una falta disciplinària de caràcter molt greu. La presumpta falta es va cometre l'1 de gener de 2026. Mentre s'està tramitant aquest expedient, i en data 30 de maig de 2026, finalitza el nomenament de personal interí del senyor Carandell, que era un nomenament per acumulació de tasques. D'acord amb el Reglament de règim disciplinari de la funció pública de l'Administració de la Generalitat de Catalunya, què cal fer?[note]a) S'ha de continuar amb la tramitació de l'expedient disciplinari perquè es tracta d'una falta molt greu tipificada al text refós de la Llei de l'Estatut bàsic de l'empleat públic, i aquest preveu que sempre s'ha de determinar la responsabilitat que es derivi d'aquest tipus de faltes.[/note][note]b) S'ha de continuar amb la tramitació de l'expedient disciplinari, perquè la falta disciplinària no ha prescrit i, per tant, no es pot considerar extingida la responsabilitat disciplinària. Només es podrà suspendre, si escau, l'execució de la sanció que s'imposi.[/note][note]c) S'ha de dictar resolució en què es declararà extingit el procediment disciplinari i s'ordenarà l'arxiu de les actuacions, llevat que per la part interessada insti la continuació de l'expedient.[/note][note]d) L'instructor o instructora de l'expedient disciplinari ha d'emetre una diligència per arxivar l'expedient disciplinari. Ens trobem davant d'una causa d'extinció de la responsabilitat disciplinària ex lege i, per tant, no és necessari dictar resolució expressa d'arxiu.]",
+ "answer":"c) S'ha de dictar resolució en què es declararà extingit el procediment disciplinari i s'ordenarà l'arxiu de les actuacions, llevat que per la part interessada insti la continuació de l'expedient.",
+  "doctrina":""
+ },
+{
+ "id":81,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"81. La Clara Homs és funcionària del cos de gestió d'administració de la Generalitat de Catalunya i va ingressar a aquesta administració en data 19 de març de 2024, prenent possessió d'un lloc de treball al Departament de Cultura, com a primera destinació. Anteriorment, i des de l'1 de desembre de 2021 fins al 18 de març de 2024, havia prestat serveis com a tècnica de promoció turística, amb vinculació de funcionària interina, en un ajuntament. En data 27 d'abril de 2026, adreça una consulta al Servei de Recursos Humans sobre la possibilitat de sol·licitar una excedència voluntària per interès particular amb efectes des del dia 1 de juny de 2026. També demana que se l'informi sobre quin període mínim de temps haurà d'estar en situació d'excedència, si se li concedeix, i sobre si se li reservarà el lloc de treball que actualment ocupa. Quina resposta ha de donar el Servei de Recursos Humans?[note]a) No se li pot concedir l'excedència voluntària per interès particular amb efectes de la data que sol·licita, perquè encara no ha complert el període mínim de serveis prestats de manera continuada establert per la normativa vigent. Quan compleixi aquest període mínim, se li podrà concedir l'excedència voluntària per interès particular, però aquesta concessió està supeditada a les necessitats del servei. Si se li concedeix, haurà d'estar en aquesta situació durant un període mínim de 2 anys i no tindrà reserva de lloc de treball.[/note][note]b) Sí, se li pot concedir l'excedència voluntària per interès particular amb efectes de la data que sol·licita, perquè haurà complert el període mínim de serveis prestats. La concessió d'aquesta excedència no està supeditada a les necessitats del servei. Haurà d'estar en aquesta situació durant un període mínim de 2 anys i no tindrà reserva de lloc de treball.[/note][note]c) Sí, se li pot concedir l'excedència voluntària per interès particular amb efectes de la data que sol·licita, perquè haurà complert el període mínim de serveis prestats. No obstant això, la concessió està supeditada a les necessitats del servei. Si se li concedeix, haurà d'estar en aquesta situació durant un període mínim de 2 anys i no tindrà reserva de lloc de treball.[/note][note]d) No se li pot concedir l'excedència voluntària per interès particular amb efectes de la data que sol·licita, perquè encara no ha complert el període mínim de serveis prestats de manera continuada establert per la normativa vigent. Quan compleixi aquest període mínim, se li haurà de concedir l'excedència voluntària per interès particular si la sol·licita, perquè aquesta concessió no està supeditada a les necessitats del servei. Haurà d'estar en aquesta situació durant un període mínim d'un any i no tindrà reserva de lloc de treball.]",
+ "answer":"a) No se li pot concedir l'excedència voluntària per interès particular amb efectes de la data que sol·licita, perquè encara no ha complert el període mínim de serveis prestats de manera continuada establert per la normativa vigent. Quan compleixi aquest període mínim, se li podrà concedir l'excedència voluntària per interès particular, però aquesta concessió està supeditada a les necessitats del servei. Si se li concedeix, haurà d'estar en aquesta situació durant un període mínim de 2 anys i no tindrà reserva de lloc de treball.",
+  "doctrina":""
+   },
+{
+ "id":82,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"82. El Xavier Bosch és funcionari de carrera del cos de titulació superior, escala d'arquitectura (grup A, subgrup A1), de la Generalitat de Catalunya, amb destinació definitiva a un lloc base del seu cos i escala al Departament de Cultura. En data 16 de juny de 2026, és nomenat, mitjançant un procediment de Iliure designació, subdirector general d'Arquitectura i Edificació a una direcció general del Ministeri de Foment de l'Administració General de l'Estat, i pren possessió d'aquest lloc de treball l'endemà. D'acord amb la regulació sobre situacions administratives continguda al Text únic de la Llei de la funció pública de l'Administració de la Generalitat de Catalunya, en quina situació administrativa queda el senyor Bosch a l'Administració de la Generalitat de Catalunya? Té reserva de plaça i destinació?[note]a) Queda en la situació de serveis especials i té dret a la reserva de plaça i destinació.[/note][note]b) Queda en la situació de serveis en altres administracions públiques sense reserva de plaça i destinació.[/note][note]c) Queda en la situació d'excedència voluntària per incompatibilitats i no té dret a la reserva de plaça i destinació.[/note][note]d) Queda en la situació de serveis en altres administracions públiques amb reserva de plaça i destinació.]",
+ "answer":"b) Queda en la situació de serveis en altres administracions públiques sense reserva de plaça i destinació.",
+  "doctrina":""
+ },
+{
+ "id":83,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"83. El senyor Pere Bartolí és contractat laboral indefinit del Departament de Justícia i Qualitat Democràtica, amb la categoria D1, oficial de 1a de manteniment. Un dels complements que percep a la seva nòmina mensual retribueix la preparació i capacitació professional com a retribució bàsica. Com s'anomena aquest complement?[note]a) Complement de comandament[/note][note]b) Complement de conveni[/note][note]c) Complement transversal de lloc de treball[/note][note]d) Complement de grup]",
+ "answer":"d) Complement de grup]",
+  "doctrina":""
+   },
+{
+ "id":84,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"84. La Marta Muñoz és funcionària interina del cos auxiliar d'administració i presta serveis a un organisme autònom adscrit al Departament de Cultura, amb seu a Barcelona. El director d'aquest organisme li ordena la realització d'una comesa especial de caràcter circumstancial, que s'ha de dur a terme a la localitat de Tarragona entre els dies 11 i 14 de maig de 2026, ambdós inclosos. Un cop realitzada aquesta comesa, i d'acord amb el que estableix el Decret 138/2008, de 8 de juliol, d'indemnitzacions per raó del servei, de quin termini disposa la senyora Muñoz per presentar davant l'òrgan competent la liquidació de les despeses derivades d'aquesta, perquè no s'entengui que renuncia a la percepció de les indemnitzacions corresponents?[note]a) 1 mes[/note][note]b) 2 mesos[/note][note]c) 3 mesos[/note][note]d) 6 mesos]",
+ "answer":"d) 6 mesos]",
+  "doctrina":""
+ },
+{
+ "id":85,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"85. El Departament d'Interior i Seguretat Pública vol nomenar 3 tècnics/tècniques superiors per fer front a una situació d'acumulació de tasques relacionada amb la gestió de sancions administratives imposades en l'àmbit de la seguretat ciutadana. Quina és la durada màxima que podran tenir aquests nomenaments, d'acord amb el que estableix el Text refós de la Llei de l'Estatut bàsic de l'empleat públic, aprovat pel Reial decret legislatiu 5/2015, de 30 d'octubre (TREBEP)?[note]a) 6 mesos, dins d'un període de 12 mesos.[/note][note]b) 3 mesos, dins d'un període de 6 mesos.[/note][note]c) 9 mesos, dins d'un període de 18 mesos.[/note][note]d) 12 mesos, dins d'un període de 2 anys.]",
+ "answer":"c) 9 mesos, dins d'un període de 18 mesos.",
+  "doctrina":""
+   },
+{
+ "id":86,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"86. Una societat mercantil del sector públic, amb la forma de societat anònima i participada íntegrament per la Generalitat, ha de contractar un nou conseller delegat, perquè l'actual es jubila. D'acord amb la regulació sobre personal directiu del sector públic de la Generalitat de Catalunya, continguda a la disposició addicional vint-i-unena de la Llei 2/2014, del 27 de gener, de mesures fiscals, administratives, financeres i del sector públic, quin tipus de vinculació amb aquesta societat podrà tenir la persona contractada com a consellera delegada?[note]a) Un contracte laboral especial d'alta direcció, en qualsevol cas.[/note][note]b) Un contracte laboral especial d'alta direcció o, en cas que els estatuts de la societat ho prevegin, un contracte laboral ordinari.[/note][note]c) Un contracte laboral especial d'alta direcció o, en cas que els estatuts de la societat ho prevegin, una vinculació administrativa com a personal eventual.[/note][note]d) Un contracte laboral especial d'alta direcció o, en cas que els estatuts de la societat ho prevegin, un contracte mercantil.]",
+ "answer":"d) Un contracte laboral especial d'alta direcció o, en cas que els estatuts de la societat ho prevegin, un contracte mercantil.]",
+  "doctrina":""
+ },
+{
+ "id":87,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"87. El Departament de Territori i Sostenibilitat està redactant les bases d'una convocatòria de concurs de canvi de destinació per proveir llocs de treball del seu personal laboral fix. D'acord amb la regulació sobre mobilitat voluntària continguda en el VI Conveni col·lectiu únic del personal laboral de la Generalitat de Catalunya, i pel que fa als mèrits i a les capacitats que s'han de valorar en aquest concurs, quin percentatge han de tenir les capacitats professionals?[note]a) El 40% com a mínim[/note][note]b) El 40 %[/note][note]c) El 60 %[/note][note]d) El 70 %]",
+ "answer":"d) El 70 %]",
+  "doctrina":""
+   },
+{
+ "id":88,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"88. La Montserrat Cucurella és funcionària del cos superior d'administració, amb destinació definitiva des de l'any 2010 en un lloc de treball dels Serveis Territorials de Girona del Departament de la Presidència. En les darreres eleccions sindicals del personal funcionari de l'Administració de la Generalitat, celebrades l'any 2023, la senyora Cucurella va ser escollida delegada de personal de la Junta de Personal dels Serveis Territorials a Girona, que constitueixen una unitat electoral amb un cens de 1.200 persones. D'acord amb el que estableix l'article 41 del Text refós de la Llei de l'Estatut bàsic de l'empleat públic, aprovat pel Reial decret legislatiu 5/2015, de 30 d'octubre (TREBEP), de quin crèdit d'hores mensuals, dins de la jornada de treball i retribuïdes com a treball efectiu disposarà la senyora Cucurella per a l'exercici de la seva funció representativa?[note]a) 40 hores[/note][note]b) 21 hores[/note][note]c) 30 hores[/note][note]d) 20 hores]",
+ "answer":"a) 40 hores",
+  "doctrina":""
+ },
+{
+ "id":89,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"89. Heu de redactar un informe relatiu a l'adopció de polítiques, en especial fiscals, salarials i de protecció social, per aconseguir progressivament una major igualtat, i el vostre cap us ha dit que tingueu en compte l'Agenda 2030 a l'hora de redactar-lo. A quin objectiu de desenvolupament sostenible (ODS) heu de fer referència?[note]a) ODS 8, promoure el creixement econòmic sostingut, inclusiu i sostenible, l'ocupació plena i productiva i el treball digne per a tothom.[/note][note]b) ODS 1, erradicar la pobresa a tot el món i en totes les seves formes.[/note][note]c) ODS 5, aconseguir la igualtat de gènere i apoderar totes les dones i nenes.[/note][note]d) ODS 10, reduir la desigualtat en i entre els països.]",
+ "answer":"d) ODS 10, reduir la desigualtat en i entre els països.]",
+  "doctrina":""
+   },
+{
+ "id":90,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"90. Treballeu al Servei d'Organització del Departament de Cultura i la vostra cap us ha demanat que li faciliteu la relació de llocs de treball del Departament de la Presidència. Podeu tenir accés a aquesta relació de llocs de treball?[note]a) Sí, sempre que la demani al Departament de la Presidència.[/note][note]b) Sí, perquè és pública.[/note][note]c) No, perquè només es pot disposar de la relació de llocs de treball del seu Departament.[/note][note]d) Sí, però us l'ha de facilitar la Direcció General de Funció Pública.]",
+ "answer":"b) Sí, perquè és pública.",
+  "doctrina":""
+ },
+{
+ "id":91,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"91. El vostre cap us demana que tramiteu la creació d'un lloc de treball d'investigació. Quin tipus de lloc cal crear?[note]a) Un lloc de treball que pugui ser ocupat per personal funcionari.[/note][note]b) Un lloc de treball que pugui ser ocupat per personal laboral.[/note][note]c) Un lloc de treball que pugui ser ocupat indistintament tant per personal funcionari com per personal laboral.[/note][note]d) Un lloc de treball que pugui ser ocupat indistintament tant per personal funcionari com per personal interí.]",
+ "answer":"c) Un lloc de treball que pugui ser ocupat indistintament tant per personal funcionari com per personal laboral.",
+  "doctrina":""
+   },
+{
+ "id":92,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"92. Heu de preparar l'oferta d'ocupació pública de 2027 i us heu d'assegurar que, d'acord amb el TREBEP, es garanteixi l'accés a la funció pública de les persones amb discapacitat que tinguin reconeguda aquesta condició legal. Quin percentatge cal reservar a aquest efecte?[note]a) El 2%[/note][note]b) No inferior al 7 %[/note][note]c) El 3%[/note][note]d) No inferior al 5 %]",
+ "answer":"b) No inferior al 7 %",
+  "doctrina":""
+ },
+{
+ "id":93,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"93. Participeu en la revisió de sol·licituds d'un procés selectiu de la Generalitat. Us trobeu amb una persona ciutadana d'un Estat membre de la Unió Europea i heu de revisar el compliment del coneixement de les llengües oficials. On podeu consultar la indicació dels mitjans d'acreditació requerits per aquest procés selectiu?[note]a) A la convocatòria del procés selectiu corresponent.[/note][note]b) A l'oferta d'ocupació pública de la qual derivi el procés selectiu.[/note][note]c) Al Decret 28/1986, de 30 de gener, de Reglament de selecció de personal de l'Administració de la Generalitat de Catalunya.[/note][note]d) Al Decret llei 1/1997, de 31 d'octubre, pel qual s'aprova la refosa en un Text únic dels preceptes de determinats textos legals vigents a Catalunya en matèria de funció pública.]",
+ "answer":"a) A la convocatòria del procés selectiu corresponent.",
+  "doctrina":""
+   },
+{
+ "id":94,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"94. Una persona us escriu a la bústia de recursos humans i comenta que es troba en situació de baixa per incapacitat temporal, la qual li impedeix gaudir de les vacances durant l'any natural. Us pregunta si les podrà gaudir més endavant i, en cas afirmatiu, quan. Què li respondríeu?[note]a) Que les vacances es consideren perdudes i no es poden gaudir posteriorment.[/note][note]b) Que es podran gaudir en qualsevol moment dins dels 12 mesos següents a l'any en què s'hagin originat.[/note][note]c) Que es podran gaudir en el moment de la reincorporació de la baixa, sempre que no hagin transcorregut més de 12 mesos a partir del final de l'any en què s'hagin originat.[/note][note]d) Que es podran gaudir en el moment de la reincorporació de la baixa, sempre que no hagin transcorregut més de 18 mesos a partir del final de l'any en què s'hagin originat.]",
+ "answer":"d) Que es podran gaudir en el moment de la reincorporació de la baixa, sempre que no hagin transcorregut més de 18 mesos a partir del final de l'any en què s'hagin originat.]",
+  "doctrina":""
+ },
+{
+ "id":95,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"95. Una treballadora està gaudint d'una excedència voluntària per tenir cura d'un fill, que finalitza al febrer de 2027. Mentre està d'excedència, al maig de 2026, té un segon fill. Es posa en contacte amb el Servei de Recursos Humans per consultar si, quan finalitzi l'excedència que està gaudint actualment al febrer de 2027, podrà sol·licitar una segona excedència per 3 anys més. Què li haurien de respondre?[note]a) Que es poden acumular dos períodes d'excedència en cas que s'esdevingui una nova causa, i podrà sol·licitar la segona excedència a partir del febrer de 2027.[/note][note]b) Que no es poden acumular dos períodes d'excedència en cas que s'esdevingui una nova causa, i no podrà sol·licitar la segona excedència.[/note][note]c) Que no es poden acumular dos períodes d'excedència en cas que s'esdevingui una nova causa. Si durant el període d'excedència un nou subjecte causant dona dret a un altre període d'excedència, l'inici d'aquest posa fi al primer; per tant, podrà sol·licitar la nova excedència al maig de 2026.[/note][note]d) Que no es poden acumular dos períodes d'excedència en cas que s'esdevingui una nova causa. Si durant el període d'excedència un nou subjecte causant dona dret a un altre període d'excedència, hi ha d'haver, almenys un any entre les excedències; per tant, podrà sol·licitar la nova excedència al febrer de 2028.]",
+ "answer":"c) Que no es poden acumular dos períodes d'excedència en cas que s'esdevingui una nova causa. Si durant el període d'excedència un nou subjecte causant dona dret a un altre període d'excedència, l'inici d'aquest posa fi al primer; per tant, podrà sol·licitar la nova excedència al maig de 2026.",
+  "doctrina":""
+   },
+{
+ "id":96,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"96. Esteu treballant al Servei de Recursos Humans del Departament de Salut i us arriba una consulta d'una persona treballadora que necessita una excedència per tenir cura de la seva sogra, que ha estat operada, que no es pot valer per si mateixa i que no pot exercir cap activitat retribuïda. Quina excedència li pot ser concedida?[note]a) Excedència voluntària per agrupació familiar, que es pot sol·licitar per una durada superior a 3 anys i mentre, per raons d'edat, accident, malaltia o discapacitat, la sogra no es pugui valdre per si mateixa i no desenvolupi cap activitat retribuïda.[/note][note]b) Excedència voluntària per tenir cura de familiars, per un període mínim de 3 mesos i màxim de 3 anys.[/note][note]c) Excedència voluntària per tenir cura de familiars, per un període mínim de 10 dies i màxim de 3 mesos, prorrogable, excepcionalment, fins a 3 mesos més.[/note][note]d) Excedència voluntària per tenir cura de familiars, per un període mínim de 6 mesos amb reserva del lloc de treball i màxim de 3 anys.]",
+ "answer":"b) Excedència voluntària per tenir cura de familiars, per un període mínim de 3 mesos i màxim de 3 anys.",
+  "doctrina":""
+ },
+{
+ "id":97,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"97. Sou tècnic superior i treballeu a l'Assessoria Jurídica del Departament de la Presidència. El vostre cap està resolent un procediment i us pregunta quina validesa tenen les inscripcions de representacions. Té dubtes sobre una inscripció realitzada l'1 de desembre de 2022. Què li respondríeu?[note]a) No és vàlida. Els apoderaments inscrits tenen una validesa màxima de 3 anys a comptar de la data d'inscripció.[/note][note]b) És vàlida. Els apoderaments inscrits tenen una validesa màxima de 4 anys a comptar de la data d'inscripció.[/note][note]c) És vàlida. Els apoderaments inscrits tenen una validesa màxima de 5 anys a comptar de la data d'inscripció.[/note][note]d) No és valida. Els apoderaments inscrits tenen una validesa màxima de 2 anys a comptar de la data d'inscripció.]",
+ "answer":"c) És vàlida. Els apoderaments inscrits tenen una validesa màxima de 5 anys a comptar de la data d'inscripció.",
+  "doctrina":""
+   },
+{
+ "id":98,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"98. Treballeu en una unitat directiva que presta serveis finalistes i us ha encarregat la tramitació de l'elaboració de la carta de serveis. Un cop ja està elaborada, com s'ha de trametre per a la seva aprovació?[note]a) Mitjançant una ordre de la persona titular del departament competent del servei que n'és objecte.[/note][note]b) Mitjançant una resolució de la persona titular del departament competent del servei que n'és objecte.[/note][note]c) Mitjançant una resolució de la persona titular de l'òrgan o àrea funcional departamental competent en matèria de qualitat dels serveis públics.[/note][note]d) Mitjançant una ordre de la persona titular de l'òrgan o àrea funcional departamental competent en matèria de qualitat dels serveis públics.]",
+ "answer":"b) Mitjançant una resolució de la persona titular del departament competent del servei que n'és objecte.",
+  "doctrina":""
+ },
+{
+ "id":99,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"99. Després d'implementar una carta de serveis, a la Direcció General on treballeu, rebeu propostes d'actuació i suggeriments per part de la ciutadania. Què se n'ha de fer d'aquestes aportacions?[note]a) Conservar-les internament com a part de la documentació, sense fer-les públiques, i valorar-les amb els indicadors que hi estan associats.[/note][note]b) Donar a conèixer de manera anonimitzada aquestes propostes i suggeriments, i reconèixer i fer públiques les iniciatives que aporten una millora substancial.[/note][note]c) Donar accés només a les propostes i suggeriments aprovats per un òrgan intern.[/note][note]d) Donar resposta personalment a cada ciutadà o ciutadana, però no publicar-les.]",
+ "answer":"b) Donar a conèixer de manera anonimitzada aquestes propostes i suggeriments, i reconèixer i fer públiques les iniciatives que aporten una millora substancial.",
+  "doctrina":""
+   },
+{
+ "id":100,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"100. Treballeu al Departament de Justícia i Qualitat Democràtica i cal tramitar una consulta popular no referendària que va convocar l'Ajuntament de Gósol el passat 7 de desembre de 2025, on es formulava la pregunta següent: Esteu d'acord que el municipi de Gósol sol·liciti el canvi de província i s'integri a la província de Barcelona?. Com es defineix el resultat d'aquesta consulta?[note]a) Preceptiu[/note][note]b) No preceptiu[/note][note]c) No vinculant[/note][note]d) Vinculant]",
+ "answer":"c) No vinculant",
+  "doctrina":""
+ },
+{
+ "id":101,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"101. Treballeu a l'Assessoria Jurídica del Departament de la Presidència i rebeu una trucada de la senyora Joana Casamajor. Vol saber què valora l'Administració per iniciar un procés participatiu en relació amb una iniciativa normativa. L'informeu que aquest dret es pot exercir amb relació a les iniciatives normatives pertinents:[note]a) Quan afecten fins a 50.000 persones.[/note][note]b) Per la importància o la matèria que regulen.[/note][note]c) Quan afecten més de 50.000 persones.[/note][note]d) Quan afecten determinats col·lectius.]",
+ "answer":"b) Per la importància o la matèria que regulen.",
+  "doctrina":""
+   },
+{
+ "id":102,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"102. La senyora Elisa Font utilitza la bústia de contacte del Departament de Drets Socials i Inclusió, ja que vol informació per participar en una consulta pública prèvia a l'elaboració del projecte de decret del Fons d'atenció solidària de subministraments bàsics. On l'indiqueu que el pot consultar?[note]a) AI DOGC on s'hagi publicat el projecte normatiu.[/note][note]b) Al Portal de Transparència.[/note][note]c) A l'e-Tauler.[/note][note]d) Al Portal processosparticipatius.cat]",
+ "answer":"b) Al Portal de Transparència.",
+  "doctrina":""
+ },
+{
+ "id":103,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"103. Us heu incorporat al Departament d'Empresa i Treball. Quan porteu uns dies treballant, teniu accés a una aplicació específica del vostre Departament. En connectar-vos, se us obre una finestra on podeu autoritzar múltiples permisos. Autoritzeu únicament la instal·lació del micròfon; això vol dir que l'aplicació pot:[note]a) Escoltar; per això cal assegurar-se que l'objectiu per a l'enregistrament és legítim.[/note][note]b) Accedir a l'historial de les gravacions emmagatzemades del sistema.[/note][note]c) Activar les funcions de reconeixement de veu sense accedir directament a l'àudio.[/note][note]d) Identificar si hi ha algun dispositiu d'àudio connectat.]",
+ "answer":"a) Escoltar; per això cal assegurar-se que l'objectiu per a l'enregistrament és legítim.",
+  "doctrina":""
+   },
+{
+ "id":104,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"104. Formeu part d'un equip virtual al Departament d'Economia i Finances. Tots els membres de l'equip virtual decidiu establir normes per a l'ús dels mitjans tecnològics. Segons Leading virtual teams, publicació de la Harvard Business Review, les decisions a prendre són d'àmbits com:[note]a) Encerts tecnològics[/note][note]b) Subordinació[/note][note]c) Idioma[/note][note]d) Llenguatge no compartit]",
+ "answer":"c) Idioma",
+  "doctrina":""
+ },
+{
+ "id":105,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"105. Treballeu a l'Agència Catalana del Consum. El vostre cap vol crear un formulari per tramitar una denúncia i us pregunta si ha de fer un formulari PDF o un formulari HTML. Què li respondríeu?[note]a) Un formulari web HTML perquè es pot editar directament al web.[/note][note]b) Un formulari web HTML, però no permet annexar fitxers.[/note][note]c) Un formulari PDF perquè dona missatges d'error en temps real.[/note][note]d) Un formulari PDF perquè s'omple directament des del web sense descarregar-lo.]",
+ "answer":"a) Un formulari web HTML perquè es pot editar directament al web.",
+  "doctrina":""
+   },
+{
+ "id":106,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"106. Treballeu al Departament d'Empresa i Treball i un usuari us consulta sobre què pot fer mitjançant el servei de videoatenció. Li respondríeu que pot:[note]a) Rebre informació, però no pot presentar una petició genèrica.[/note][note]b) Consultar l'estat dels seus expedients, però no pot presentar una petició genèrica.[/note][note]c) Rebre ajuda per presentar una petició genèrica per videoatenció i intercanviar documentació mitjançant el xat de la videoatenció.[/note][note]d) Rebre ajuda per presentar una petició genèrica per videoatenció, tot i que no es pot intercanviar documentació mitjançant el xat de la videoatenció.]",
+ "answer":"c) Rebre ajuda per presentar una petició genèrica per videoatenció i intercanviar documentació mitjançant el xat de la videoatenció.",
+  "doctrina":""
+ },
+{
+ "id":107,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"107. Treballeu com a tècnic superior a l'Agència d'Habitatge de Catalunya i tramiteu subvencions per al pagament del lloguer o la cessió d'ús per a persones de 36 a 64 anys. Esteu fent tasques de verificació del compliment de requisits i una de les comprovacions que heu de fer és consultar la PICA per assegurar-vos que els ingressos de la unitat de convivència no superen els 25.200€. Tots els accessos a les dades dels diferents serveis dins de la PICA estan subjectes a possibles actuacions de verificació i auditoria en matèria de seguretat i interoperabilitat. En quin moment es duen a terme aquestes actuacions?[note]a) Prèviament, abans de la consulta, amb caràcter preceptiu.[/note][note]b) Mentre esteu realitzant la consulta, amb caràcter preceptiu.[/note][note]c) En qualsevol moment, sense perjudici de les accions específiques de revisió i control de les declaracions.[/note][note]d) En acabar la consulta, amb caràcter preceptiu; s'activa la finestra que verifica les vostres dades d'empleat.]",
+ "answer":"c) En qualsevol moment, sense perjudici de les accions específiques de revisió i control de les declaracions.",
+  "doctrina":""
+   },
+{
+ "id":108,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"108. Treballeu a la Comissió d'Assistència Jurídica Gratuïta i rebeu una impugnació que arriba mitjançant petició genèrica contra una resolució desfavorable a una persona física, a la qual se li denega el dret i que heu de tramitar. Abans de passar la impugnació al Gabinet Jurídic, us adoneu que la persona recurrent no és la mateixa que la persona a qui se li ha denegat el dret. D'acord amb l'article 5.5 de la Llei 39/2015, d'1 d'octubre, del procediment administratiu comú de les administracions públiques, a qui correspon incorporar a l'expedient administratiu l'acreditació de la condició de representant que consti en el Registre electrònic d'apoderaments?[note]a) A l'òrgan competent per tramitar.[/note][note]b) A l'òrgan competent per resoldre.[/note][note]c) A l'òrgan judicial.[/note][note]d) Al vostre superior jeràrquic.]",
+ "answer":"a) A l'òrgan competent per tramitar.",
+  "doctrina":""
+ },
+{
+ "id":109,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"109. El Centre de Telecomunicacions i Tecnologies de la Informació (CTTI), entitat de dret públic de la Generalitat de Catalunya, necessita adquirir un programa d'ordinador antivirus desenvolupat a mida, per subministrar als departaments de la Generalitat. Com a responsable de contractació de l'entitat, com qualificaríeu el contracte?[note]a) Contracte de concessió de serveis.[/note][note]b) Contracte de subministrament.[/note][note]c) Contracte de serveis.[/note][note]d) Contracte mixt de subministrament i serveis.]",
+ "answer":"c) Contracte de serveis.",
+  "doctrina":""
+   },
+{
+ "id":110,
+ "sector":"871- Test pràctic- part específica - 27-5-26",
+ "question":"110. Avui heu consolidat el grau 24. Quina modalitat de promoció professional s'ha aplicat?[note]a) Carrera horitzontal[/note][note]b) Carrera vertical[/note][note]c) Promoció interna vertical[/note][note]d) Promoció interna horitzontal]",
+ "answer":"a) Carrera horitzontal",
+  "doctrina":""
+ }
 ]
