@@ -94,11 +94,21 @@
             width: 90%;
         }
 
-        .card-content {
-            font-size: 1.3rem;
-            font-weight: bold;
-            line-height: 1.4;
-            color: #2980b9;
+.card-content {
+    font-size: 1.3rem;
+    font-weight: bold;
+    line-height: 1.4;
+    color: #2980b9;
+
+    width: 100%;
+    max-height: 320px;
+    overflow-y: auto;
+    padding-right: 8px;
+    text-align: left;
+
+    word-break: break-word;
+    overflow-wrap: break-word;
+}
                     
     width: 100%;
         }
